@@ -10,11 +10,4 @@ Run the app by running `npm run dev`. The server will be hosted at [http://local
 
 ## Deploying
 
-This repo makes use of the [gh-pages](https://www.npmjs.com/package/gh-pages) NPM package to deploy the application. The following elements are configured:
-
-- A `homepage` property in `package.json`, which defines the deployed URL
-- `predeploy` and `deploy` scripts in `package.json`, which define the deployment commands
-- A `gh-pages` branch on the repo, which deployments are pushed to
-- Configuration on the repo to deploy automatically
-
-The deployed page can be found [here](https://assassinsgreed.github.io/pokemon-amethyst-helper/).
+This repo makes use of GitHub actions to automatically deploy the application whenever a change is pushed to the main branch. This is configured in the `./.github/workflows/nextjs.yml` yaml chart.

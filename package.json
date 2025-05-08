@@ -1,15 +1,12 @@
 {
   "name": "pokemon-amethyst-helper",
   "version": "0.1.0",
-  "homepage": "https://assassinsgreed.github.io/pokemon-amethyst-helper/",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d public"
   },
   "dependencies": {
     "next": "15.3.2",
@@ -24,7 +21,6 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "15.3.2",
-    "gh-pages": "^6.3.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
