@@ -88,9 +88,13 @@ jobs:
       - name: Build with Next.js
         run: |
           if [ "$PR_PREVIEW_PATH" != "" ]; then
-            npx next build && cp -r .next "out-$PR_PREVIEW_PATH"
+            export PR_PREVIEW_PATH=$PR_PREVIEW_PATH
+            ${{ steps.detect-package-manager.outputs.runner }} next build
+            mkdir out-$PR_PREVIEW_PATH
+            ${{ steps.detect-package-manager.outputs.runner }} next export -o out-$PR_PREVIEW_PATH
           else
             ${{ steps.detect-package-manager.outputs.runner }} next build
+            ${{ steps.detect-package-manager.outputs.runner }} next export
           fi
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
