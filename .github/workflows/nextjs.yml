@@ -8,6 +8,9 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
+  # Runs on pull requests targeting the default branch
+  pull_request:
+    branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -36,6 +39,7 @@ jobs:
       NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID: ${{ secrets.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID }}
       NEXT_PUBLIC_FIREBASE_APP_ID: ${{ secrets.NEXT_PUBLIC_FIREBASE_APP_ID }}
       NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID: ${{ secrets.NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID }}
+      PR_PREVIEW_PATH: ${{ github.event_name == 'pull_request' && format('pr-{0}', github.event.pull_request.number) || '' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -82,14 +86,20 @@ jobs:
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
       - name: Build with Next.js
-        run: ${{ steps.detect-package-manager.outputs.runner }} next build
+        run: |
+          if [ "$PR_PREVIEW_PATH" != "" ]; then
+            npx next build && npx next export -o out && mv out "out-$PR_PREVIEW_PATH"
+          else
+            ${{ steps.detect-package-manager.outputs.runner }} next build
+          fi
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./out
+          path: ${{ env.PR_PREVIEW_PATH != '' && format('./out-{0}', env.PR_PREVIEW_PATH) || './out' }}
 
   # Deployment job
   deploy:
+    if: github.event_name != 'pull_request' || github.event.action == 'closed'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -99,3 +109,10 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  cleanup-preview:
+    if: github.event_name == 'pull_request' && github.event.action == 'closed'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cleanup PR Preview
+        run: echo "PR preview for PR #${{ github.event.pull_request.number }} should be removed. Manual cleanup may be required for GitHub Pages."
