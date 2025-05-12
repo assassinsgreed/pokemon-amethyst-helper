@@ -111,7 +111,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
       - name: Echo Deployment URL
-        run: echo "PR Preview deployed to: $URL
+        run: echo "PR Preview deployed to: $URL"
 
   cleanup-preview:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
