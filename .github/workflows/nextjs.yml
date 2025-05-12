@@ -91,7 +91,7 @@ jobs:
           ${{ steps.detect-package-manager.outputs.runner }} next build
           export URL=
           if [ "${{ github.event_name }}" = "pull_request" ]; then
-            URL=$URL + ${{ env.PR_PREVIEW_PATH }}
+            URL="${URL}${PR_PREVIEW_PATH}"
           fi
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
