@@ -90,8 +90,8 @@ jobs:
           if [ "$PR_PREVIEW_PATH" != "" ]; then
             export PR_PREVIEW_PATH=$PR_PREVIEW_PATH
             ${{ steps.detect-package-manager.outputs.runner }} next build
-            mkdir out-$PR_PREVIEW_PATH
-            ${{ steps.detect-package-manager.outputs.runner }} next export -o out-$PR_PREVIEW_PATH
+            ${{ steps.detect-package-manager.outputs.runner }} next export
+            mv out out-$PR_PREVIEW_PATH
           else
             ${{ steps.detect-package-manager.outputs.runner }} next build
             ${{ steps.detect-package-manager.outputs.runner }} next export
