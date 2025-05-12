@@ -110,6 +110,12 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Echo Deployment URL
+        run: |
+          if [ "$PR_PREVIEW_PATH" != "" ]; then
+            echo "PR Preview deployed to: ${{ steps.deployment.outputs.page_url }}/${PR_PREVIEW_PATH}/"
+          else
+            echo "Production deployed to: ${{ steps.deployment.outputs.page_url }}"
 
   cleanup-preview:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
