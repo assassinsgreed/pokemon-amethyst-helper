@@ -89,7 +89,7 @@ jobs:
       - name: Build with Next.js
         run: |
           ${{ steps.detect-package-manager.outputs.runner }} next build
-          if [ "${{ github.event_name == 'pull_request' ]; then
+          if [ "${{ github.event_name }}" == "pull_request" ]; then
             URL="${{ steps.deployment.outputs.page_url }}${PR_PREVIEW_PATH}"
           else 
             URL=${{ steps.deployment.outputs.page_url }}
@@ -111,7 +111,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
       - name: Echo Deployment URL
-        run: echo "PR Preview deployed to: $URL"
+        run: echo "PR Preview deployed to: ${{ URL }}"
 
   cleanup-preview:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
