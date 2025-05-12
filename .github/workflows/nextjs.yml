@@ -89,9 +89,10 @@ jobs:
       - name: Build with Next.js
         run: |
           ${{ steps.detect-package-manager.outputs.runner }} next build
-          export URL=
-          if [ "${{ github.event_name }}" = "pull_request" ]; then
-            URL="${URL}${PR_PREVIEW_PATH}"
+          if [ "${{ github.event_name == 'pull_request' ]; then
+            URL="${{ steps.deployment.outputs.page_url }}${PR_PREVIEW_PATH}"
+          else 
+            URL=${{ steps.deployment.outputs.page_url }}
           fi
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -110,12 +111,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
       - name: Echo Deployment URL
-        run: |
-          if [ "${{ github.event_name }}" = "pull_request" ]; then
-            echo "PR Preview deployed to: ${{ steps.deployment.outputs.page_url }}/${{ env.PR_PREVIEW_PATH }}/"
-          else
-            echo "Production deployed to: ${{ steps.deployment.outputs.page_url }}"
-          fi
+        run: echo "PR Preview deployed to: $URL
 
   cleanup-preview:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
