@@ -88,7 +88,7 @@ jobs:
       - name: Build with Next.js
         run: |
           if [ "$PR_PREVIEW_PATH" != "" ]; then
-            ${{ steps.detect-package-manager.outputs.runner }} build && ${{ steps.detect-package-manager.outputs.runner }} export --outdir out && mv out "out-$PR_PREVIEW_PATH"
+            npx next build && cp -r .next "out-$PR_PREVIEW_PATH"
           else
             ${{ steps.detect-package-manager.outputs.runner }} next build
           fi
