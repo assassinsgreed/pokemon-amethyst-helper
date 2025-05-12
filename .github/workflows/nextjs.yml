@@ -99,7 +99,6 @@ jobs:
 
   # Deployment job
   deploy:
-    if: github.event_name != 'pull_request' || github.event.action == 'closed'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
