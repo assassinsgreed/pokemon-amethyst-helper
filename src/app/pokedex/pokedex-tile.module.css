@@ -1,4 +1,4 @@
-:root {
+:global(:root) {
     --type_Normal: rgba(168, 168, 120, 0.75);
     --type_Fighting: rgba(192, 48, 40, 0.75);
     --type_Flying: rgba(168, 144, 240, 0.75);
@@ -31,13 +31,13 @@
     justify-content: center;
     user-select: none;
     /* Background gradient set by JavaScript */
-
-    &:hover {
-        background: rgba(255, 255, 255, 0.5);
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        cursor: pointer;
-    }
 }
+.pokedex-tile:hover {
+    background: rgba(255, 255, 255, 0.5);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+
 .pokedex-tile__icon {
     width: 48px;
     height: 48px;
