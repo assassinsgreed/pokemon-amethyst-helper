@@ -13,7 +13,7 @@ export default async function Home() {
   return (
     <>
     <div className="centered">
-      <h1>TESTING PREVIEW</h1>
+      <h1>TESTING PREVIEW IN PR</h1>
     </div>
     </>
   );
