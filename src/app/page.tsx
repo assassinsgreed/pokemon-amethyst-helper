@@ -1,6 +1,6 @@
-import { Pokemon } from "@/models/pokemon";
-import { firebaseService } from "@/services/firebase-service";
-import PokedexTile from "./pokedex/pokedex-tile";
+// import { Pokemon } from "@/models/pokemon";
+// import { firebaseService } from "@/services/firebase-service";
+// import PokedexTile from "./pokedex/pokedex-tile";
 
 export default async function Home() {
   // let pokemonListHtml: React.ReactNode[] = [];
