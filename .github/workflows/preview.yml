@@ -31,7 +31,7 @@ jobs:
         if: github.event.action != 'closed'
       - uses: rossjrw/pr-preview-action@v1
         with:
-          source-dir: build
+          source-dir: out
           preview-branch: gh-pages
           umbrella-dir: pr-preview
           action: auto
