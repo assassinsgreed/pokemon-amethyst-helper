@@ -24,13 +24,6 @@ jobs:
       - name: Clean build output
         if: github.event.action != 'closed'
         run: rm -rf .next out
-      - name: Move all static assets from src/app to public
-        if: github.event.action != 'closed'
-        shell: bash
-        run: |
-          if [ -d src/app ]; then
-            find src/app -maxdepth 1 -type f \( -name '*.ico' -o -name '*.svg' -o -name '*.png' -o -name '*.jpg' -o -name '*.jpeg' -o -name '*.gif' -o -name '*.css' \) -exec mv -f {} public/ \;
-          fi
       - name: Set PR base path
         if: github.event.action != 'closed'
         run: echo "NEXT_PUBLIC_PR_BASE_PATH=/pr-preview/pr-${{ github.event.pull_request.number }}" >> $GITHUB_ENV
