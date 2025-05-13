@@ -18,6 +18,11 @@ This repo makes use of GitHub actions to automatically deploy the application wh
 
 The build and deployment history can be found in GitHub [here](https://github.com/assassinsgreed/pokemon-amethyst-helper/actions/workflows/nextjs.yml).
 
+This repo makes use of PR previews which are automatically scaffolded and destroyed as PRs are opened, updated, and closed. To achieve this, I had to make some rather ugly changes:
+
+- NextJS now deploys static contents
+- The stylesheets are now referenced directly in the generated HTML's `<head>` tag, instead of being being intelligently bundled
+
 ## Credits
 
 The following free resources were used when developing this webpage:
