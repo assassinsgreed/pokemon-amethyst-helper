@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[974],{835:e=>{e.exports={"pokedex-tile":"pokedex-tile_pokedex-tile__B_v4W","pokedex-tile__icon":"pokedex-tile_pokedex-tile__icon__ZB1Lq"}},3395:(e,_,o)=>{Promise.resolve().then(o.t.bind(o,3063,23)),Promise.resolve().then(o.t.bind(o,835,23))}},e=>{var _=_=>e(e.s=_);e.O(0,[992,63,441,684,358],()=>_(3395)),_N_E=e.O()}]);
