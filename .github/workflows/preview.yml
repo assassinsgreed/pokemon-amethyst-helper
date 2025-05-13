@@ -18,10 +18,12 @@ jobs:
       NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID: ${{ secrets.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID }}
       NEXT_PUBLIC_FIREBASE_APP_ID: ${{ secrets.NEXT_PUBLIC_FIREBASE_APP_ID }}
       NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID: ${{ secrets.NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID }}
-      PR_PREVIEW_PATH: ${{ github.event_name == 'pull_request' && format('pr-{0}', github.event.pull_request.number) || '' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Set PR base path
+        if: github.event.action != 'closed'
+        run: echo "NEXT_PUBLIC_PR_BASE_PATH=/pr-preview/pr-${{ github.event.pull_request.number }}" >> $GITHUB_ENV
       - run: npm i && npm run build
         if: github.event.action != 'closed'
       - uses: rossjrw/pr-preview-action@v1
