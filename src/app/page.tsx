@@ -13,12 +13,7 @@ export default async function Home() {
   return (
     <>
     <div className="centered">
-      <h1>Pokemon Amethyst Helper</h1>
-      {/* TODO Later: this should be it's own component */}
-      <div className="pokedex-container">
-        {pokemonListHtml}
-      </div>
-      <p>TODO: Everything</p>
+      <h1>TESTING PREVIEW</h1>
     </div>
     </>
   );
