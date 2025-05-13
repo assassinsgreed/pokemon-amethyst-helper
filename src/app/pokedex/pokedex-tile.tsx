@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { Pokemon } from "@/models/pokemon";
-import "./pokedex-tile.css";
+import styles from "./pokedex-tile.module.css";
 
 export default function PokedexTile({ pokemon }: { pokemon: Pokemon }) {
     const iconUrl = `https://projectpokemon.org/images/sprites-models/sv-sprites-home/${pokemon.national_pokedex_number.toString().padStart(4, "0")}.png`;
@@ -9,7 +9,7 @@ export default function PokedexTile({ pokemon }: { pokemon: Pokemon }) {
 
     return (
         <div
-            className="pokedex-tile"            
+            className={styles["pokedex-tile"]}
             style={{ backgroundImage: `linear-gradient(to bottom right, ${firstTypeColourVar}, ${secondTypeColourVar})` }}
         >
             <Image
@@ -17,7 +17,7 @@ export default function PokedexTile({ pokemon }: { pokemon: Pokemon }) {
                 alt={pokemon.name}
                 width={48}
                 height={48}
-                className="pokedex-tile__icon" />
+                className={styles["pokedex-tile__icon"]} />
             <b>{pokemon.name}</b>
         </div>
     );   
