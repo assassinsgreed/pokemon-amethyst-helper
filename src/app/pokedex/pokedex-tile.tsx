@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { Pokemon } from "@/models/pokemon";
-import "@public/styles/pokedex/pokedex-tile.css";
 
 export default function PokedexTile({ pokemon }: { pokemon: Pokemon }) {
     const iconUrl = `https://projectpokemon.org/images/sprites-models/sv-sprites-home/${pokemon.national_pokedex_number.toString().padStart(4, "0")}.png`;

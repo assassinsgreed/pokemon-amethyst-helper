@@ -1,24 +1,3 @@
-:root {
-    --type_Normal: rgba(168, 168, 120, 0.75);
-    --type_Fighting: rgba(192, 48, 40, 0.75);
-    --type_Flying: rgba(168, 144, 240, 0.75);
-    --type_Poison: rgba(160, 64, 160, 0.75);
-    --type_Ground: rgba(224, 192, 104, 0.75);
-    --type_Rock: rgba(184, 160, 56, 0.75);
-    --type_Bug: rgba(168, 184, 32, 0.75);
-    --type_Ghost: rgba(112, 88, 152, 0.75);
-    --type_Fire: rgba(240, 128, 48, 0.75);
-    --type_Water: rgba(104, 144, 240, 0.75);
-    --type_Grass: rgba(120, 200, 80, 0.75);
-    --type_Electric: rgba(248, 208, 48, 0.75);
-    --type_Psychic: rgba(248, 88, 136, 0.75);
-    --type_Ice: rgba(152, 216, 216, 0.75);
-    --type_Fairy: rgba(238, 153, 172, 0.75);
-    --type_Dragon: rgba(112, 56, 248, 0.75);
-    --type_Dark: rgba(112, 88, 72, 0.75);
-    --type_Steel: rgba(184, 184, 208, 0.75);
-}
-
 .pokedex-tile {
     margin: 5px;
     padding: 10px;

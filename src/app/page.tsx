@@ -18,7 +18,7 @@ export default async function Home() {
       <div className="pokedex-container">
         {pokemonListHtml}
       </div>
-      <p>Testing with deployment and firebase</p>
+      <p>TODO: Everything</p>
     </div>
     </>
   );
