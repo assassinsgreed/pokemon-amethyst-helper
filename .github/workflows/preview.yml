@@ -21,17 +21,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - name: Prepare Build Environment
         if: github.event.action != 'closed'
         run: |
           rm -rf .next out
           echo "NEXT_PUBLIC_PR_BASE_PATH=/pr-preview/pr-${{ github.event.pull_request.number }}" >> $GITHUB_ENV
-
       - name: Build Preview
         if: github.event.action != 'closed'
       - run: npm i && npm run build
-      
       - uses: rossjrw/pr-preview-action@v1
         with:
           source-dir: out
