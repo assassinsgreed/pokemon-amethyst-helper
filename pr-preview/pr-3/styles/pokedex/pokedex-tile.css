@@ -1,0 +1,26 @@
+.pokedex-tile {
+    margin: 5px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    width: 120px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    user-select: none;
+    /* Background gradient set by JavaScript */
+
+    &:hover {
+        background: rgba(255, 255, 255, 0.5);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        cursor: pointer;
+    }
+}
+
+.pokedex-tile__icon {
+    width: 68px;
+    height: 68px;
+    margin-bottom: 5px;
+}

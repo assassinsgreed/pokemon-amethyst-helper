@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --type_Normal: #a1a1a1bf;
+  --type_Fighting: #f08833bf;
+  --type_Flying: #8fb8e4bf;
+  --type_Poison: #6d4b97bf;
+  --type_Ground: #895229bf;
+  --type_Rock: #ada984bf;
+  --type_Bug: #95a135bf;
+  --type_Ghost: #6b426ebf;
+  --type_Fire: #d43a30bf;
+  --type_Water: #4c79bcbf;
+  --type_Grass: #5d9d3cbf;
+  --type_Electric: #f2c341bf;
+  --type_Psychic: #dc4d79bf;
+  --type_Ice: #78ccf0bf;
+  --type_Fairy: #ba7fb5bf;
+  --type_Dragon: #4c60a9bf;
+  --type_Dark: #6b426ebf;
+  --type_Steel: #6b426ebf;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #1a1a1a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+  color: #ddd;
+  font-size: 48px;
+  font-weight: bold;
+  margin: 20px 0;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.footer {
+  font-size: large;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.centered {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.pokedex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  max-width: 80%;
+  margin: auto;
+}
