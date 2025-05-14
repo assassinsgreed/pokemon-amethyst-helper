@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Build and Deploy
-      - run: npm i && npm run build
+        run: npm i && npm run build
       - uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: out
