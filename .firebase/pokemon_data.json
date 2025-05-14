@@ -1,0 +1,3512 @@
+[
+  {
+    "id": "001-bidoof",
+    "kulure_pokedex_number": 1,
+    "national_pokedex_number": 399,
+    "name": "Bidoof",
+    "type": ["Normal", null],
+    "abilities": ["Simple", "Unaware", "Moody"],
+    "base_stats": [59, 45, 40, 35, 40, 31]
+  },
+  {
+    "id": "002-bibarel",
+    "kulure_pokedex_number": 2,
+    "national_pokedex_number": 400,
+    "name": "Bibarel",
+    "type": ["Normal", "Water"],
+    "abilities": ["Simple", "Unaware", "Moody"],
+    "base_stats": [79, 85, 60, 55, 60, 71]
+  },
+  {
+    "id": "003-rookidee",
+    "kulure_pokedex_number": 3,
+    "national_pokedex_number": 821,
+    "name": "Rookidee",
+    "type": ["Flying", null],
+    "abilities": ["Keen Eye", "Unnerve", "Big Pecks"],
+    "base_stats": [38, 47, 35, 33, 35, 57]
+  },
+  {
+    "id": "004-corvisquire",
+    "kulure_pokedex_number": 4,
+    "national_pokedex_number": 822,
+    "name": "Corvisquire",
+    "type": ["Flying", null],
+    "abilities": ["Keen Eye", "Unnerve", "Big Pecks"],
+    "base_stats": [68, 67, 55, 43, 55, 77]
+  },
+  {
+    "id": "005-corviknight",
+    "kulure_pokedex_number": 5,
+    "national_pokedex_number": 823,
+    "name": "Corviknight",
+    "type": ["Flying", "Steel"],
+    "abilities": ["Pressure", "Unnerve", "Mirror Armor"],
+    "base_stats": [98, 87, 105, 53, 85, 67]
+  },
+  {
+    "id": "006-sunkern",
+    "kulure_pokedex_number": 6,
+    "national_pokedex_number": 191,
+    "name": "Sunkern",
+    "type": ["Grass", null],
+    "abilities": ["Chlorophyll", "Solar Power", "Early Bird"],
+    "base_stats": [30, 30, 30, 30, 30, 30]
+  },
+  {
+    "id": "007-sunflora",
+    "kulure_pokedex_number": 7,
+    "national_pokedex_number": 192,
+    "name": "Sunflora",
+    "type": ["Grass", null],
+    "abilities": ["Chlorophyll", "Solar Power", "Early Bird"],
+    "base_stats": [75, 75, 55, 105, 85, 30]
+  },
+  {
+    "id": "008-yamper",
+    "kulure_pokedex_number": 8,
+    "national_pokedex_number": 835,
+    "name": "Yamper",
+    "type": ["Electric", null],
+    "abilities": ["Ball Fetch", "None", "Rattled"],
+    "base_stats": [59, 45, 50, 40, 50, 26]
+  },
+  {
+    "id": "009-boltund",
+    "kulure_pokedex_number": 9,
+    "national_pokedex_number": 836,
+    "name": "Boltund",
+    "type": ["Electric", null],
+    "abilities": ["Strong Jaw", "None", "Competitive"],
+    "base_stats": [69, 90, 60, 90, 60, 121]
+  },
+  {
+    "id": "010-budew",
+    "kulure_pokedex_number": 10,
+    "national_pokedex_number": 406,
+    "name": "Budew",
+    "type": ["Grass", "Poison"],
+    "abilities": ["Natural Cure", "Poison Point", "Leaf Guard"],
+    "base_stats": [40, 30, 35, 50, 70, 55]
+  },
+  {
+    "id": "011-roselia",
+    "kulure_pokedex_number": 11,
+    "national_pokedex_number": 315,
+    "name": "Roselia",
+    "type": ["Grass", "Poison"],
+    "abilities": ["Natural Cure", "Poison Point", "Leaf Guard"],
+    "base_stats": [50, 60, 45, 100, 80, 65]
+  },
+  {
+    "id": "012-roserade",
+    "kulure_pokedex_number": 12,
+    "national_pokedex_number": 407,
+    "name": "Roserade",
+    "type": ["Grass", "Poison"],
+    "abilities": ["Natural Cure", "Poison Point", "Technician"],
+    "base_stats": [60, 70, 65, 125, 105, 90]
+  },
+  {
+    "id": "013-grubbin",
+    "kulure_pokedex_number": 13,
+    "national_pokedex_number": 736,
+    "name": "Grubbin",
+    "type": ["Bug", null],
+    "abilities": ["Swarm", null, null],
+    "base_stats": [47, 62, 45, 55, 45, 46]
+  },
+  {
+    "id": "014-charjabug",
+    "kulure_pokedex_number": 14,
+    "national_pokedex_number": 737,
+    "name": "Charjabug",
+    "type": ["Bug", "Electric"],
+    "abilities": ["Battery", null, null],
+    "base_stats": [57, 82, 95, 55, 75, 36]
+  },
+  {
+    "id": "015-vikavolt",
+    "kulure_pokedex_number": 15,
+    "national_pokedex_number": 738,
+    "name": "Vikavolt",
+    "type": ["Bug", "Electric"],
+    "abilities": ["Levitate", null, null],
+    "base_stats": [77, 70, 90, 145, 75, 43]
+  },
+  {
+    "id": "016-rockruff",
+    "kulure_pokedex_number": 16,
+    "national_pokedex_number": 744,
+    "name": "Rockruff",
+    "type": ["Rock", null],
+    "abilities": ["Keen Eye", "Vital Spirit", "Steadfast"],
+    "base_stats": [45, 65, 40, 30, 40, 60]
+  },
+  {
+    "id": "017-lycanroc",
+    "kulure_pokedex_number": 17,
+    "national_pokedex_number": 745,
+    "name": "Lycanroc",
+    "type": ["Rock", null],
+    "abilities": ["Keen Eye", "Sand Rush", "Steadfast"],
+    "base_stats": [75, 115, 65, 55, 65, 112]
+  },
+  {
+    "id": "018-nickit",
+    "kulure_pokedex_number": 18,
+    "national_pokedex_number": 827,
+    "name": "Nickit",
+    "type": ["Dark", null],
+    "abilities": ["Run Away", "Unburden", "Stakeout"],
+    "base_stats": [40, 28, 28, 47, 52, 50]
+  },
+  {
+    "id": "019-thievul",
+    "kulure_pokedex_number": 19,
+    "national_pokedex_number": 828,
+    "name": "Thievul",
+    "type": ["Dark", null],
+    "abilities": ["Run Away", "Unburden", "Stakeout"],
+    "base_stats": [70, 58, 58, 87, 92, 90]
+  },
+  {
+    "id": "020-nidoran-m",
+    "kulure_pokedex_number": 20,
+    "national_pokedex_number": 32,
+    "name": "Nidoran-M",
+    "type": ["Poison", null],
+    "abilities": ["Poison Point", "Rivalry", "Hustle"],
+    "base_stats": [46, 57, 40, 40, 40, 50]
+  },
+  {
+    "id": "021-nidorino",
+    "kulure_pokedex_number": 21,
+    "national_pokedex_number": 33,
+    "name": "Nidorino",
+    "type": ["Poison", null],
+    "abilities": ["Poison Point", "Rivalry", "Hustle"],
+    "base_stats": [61, 72, 57, 55, 55, 65]
+  },
+  {
+    "id": "022-nidoking",
+    "kulure_pokedex_number": 22,
+    "national_pokedex_number": 34,
+    "name": "Nidoking",
+    "type": ["Poison", "Ground"],
+    "abilities": ["Poison Point", "Rivalry", "Sheer Force"],
+    "base_stats": [81, 102, 77, 85, 75, 85]
+  },
+  {
+    "id": "023-blipbug",
+    "kulure_pokedex_number": 23,
+    "national_pokedex_number": 824,
+    "name": "Blipbug",
+    "type": ["Bug", null],
+    "abilities": ["Swarm", "Compound Eyes", "Telepathy"],
+    "base_stats": [25, 20, 20, 25, 45, 45]
+  },
+  {
+    "id": "024-dottler",
+    "kulure_pokedex_number": 24,
+    "national_pokedex_number": 825,
+    "name": "Dottler",
+    "type": ["Bug", "Psychic"],
+    "abilities": ["Swarm", "Compound Eyes", "Telepathy"],
+    "base_stats": [50, 35, 80, 50, 90, 30]
+  },
+  {
+    "id": "025-orbeetle",
+    "kulure_pokedex_number": 25,
+    "national_pokedex_number": 826,
+    "name": "Orbeetle",
+    "type": ["Bug", "Psychic"],
+    "abilities": ["Swarm", "Frisk", "Telepathy"],
+    "base_stats": [60, 45, 110, 80, 120, 90]
+  },
+  {
+    "id": "026-pikipek",
+    "kulure_pokedex_number": 26,
+    "national_pokedex_number": 731,
+    "name": "Pikipek",
+    "type": ["Normal", "Flying"],
+    "abilities": ["Keen Eye", "Skill Link", "Pickup"],
+    "base_stats": [35, 75, 30, 30, 30, 65]
+  },
+  {
+    "id": "027-trumbeak",
+    "kulure_pokedex_number": 27,
+    "national_pokedex_number": 732,
+    "name": "Trumbeak",
+    "type": ["Normal", "Flying"],
+    "abilities": ["Keen Eye", "Skill Link", "Pickup"],
+    "base_stats": [55, 85, 50, 40, 50, 75]
+  },
+  {
+    "id": "028-toucannon",
+    "kulure_pokedex_number": 28,
+    "national_pokedex_number": 733,
+    "name": "Toucannon",
+    "type": ["Normal", "Flying"],
+    "abilities": ["Keen Eye", "Skill Link", "Sheer Force"],
+    "base_stats": [80, 120, 75, 75, 75, 60]
+  },
+  {
+    "id": "029-morelull",
+    "kulure_pokedex_number": 29,
+    "national_pokedex_number": 755,
+    "name": "Morelull",
+    "type": ["Grass", "Fairy"],
+    "abilities": ["Illuminate", "Effect Spore", "Rain Dish"],
+    "base_stats": [40, 35, 55, 65, 75, 15]
+  },
+  {
+    "id": "030-shiinotic",
+    "kulure_pokedex_number": 30,
+    "national_pokedex_number": 756,
+    "name": "Shiinotic",
+    "type": ["Grass", "Fairy"],
+    "abilities": ["Illuminate", "Effect Spore", "Rain Dish"],
+    "base_stats": [60, 45, 80, 90, 100, 30]
+  },
+  {
+    "id": "031-hoothoot",
+    "kulure_pokedex_number": 31,
+    "national_pokedex_number": 163,
+    "name": "Hoothoot",
+    "type": ["Normal", "Flying"],
+    "abilities": ["Insomnia", "Keen Eye", "Tinted Lens"],
+    "base_stats": [60, 30, 30, 36, 56, 50]
+  },
+  {
+    "id": "032-noctowl",
+    "kulure_pokedex_number": 32,
+    "national_pokedex_number": 164,
+    "name": "Noctowl",
+    "type": ["Normal", "Flying"],
+    "abilities": ["Insomnia", "Keen Eye", "Tinted Lens"],
+    "base_stats": [100, 50, 50, 86, 96, 70]
+  },
+  {
+    "id": "033-pichu",
+    "kulure_pokedex_number": 33,
+    "national_pokedex_number": 172,
+    "name": "Pichu",
+    "type": ["Electric", null],
+    "abilities": ["Static", null, "Lightning Rod"],
+    "base_stats": [20, 40, 15, 35, 35, 60]
+  },
+  {
+    "id": "034-pikachu",
+    "kulure_pokedex_number": 34,
+    "national_pokedex_number": 25,
+    "name": "Pikachu",
+    "type": ["Electric", null],
+    "abilities": ["Static", null, "Lightning Rod"],
+    "base_stats": [35, 55, 40, 50, 50, 90]
+  },
+  {
+    "id": "035-raichu",
+    "kulure_pokedex_number": 35,
+    "national_pokedex_number": 26,
+    "name": "Raichu",
+    "type": ["Electric", null],
+    "abilities": ["Static", null, "Lightning Rod"],
+    "base_stats": [60, 90, 55, 90, 80, 110]
+  },
+  {
+    "id": "036-buneary",
+    "kulure_pokedex_number": 36,
+    "national_pokedex_number": 427,
+    "name": "Buneary",
+    "type": ["Normal", null],
+    "abilities": ["Run Away", "Klutz", "Limber"],
+    "base_stats": [55, 66, 44, 44, 56, 85]
+  },
+  {
+    "id": "037-lopunny",
+    "kulure_pokedex_number": 37,
+    "national_pokedex_number": 428,
+    "name": "Lopunny",
+    "type": ["Normal", null],
+    "abilities": ["Cute Charm", "Klutz", "Limber"],
+    "base_stats": [65, 76, 84, 54, 96, 105]
+  },
+  {
+    "id": "038-shroomish",
+    "kulure_pokedex_number": 38,
+    "national_pokedex_number": 285,
+    "name": "Shroomish",
+    "type": ["Grass", null],
+    "abilities": ["Effect Spore", "Poison Heal", "Quick Feet"],
+    "base_stats": [60, 40, 60, 40, 60, 35]
+  },
+  {
+    "id": "039-breloom",
+    "kulure_pokedex_number": 39,
+    "national_pokedex_number": 286,
+    "name": "Breloom",
+    "type": ["Grass", "Fighting"],
+    "abilities": ["Effect Spore", "Poison Heal", "Technician"],
+    "base_stats": [60, 130, 80, 60, 60, 70]
+  },
+  {
+    "id": "040-bonsly",
+    "kulure_pokedex_number": 40,
+    "national_pokedex_number": 438,
+    "name": "Bonsly",
+    "type": ["Rock", null],
+    "abilities": ["Sturdy", "Rock Head", "Rattled"],
+    "base_stats": [50, 80, 95, 10, 45, 10]
+  },
+  {
+    "id": "041-sudowoodo",
+    "kulure_pokedex_number": 41,
+    "national_pokedex_number": 185,
+    "name": "Sudowoodo",
+    "type": ["Rock", null],
+    "abilities": ["Sturdy", "Rock Head", "Rattled"],
+    "base_stats": [70, 100, 115, 30, 65, 30]
+  },
+  {
+    "id": "042-venipede",
+    "kulure_pokedex_number": 42,
+    "national_pokedex_number": 543,
+    "name": "Venipede",
+    "type": ["Bug", "Poison"],
+    "abilities": ["Poison Point", "Swarm", "Speed Boost"],
+    "base_stats": [30, 45, 59, 30, 39, 57]
+  },
+  {
+    "id": "043-whirlipede",
+    "kulure_pokedex_number": 43,
+    "national_pokedex_number": 544,
+    "name": "Whirlipede",
+    "type": ["Bug", "Poison"],
+    "abilities": ["Poison Point", "Swarm", "Speed Boost"],
+    "base_stats": [40, 55, 99, 40, 79, 47]
+  },
+  {
+    "id": "044-scolipede",
+    "kulure_pokedex_number": 44,
+    "national_pokedex_number": 545,
+    "name": "Scolipede",
+    "type": ["Bug", "Poison"],
+    "abilities": ["Poison Point", "Swarm", "Speed Boost"],
+    "base_stats": [60, 100, 89, 55, 69, 112]
+  },
+  {
+    "id": "045-slakoth",
+    "kulure_pokedex_number": 45,
+    "national_pokedex_number": 287,
+    "name": "Slakoth",
+    "type": ["Normal", null],
+    "abilities": ["Truant", null, null],
+    "base_stats": [60, 60, 60, 35, 35, 30]
+  },
+  {
+    "id": "046-vigoroth",
+    "kulure_pokedex_number": 46,
+    "national_pokedex_number": 288,
+    "name": "Vigoroth",
+    "type": ["Normal", null],
+    "abilities": ["Vital Spirit", null, null],
+    "base_stats": [80, 80, 80, 55, 55, 90]
+  },
+  {
+    "id": "047-slaking",
+    "kulure_pokedex_number": 47,
+    "national_pokedex_number": 289,
+    "name": "Slaking",
+    "type": ["Normal", null],
+    "abilities": ["Truant", null, null],
+    "base_stats": [150, 160, 100, 95, 65, 100]
+  },
+  {
+    "id": "048-zubat",
+    "kulure_pokedex_number": 48,
+    "national_pokedex_number": 41,
+    "name": "Zubat",
+    "type": ["Poison", "Flying"],
+    "abilities": ["Inner Focus", null, "Infiltrator"],
+    "base_stats": [40, 45, 35, 30, 40, 55]
+  },
+  {
+    "id": "049-golbat",
+    "kulure_pokedex_number": 49,
+    "national_pokedex_number": 42,
+    "name": "Golbat",
+    "type": ["Poison", "Flying"],
+    "abilities": ["Inner Focus", null, "Infiltrator"],
+    "base_stats": [75, 80, 70, 65, 75, 90]
+  },
+  {
+    "id": "050-crobat",
+    "kulure_pokedex_number": 50,
+    "national_pokedex_number": 169,
+    "name": "Crobat",
+    "type": ["Poison", "Flying"],
+    "abilities": ["Inner Focus", null, "Infiltrator"],
+    "base_stats": [85, 90, 80, 70, 80, 130]
+  },
+  {
+    "id": "051-drilbur",
+    "kulure_pokedex_number": 51,
+    "national_pokedex_number": 529,
+    "name": "Drilbur",
+    "type": ["Ground", null],
+    "abilities": ["Sand Rush", "Sand Force", "Mold Breaker"],
+    "base_stats": [60, 85, 40, 30, 45, 68]
+  },
+  {
+    "id": "052-excadrill",
+    "kulure_pokedex_number": 52,
+    "national_pokedex_number": 530,
+    "name": "Excadrill",
+    "type": ["Ground", "Steel"],
+    "abilities": ["Sand Rush", "Sand Force", "Mold Breaker"],
+    "base_stats": [110, 135, 60, 50, 65, 88]
+  },
+  {
+    "id": "053-roggenrola",
+    "kulure_pokedex_number": 53,
+    "national_pokedex_number": 524,
+    "name": "Roggenrola",
+    "type": ["Rock", null],
+    "abilities": ["Sturdy", "Weak Armor", "Sand Force"],
+    "base_stats": [55, 75, 85, 25, 25, 15]
+  },
+  {
+    "id": "054-boldore",
+    "kulure_pokedex_number": 54,
+    "national_pokedex_number": 525,
+    "name": "Boldore",
+    "type": ["Rock", null],
+    "abilities": ["Sturdy", "Weak Armor", "Sand Force"],
+    "base_stats": [70, 105, 105, 50, 40, 20]
+  },
+  {
+    "id": "055-gigalith",
+    "kulure_pokedex_number": 55,
+    "national_pokedex_number": 526,
+    "name": "Gigalith",
+    "type": ["Rock", null],
+    "abilities": ["Sturdy", "Sand Stream", "Sand Force"],
+    "base_stats": [85, 135, 130, 60, 80, 25]
+  },
+  {
+    "id": "056-lillipup",
+    "kulure_pokedex_number": 56,
+    "national_pokedex_number": 506,
+    "name": "Lillipup",
+    "type": ["Normal", null],
+    "abilities": ["Vital Spirit", "Pickup", "Run Away"],
+    "base_stats": [45, 60, 45, 25, 45, 55]
+  },
+  {
+    "id": "057-herdier",
+    "kulure_pokedex_number": 57,
+    "national_pokedex_number": 507,
+    "name": "Herdier",
+    "type": ["Normal", null],
+    "abilities": ["Intimidate", "Sand Rush", "Scrappy"],
+    "base_stats": [65, 80, 65, 35, 65, 60]
+  },
+  {
+    "id": "058-stoutland",
+    "kulure_pokedex_number": 58,
+    "national_pokedex_number": 508,
+    "name": "Stoutland",
+    "type": ["Normal", null],
+    "abilities": ["Intimidate", "Sand Rush", "Scrappy"],
+    "base_stats": [85, 110, 90, 45, 90, 80]
+  },
+  {
+    "id": "059-chinchou",
+    "kulure_pokedex_number": 59,
+    "national_pokedex_number": 170,
+    "name": "Chinchou",
+    "type": ["Water", "Electric"],
+    "abilities": ["Volt Absorb", "Illuminate", "Water Absorb"],
+    "base_stats": [75, 38, 38, 56, 56, 67]
+  },
+  {
+    "id": "060-lanturn",
+    "kulure_pokedex_number": 60,
+    "national_pokedex_number": 171,
+    "name": "Lanturn",
+    "type": ["Water", "Electric"],
+    "abilities": ["Volt Absorb", "Illuminate", "Water Absorb"],
+    "base_stats": [125, 58, 58, 76, 76, 67]
+  },
+  {
+    "id": "061-rattata-a",
+    "kulure_pokedex_number": 61,
+    "national_pokedex_number": 19,
+    "name": "Rattata-A",
+    "type": ["Dark", "Normal"],
+    "abilities": ["Gluttony", "Hustle", "Thick Fat"],
+    "base_stats": [30, 56, 35, 25, 35, 72]
+  },
+  {
+    "id": "062-raticate-a",
+    "kulure_pokedex_number": 62,
+    "national_pokedex_number": 20,
+    "name": "Raticate-A",
+    "type": ["Dark", "Normal"],
+    "abilities": ["Gluttony", "Hustle", "Thick Fat"],
+    "base_stats": [75, 71, 70, 40, 80, 77]
+  },
+  {
+    "id": "063-farfetchd-g",
+    "kulure_pokedex_number": 63,
+    "national_pokedex_number": 83,
+    "name": "Farfetch'd-G",
+    "type": ["Fighting", null],
+    "abilities": ["Steadfast", null, "Scrappy"],
+    "base_stats": [52, 95, 55, 58, 62, 55]
+  },
+  {
+    "id": "064-sirfetchd",
+    "kulure_pokedex_number": 64,
+    "national_pokedex_number": 865,
+    "name": "Sirfetch'd",
+    "type": ["Fighting", null],
+    "abilities": ["Steadfast", null, "Scrappy"],
+    "base_stats": [62, 135, 95, 68, 82, 65]
+  },
+  {
+    "id": "065-fletchling",
+    "kulure_pokedex_number": 65,
+    "national_pokedex_number": 661,
+    "name": "Fletchling",
+    "type": ["Normal", "Flying"],
+    "abilities": ["Big Pecks", null, "Gale Wings"],
+    "base_stats": [45, 50, 43, 40, 38, 62]
+  },
+  {
+    "id": "066-fletchinder",
+    "kulure_pokedex_number": 66,
+    "national_pokedex_number": 662,
+    "name": "Fletchinder",
+    "type": ["Fire", "Flying"],
+    "abilities": ["Flame Body", null, "Gale Wings"],
+    "base_stats": [62, 73, 55, 56, 52, 84]
+  },
+  {
+    "id": "067-talonflame",
+    "kulure_pokedex_number": 67,
+    "national_pokedex_number": 663,
+    "name": "Talonflame",
+    "type": ["Fire", "Flying"],
+    "abilities": ["Flame Body", null, "Gale Wings"],
+    "base_stats": [78, 81, 71, 74, 69, 126]
+  },
+  {
+    "id": "068-flabebe",
+    "kulure_pokedex_number": 68,
+    "national_pokedex_number": 669,
+    "name": "Flabébé",
+    "type": ["Fairy", null],
+    "abilities": ["Flower Veil", null, "Symbiosis"],
+    "base_stats": [44, 38, 39, 61, 79, 42]
+  },
+  {
+    "id": "069-floette",
+    "kulure_pokedex_number": 69,
+    "national_pokedex_number": 670,
+    "name": "Floette",
+    "type": ["Fairy", null],
+    "abilities": ["Flower Veil", null, "Symbiosis"],
+    "base_stats": [54, 45, 47, 75, 98, 52]
+  },
+  {
+    "id": "070-florges",
+    "kulure_pokedex_number": 70,
+    "national_pokedex_number": 671,
+    "name": "Florges",
+    "type": ["Fairy", null],
+    "abilities": ["Flower Veil", null, "Symbiosis"],
+    "base_stats": [78, 65, 68, 112, 154, 75]
+  },
+  {
+    "id": "071-cutiefly",
+    "kulure_pokedex_number": 71,
+    "national_pokedex_number": 742,
+    "name": "Cutiefly",
+    "type": ["Bug", "Fairy"],
+    "abilities": ["Honey Gather", "Shield Dust", "Sweet Veil"],
+    "base_stats": [40, 45, 40, 55, 40, 84]
+  },
+  {
+    "id": "072-ribombee",
+    "kulure_pokedex_number": 72,
+    "national_pokedex_number": 743,
+    "name": "Ribombee",
+    "type": ["Bug", "Fairy"],
+    "abilities": ["Honey Gather", "Shield Dust", "Sweet Veil"],
+    "base_stats": [60, 55, 60, 95, 70, 124]
+  },
+  {
+    "id": "073-ralts",
+    "kulure_pokedex_number": 73,
+    "national_pokedex_number": 280,
+    "name": "Ralts",
+    "type": ["Psychic", "Fairy"],
+    "abilities": ["Synchronize", "Trace", "Telepathy"],
+    "base_stats": [28, 25, 25, 45, 35, 40]
+  },
+  {
+    "id": "074-kirlia",
+    "kulure_pokedex_number": 74,
+    "national_pokedex_number": 281,
+    "name": "Kirlia",
+    "type": ["Psychic", "Fairy"],
+    "abilities": ["Synchronize", "Trace", "Telepathy"],
+    "base_stats": [38, 35, 35, 65, 55, 50]
+  },
+  {
+    "id": "075-gardevoir",
+    "kulure_pokedex_number": 75,
+    "national_pokedex_number": 282,
+    "name": "Gardevoir",
+    "type": ["Psychic", "Fairy"],
+    "abilities": ["Synchronize", "Trace", "Telepathy"],
+    "base_stats": [68, 65, 65, 125, 115, 80]
+  },
+  {
+    "id": "076-gallade",
+    "kulure_pokedex_number": 76,
+    "national_pokedex_number": 475,
+    "name": "Gallade",
+    "type": ["Psychic", "Fighting"],
+    "abilities": ["Steadfast", null, "Justified"],
+    "base_stats": [68, 125, 65, 65, 115, 80]
+  },
+  {
+    "id": "077-ferroseed",
+    "kulure_pokedex_number": 77,
+    "national_pokedex_number": 597,
+    "name": "Ferroseed",
+    "type": ["Grass", "Steel"],
+    "abilities": ["Iron Barbs", null, null],
+    "base_stats": [44, 50, 91, 24, 86, 10]
+  },
+  {
+    "id": "078-ferrothorn",
+    "kulure_pokedex_number": 78,
+    "national_pokedex_number": 598,
+    "name": "Ferrothorn",
+    "type": ["Grass", "Steel"],
+    "abilities": ["Iron Barbs", null, "Anticipation"],
+    "base_stats": [74, 94, 131, 54, 116, 20]
+  },
+  {
+    "id": "079-combee",
+    "kulure_pokedex_number": 79,
+    "national_pokedex_number": 415,
+    "name": "Combee",
+    "type": ["Bug", "Flying"],
+    "abilities": ["Honey Gather", null, "Hustle"],
+    "base_stats": [30, 30, 42, 30, 42, 70]
+  },
+  {
+    "id": "080-vespiquen",
+    "kulure_pokedex_number": 80,
+    "national_pokedex_number": 416,
+    "name": "Vespiquen",
+    "type": ["Bug", "Flying"],
+    "abilities": ["Pressure", null, "Unnerve"],
+    "base_stats": [70, 80, 102, 80, 102, 40]
+  },
+  {
+    "id": "081-scraggy",
+    "kulure_pokedex_number": 81,
+    "national_pokedex_number": 559,
+    "name": "Scraggy",
+    "type": ["Fighting", "Dark"],
+    "abilities": ["Shed Skin", "Moxie", "Intimidate"],
+    "base_stats": [50, 75, 70, 35, 70, 48]
+  },
+  {
+    "id": "082-scrafty",
+    "kulure_pokedex_number": 82,
+    "national_pokedex_number": 560,
+    "name": "Scrafty",
+    "type": ["Fighting", "Dark"],
+    "abilities": ["Shed Skin", "Moxie", "Intimidate"],
+    "base_stats": [65, 90, 115, 45, 115, 58]
+  },
+  {
+    "id": "083-cacnea",
+    "kulure_pokedex_number": 83,
+    "national_pokedex_number": 331,
+    "name": "Cacnea",
+    "type": ["Grass", null],
+    "abilities": ["Sand Veil", null, "Water Absorb"],
+    "base_stats": [50, 85, 40, 85, 40, 35]
+  },
+  {
+    "id": "084-cacturne",
+    "kulure_pokedex_number": 84,
+    "national_pokedex_number": 332,
+    "name": "Cacturne",
+    "type": ["Grass", "Dark"],
+    "abilities": ["Sand Veil", null, "Water Absorb"],
+    "base_stats": [70, 115, 60, 115, 60, 55]
+  },
+  {
+    "id": "085-wingull",
+    "kulure_pokedex_number": 85,
+    "national_pokedex_number": 278,
+    "name": "Wingull",
+    "type": ["Water", "Flying"],
+    "abilities": ["Keen Eye", "Hydration", "Rain Dish"],
+    "base_stats": [40, 30, 30, 55, 30, 85]
+  },
+  {
+    "id": "086-pelipper",
+    "kulure_pokedex_number": 86,
+    "national_pokedex_number": 279,
+    "name": "Pelipper",
+    "type": ["Water", "Flying"],
+    "abilities": ["Keen Eye", "Drizzle", "Rain Dish"],
+    "base_stats": [60, 50, 100, 95, 70, 65]
+  },
+  {
+    "id": "087-helioptile",
+    "kulure_pokedex_number": 87,
+    "national_pokedex_number": 694,
+    "name": "Helioptile",
+    "type": ["Electric", "Normal"],
+    "abilities": ["Dry Skin", "Sand Veil", "Solar Power"],
+    "base_stats": [44, 38, 33, 61, 43, 70]
+  },
+  {
+    "id": "088-heliolisk",
+    "kulure_pokedex_number": 88,
+    "national_pokedex_number": 695,
+    "name": "Heliolisk",
+    "type": ["Electric", "Normal"],
+    "abilities": ["Dry Skin", "Sand Veil", "Solar Power"],
+    "base_stats": [62, 55, 52, 109, 94, 109]
+  },
+  {
+    "id": "089-vullaby",
+    "kulure_pokedex_number": 89,
+    "national_pokedex_number": 629,
+    "name": "Vullaby",
+    "type": ["Dark", "Flying"],
+    "abilities": ["Big Pecks", "Overcoat", "Weak Armor"],
+    "base_stats": [70, 55, 75, 45, 65, 60]
+  },
+  {
+    "id": "090-mandibuzz",
+    "kulure_pokedex_number": 90,
+    "national_pokedex_number": 630,
+    "name": "Mandibuzz",
+    "type": ["Dark", "Flying"],
+    "abilities": ["Big Pecks", "Overcoat", "Weak Armor"],
+    "base_stats": [110, 65, 105, 55, 95, 80]
+  },
+  {
+    "id": "091-castform",
+    "kulure_pokedex_number": 91,
+    "national_pokedex_number": 351,
+    "name": "Castform",
+    "type": ["Normal", null],
+    "abilities": ["Forecast", null, null],
+    "base_stats": [70, 70, 70, 70, 70, 70]
+  },
+  {
+    "id": "092-trapinch",
+    "kulure_pokedex_number": 92,
+    "national_pokedex_number": 328,
+    "name": "Trapinch",
+    "type": ["Ground", null],
+    "abilities": ["Hyper Cutter", "Arena Trap", "Sheer Force"],
+    "base_stats": [45, 100, 45, 45, 45, 10]
+  },
+  {
+    "id": "093-vibrava",
+    "kulure_pokedex_number": 93,
+    "national_pokedex_number": 329,
+    "name": "Vibrava",
+    "type": ["Ground", "Dragon"],
+    "abilities": ["Levitate", null, null],
+    "base_stats": [50, 70, 50, 50, 50, 70]
+  },
+  {
+    "id": "094-flygon",
+    "kulure_pokedex_number": 94,
+    "national_pokedex_number": 330,
+    "name": "Flygon",
+    "type": ["Ground", "Dragon"],
+    "abilities": ["Levitate", null, null],
+    "base_stats": [80, 100, 80, 80, 80, 100]
+  },
+  {
+    "id": "095-sandile",
+    "kulure_pokedex_number": 95,
+    "national_pokedex_number": 551,
+    "name": "Sandile",
+    "type": ["Ground", "Dark"],
+    "abilities": ["Intimidate", "Moxie", "Anger Point"],
+    "base_stats": [50, 72, 35, 35, 35, 65]
+  },
+  {
+    "id": "096-krokorok",
+    "kulure_pokedex_number": 96,
+    "national_pokedex_number": 552,
+    "name": "Krokorok",
+    "type": ["Ground", "Dark"],
+    "abilities": ["Intimidate", "Moxie", "Anger Point"],
+    "base_stats": [60, 82, 45, 45, 45, 74]
+  },
+  {
+    "id": "097-krookodile",
+    "kulure_pokedex_number": 97,
+    "national_pokedex_number": 553,
+    "name": "Krookodile",
+    "type": ["Ground", "Dark"],
+    "abilities": ["Intimidate", "Moxie", "Anger Point"],
+    "base_stats": [95, 117, 80, 65, 70, 92]
+  },
+  {
+    "id": "098-hippopotas",
+    "kulure_pokedex_number": 98,
+    "national_pokedex_number": 449,
+    "name": "Hippopotas",
+    "type": ["Ground", null],
+    "abilities": ["Sand Stream", null, "Sand Force"],
+    "base_stats": [68, 72, 78, 38, 42, 32]
+  },
+  {
+    "id": "099-hippowdon",
+    "kulure_pokedex_number": 99,
+    "national_pokedex_number": 450,
+    "name": "Hippowdon",
+    "type": ["Ground", null],
+    "abilities": ["Sand Stream", null, "Sand Force"],
+    "base_stats": [108, 112, 118, 68, 72, 47]
+  },
+  {
+    "id": "100-corphish",
+    "kulure_pokedex_number": 100,
+    "national_pokedex_number": 341,
+    "name": "Corphish",
+    "type": ["Water", null],
+    "abilities": ["Hyper Cutter", "Shell Armor", "Adaptability"],
+    "base_stats": [43, 80, 65, 50, 35, 35]
+  },
+  {
+    "id": "101-crawdaunt",
+    "kulure_pokedex_number": 101,
+    "national_pokedex_number": 342,
+    "name": "Crawdaunt",
+    "type": ["Water", "Dark"],
+    "abilities": ["Hyper Cutter", "Shell Armor", "Adaptability"],
+    "base_stats": [63, 120, 85, 90, 55, 55]
+  },
+  {
+    "id": "102-magikarp",
+    "kulure_pokedex_number": 102,
+    "national_pokedex_number": 129,
+    "name": "Magikarp",
+    "type": ["Water", null],
+    "abilities": ["Swift Swim", null, "Rattled"],
+    "base_stats": [20, 10, 55, 15, 20, 80]
+  },
+  {
+    "id": "103-gyarados",
+    "kulure_pokedex_number": 103,
+    "national_pokedex_number": 130,
+    "name": "Gyarados",
+    "type": ["Water", "Flying"],
+    "abilities": ["Intimidate", null, "Moxie"],
+    "base_stats": [95, 125, 79, 60, 100, 81]
+  },
+  {
+    "id": "104-inkay",
+    "kulure_pokedex_number": 104,
+    "national_pokedex_number": 686,
+    "name": "Inkay",
+    "type": ["Dark", "Psychic"],
+    "abilities": ["Contrary", "Suction Cups", "Infiltrator"],
+    "base_stats": [53, 54, 53, 37, 46, 45]
+  },
+  {
+    "id": "105-malamar",
+    "kulure_pokedex_number": 105,
+    "national_pokedex_number": 687,
+    "name": "Malamar",
+    "type": ["Dark", "Psychic"],
+    "abilities": ["Contrary", "Suction Cups", "Infiltrator"],
+    "base_stats": [86, 92, 88, 68, 75, 73]
+  },
+  {
+    "id": "106-nincada",
+    "kulure_pokedex_number": 106,
+    "national_pokedex_number": 290,
+    "name": "Nincada",
+    "type": ["Bug", "Ground"],
+    "abilities": ["Compound Eyes", null, "Run Away"],
+    "base_stats": [31, 45, 90, 30, 30, 40]
+  },
+  {
+    "id": "107-ninjask",
+    "kulure_pokedex_number": 107,
+    "national_pokedex_number": 291,
+    "name": "Ninjask",
+    "type": ["Bug", "Flying"],
+    "abilities": ["Speed Boost", null, "Infiltrator"],
+    "base_stats": [61, 90, 45, 50, 50, 160]
+  },
+  {
+    "id": "108-shedinja",
+    "kulure_pokedex_number": 108,
+    "national_pokedex_number": 292,
+    "name": "Shedinja",
+    "type": ["Bug", "Ghost"],
+    "abilities": ["Wonder Guard", null, null],
+    "base_stats": [1, 90, 45, 30, 30, 40]
+  },
+  {
+    "id": "109-wynaut",
+    "kulure_pokedex_number": 109,
+    "national_pokedex_number": 360,
+    "name": "Wynaut",
+    "type": ["Psychic", null],
+    "abilities": ["Shadow Tag", null, "Telepathy"],
+    "base_stats": [95, 23, 48, 23, 48, 23]
+  },
+  {
+    "id": "110-wobbuffet",
+    "kulure_pokedex_number": 110,
+    "national_pokedex_number": 202,
+    "name": "Wobbuffet",
+    "type": ["Psychic", null],
+    "abilities": ["Shadow Tag", null, "Telepathy"],
+    "base_stats": [190, 33, 58, 33, 58, 33]
+  },
+  {
+    "id": "111-carbink",
+    "kulure_pokedex_number": 111,
+    "national_pokedex_number": 703,
+    "name": "Carbink",
+    "type": ["Rock", "Fairy"],
+    "abilities": ["Clear Body", null, "Sturdy"],
+    "base_stats": [50, 50, 150, 50, 150, 50]
+  },
+  {
+    "id": "112-klink",
+    "kulure_pokedex_number": 112,
+    "national_pokedex_number": 599,
+    "name": "Klink",
+    "type": ["Steel", null],
+    "abilities": ["Plus", "Minus", "Clear Body"],
+    "base_stats": [40, 55, 70, 45, 60, 30]
+  },
+  {
+    "id": "113-klang",
+    "kulure_pokedex_number": 113,
+    "national_pokedex_number": 600,
+    "name": "Klang",
+    "type": ["Steel", null],
+    "abilities": ["Plus", "Minus", "Clear Body"],
+    "base_stats": [60, 80, 95, 70, 85, 50]
+  },
+  {
+    "id": "114-klinklang",
+    "kulure_pokedex_number": 114,
+    "national_pokedex_number": 601,
+    "name": "Klinklang",
+    "type": ["Steel", null],
+    "abilities": ["Plus", "Minus", "Clear Body"],
+    "base_stats": [60, 100, 115, 70, 85, 90]
+  },
+  {
+    "id": "115-sableye",
+    "kulure_pokedex_number": 115,
+    "national_pokedex_number": 302,
+    "name": "Sableye",
+    "type": ["Dark", "Ghost"],
+    "abilities": ["Keen Eye", "Stall", "Prankster"],
+    "base_stats": [50, 75, 75, 65, 65, 50]
+  },
+  {
+    "id": "116-mawile",
+    "kulure_pokedex_number": 116,
+    "national_pokedex_number": 303,
+    "name": "Mawile",
+    "type": ["Steel", "Fairy"],
+    "abilities": ["Hyper Cutter", "Intimidate", "Sheer Force"],
+    "base_stats": [50, 85, 85, 55, 55, 50]
+  },
+  {
+    "id": "117-shuckle",
+    "kulure_pokedex_number": 117,
+    "national_pokedex_number": 213,
+    "name": "Shuckle",
+    "type": ["Bug", "Rock"],
+    "abilities": ["Sturdy", "Gluttony", "Contrary"],
+    "base_stats": [20, 10, 230, 10, 230, 5]
+  },
+  {
+    "id": "118-jangmo-o",
+    "kulure_pokedex_number": 118,
+    "national_pokedex_number": 782,
+    "name": "Jangmo-o",
+    "type": ["Dragon", null],
+    "abilities": ["Bulletproof", "Soundproof", "Overcoat"],
+    "base_stats": [45, 55, 65, 45, 45, 45]
+  },
+  {
+    "id": "119-hakamo-o",
+    "kulure_pokedex_number": 119,
+    "national_pokedex_number": 783,
+    "name": "Hakamo-o",
+    "type": ["Dragon", "Fighting"],
+    "abilities": ["Bulletproof", "Soundproof", "Overcoat"],
+    "base_stats": [55, 75, 90, 65, 70, 65]
+  },
+  {
+    "id": "120-kommo-o",
+    "kulure_pokedex_number": 120,
+    "national_pokedex_number": 784,
+    "name": "Kommo-o",
+    "type": ["Dragon", "Fighting"],
+    "abilities": ["Bulletproof", "Soundproof", "Overcoat"],
+    "base_stats": [75, 110, 125, 100, 105, 85]
+  },
+  {
+    "id": "121-cubchoo",
+    "kulure_pokedex_number": 121,
+    "national_pokedex_number": 613,
+    "name": "Cubchoo",
+    "type": ["Ice", null],
+    "abilities": ["Snow Cloak", "Slush Rush", "Rattled"],
+    "base_stats": [55, 70, 40, 60, 40, 40]
+  },
+  {
+    "id": "122-beartic",
+    "kulure_pokedex_number": 122,
+    "national_pokedex_number": 614,
+    "name": "Beartic",
+    "type": ["Ice", null],
+    "abilities": ["Snow Cloak", "Slush Rush", "Swift Swim"],
+    "base_stats": [95, 130, 80, 70, 80, 50]
+  },
+  {
+    "id": "123-swinub",
+    "kulure_pokedex_number": 123,
+    "national_pokedex_number": 220,
+    "name": "Swinub",
+    "type": ["Ice", "Ground"],
+    "abilities": ["Oblivious", "Snow Cloak", "Thick Fat"],
+    "base_stats": [50, 50, 40, 30, 30, 50]
+  },
+  {
+    "id": "124-piloswine",
+    "kulure_pokedex_number": 124,
+    "national_pokedex_number": 221,
+    "name": "Piloswine",
+    "type": ["Ice", "Ground"],
+    "abilities": ["Oblivious", "Snow Cloak", "Thick Fat"],
+    "base_stats": [100, 100, 80, 60, 60, 50]
+  },
+  {
+    "id": "125-mamoswine",
+    "kulure_pokedex_number": 125,
+    "national_pokedex_number": 473,
+    "name": "Mamoswine",
+    "type": ["Ice", "Ground"],
+    "abilities": ["Oblivious", "Snow Cloak", "Thick Fat"],
+    "base_stats": [110, 130, 80, 70, 60, 80]
+  },
+  {
+    "id": "126-snornut",
+    "kulure_pokedex_number": 126,
+    "national_pokedex_number": 361,
+    "name": "Snorunt",
+    "type": ["Ice", null],
+    "abilities": ["Inner Focus", "Ice Body", "Moody"],
+    "base_stats": [50, 50, 50, 50, 50, 50]
+  },
+  {
+    "id": "127-glalie",
+    "kulure_pokedex_number": 127,
+    "national_pokedex_number": 362,
+    "name": "Glalie",
+    "type": ["Ice", null],
+    "abilities": ["Inner Focus", "Ice Body", "Moody"],
+    "base_stats": [80, 80, 80, 80, 80, 80]
+  },
+  {
+    "id": "128-froslass",
+    "kulure_pokedex_number": 128,
+    "national_pokedex_number": 478,
+    "name": "Froslass",
+    "type": ["Ice", "Ghost"],
+    "abilities": ["Snow Cloak", null, "Cursed Body"],
+    "base_stats": [70, 80, 70, 80, 70, 110]
+  },
+  {
+    "id": "129-noibat",
+    "kulure_pokedex_number": 129,
+    "national_pokedex_number": 714,
+    "name": "Noibat",
+    "type": ["Flying", "Dragon"],
+    "abilities": ["Frisk", "Infiltrator", "Telepathy"],
+    "base_stats": [40, 30, 35, 45, 40, 55]
+  },
+  {
+    "id": "130-noivern",
+    "kulure_pokedex_number": 130,
+    "national_pokedex_number": 715,
+    "name": "Noivern",
+    "type": ["Flying", "Dragon"],
+    "abilities": ["Frisk", "Infiltrator", "Telepathy"],
+    "base_stats": [85, 70, 80, 97, 80, 123]
+  },
+  {
+    "id": "131-tyrunt",
+    "kulure_pokedex_number": 131,
+    "national_pokedex_number": 696,
+    "name": "Tyrunt",
+    "type": ["Rock", "Dragon"],
+    "abilities": ["Strong Jaw", null, "Sturdy"],
+    "base_stats": [58, 89, 77, 45, 45, 48]
+  },
+  {
+    "id": "132-tyrantrum",
+    "kulure_pokedex_number": 132,
+    "national_pokedex_number": 697,
+    "name": "Tyrantrum",
+    "type": ["Rock", "Dragon"],
+    "abilities": ["Strong Jaw", null, "Rock Head"],
+    "base_stats": [82, 121, 119, 69, 59, 71]
+  },
+  {
+    "id": "133-sneasel",
+    "kulure_pokedex_number": 133,
+    "national_pokedex_number": 215,
+    "name": "Sneasel",
+    "type": ["Dark", "Ice"],
+    "abilities": ["Inner Focus", "Keen Eye", "Pickpocket"],
+    "base_stats": [55, 95, 55, 35, 75, 115]
+  },
+  {
+    "id": "134-weavile",
+    "kulure_pokedex_number": 134,
+    "national_pokedex_number": 461,
+    "name": "Weavile",
+    "type": ["Dark", "Ice"],
+    "abilities": ["Pressure", null, "Pickpocket"],
+    "base_stats": [70, 120, 65, 45, 85, 125]
+  },
+  {
+    "id": "135-snom",
+    "kulure_pokedex_number": 135,
+    "national_pokedex_number": 872,
+    "name": "Snom",
+    "type": ["Ice", "Bug"],
+    "abilities": ["Shield Dust", null, "Ice Scales"],
+    "base_stats": [30, 25, 35, 45, 30, 20]
+  },
+  {
+    "id": "136-frosmoth",
+    "kulure_pokedex_number": 136,
+    "national_pokedex_number": 873,
+    "name": "Frosmoth",
+    "type": ["Ice", "Bug"],
+    "abilities": ["Shield Dust", null, "Ice Scales"],
+    "base_stats": [70, 65, 60, 125, 90, 65]
+  },
+  {
+    "id": "137-darumaka-g",
+    "kulure_pokedex_number": 137,
+    "national_pokedex_number": 554,
+    "name": "Darumaka-G",
+    "type": ["Ice", null],
+    "abilities": ["Hustle", null, "Inner Focus"],
+    "base_stats": [70, 90, 45, 15, 45, 50]
+  },
+  {
+    "id": "138-darmanitan-g",
+    "kulure_pokedex_number": 138,
+    "national_pokedex_number": 555,
+    "name": "Darmanitan-G",
+    "type": ["Ice", null],
+    "abilities": ["Gorilla Tactics", null, "Zen Mode"],
+    "base_stats": [105, 140, 55, 30, 55, 95]
+  },
+  {
+    "id": "139-houndour",
+    "kulure_pokedex_number": 139,
+    "national_pokedex_number": 228,
+    "name": "Houndour",
+    "type": ["Dark", "Fire"],
+    "abilities": ["Early Bird", "Flash Fire", "Unnerve"],
+    "base_stats": [45, 60, 30, 80, 50, 65]
+  },
+  {
+    "id": "140-houndoom",
+    "kulure_pokedex_number": 140,
+    "national_pokedex_number": 229,
+    "name": "Houndoom",
+    "type": ["Dark", "Fire"],
+    "abilities": ["Early Bird", "Flash Fire", "Unnerve"],
+    "base_stats": [75, 90, 50, 110, 80, 95]
+  },
+  {
+    "id": "141-larvesta",
+    "kulure_pokedex_number": 141,
+    "national_pokedex_number": 636,
+    "name": "Larvesta",
+    "type": ["Bug", "Fire"],
+    "abilities": ["Flame Body", null, null],
+    "base_stats": [55, 85, 55, 50, 55, 60]
+  },
+  {
+    "id": "142-volcarona",
+    "kulure_pokedex_number": 142,
+    "national_pokedex_number": 637,
+    "name": "Volcarona",
+    "type": ["Bug", "Fire"],
+    "abilities": ["Flame Body", null, "Swarm"],
+    "base_stats": [85, 60, 65, 135, 105, 100]
+  },
+  {
+    "id": "143-minior",
+    "kulure_pokedex_number": 143,
+    "national_pokedex_number": 774,
+    "name": "Minior",
+    "type": ["Rock", "Flying"],
+    "abilities": ["Shields Down", null, null],
+    "base_stats": [60, 60, 100, 60, 100, 60]
+  },
+  {
+    "id": "144-rolycoly",
+    "kulure_pokedex_number": 144,
+    "national_pokedex_number": 837,
+    "name": "Rolycoly",
+    "type": ["Rock", null],
+    "abilities": ["Steam Engine", "Heatproof", "Flash Fire"],
+    "base_stats": [30, 40, 50, 40, 50, 30]
+  },
+  {
+    "id": "145-carkol",
+    "kulure_pokedex_number": 145,
+    "national_pokedex_number": 838,
+    "name": "Carkol",
+    "type": ["Rock", "Fire"],
+    "abilities": ["Steam Engine", "Flame Body", "Flash Fire"],
+    "base_stats": [80, 60, 90, 60, 70, 50]
+  },
+  {
+    "id": "146-coalossal",
+    "kulure_pokedex_number": 146,
+    "national_pokedex_number": 839,
+    "name": "Coalossal",
+    "type": ["Rock", "Fire"],
+    "abilities": ["Steam Engine", "Flame Body", "Flash Fire"],
+    "base_stats": [110, 80, 120, 80, 90, 30]
+  },
+  {
+    "id": "147-skarmory",
+    "kulure_pokedex_number": 147,
+    "national_pokedex_number": 227,
+    "name": "Skarmory",
+    "type": ["Steel", "Flying"],
+    "abilities": ["Keen Eye", "Sturdy", "Weak Armor"],
+    "base_stats": [65, 80, 140, 40, 70, 70]
+  },
+  {
+    "id": "148-salandit",
+    "kulure_pokedex_number": 148,
+    "national_pokedex_number": 757,
+    "name": "Salandit",
+    "type": ["Poison", "Fire"],
+    "abilities": ["Corrosion", null, "Oblivious"],
+    "base_stats": [48, 44, 40, 71, 40, 77]
+  },
+  {
+    "id": "149-salazzle",
+    "kulure_pokedex_number": 149,
+    "national_pokedex_number": 758,
+    "name": "Salazzle",
+    "type": ["Poison", "Fire"],
+    "abilities": ["Corrosion", null, "Oblivious"],
+    "base_stats": [68, 64, 60, 111, 60, 117]
+  },
+  {
+    "id": "150-frillish",
+    "kulure_pokedex_number": 150,
+    "national_pokedex_number": 592,
+    "name": "Frillish",
+    "type": ["Water", "Ghost"],
+    "abilities": ["Water Absorb", "Cursed Body", "Damp"],
+    "base_stats": [55, 40, 50, 65, 85, 40]
+  },
+  {
+    "id": "151-jellicent",
+    "kulure_pokedex_number": 151,
+    "national_pokedex_number": 593,
+    "name": "Jellicent",
+    "type": ["Water", "Ghost"],
+    "abilities": ["Water Absorb", "Cursed Body", "Damp"],
+    "base_stats": [100, 60, 70, 85, 105, 60]
+  },
+  {
+    "id": "152-foongus",
+    "kulure_pokedex_number": 152,
+    "national_pokedex_number": 590,
+    "name": "Foongus",
+    "type": ["Grass", "Poison"],
+    "abilities": ["Effect Spore", null, "Regenerator"],
+    "base_stats": [69, 55, 45, 55, 55, 15]
+  },
+  {
+    "id": "153-amoonguss",
+    "kulure_pokedex_number": 153,
+    "national_pokedex_number": 591,
+    "name": "Amoonguss",
+    "type": ["Grass", "Poison"],
+    "abilities": ["Effect Spore", null, "Regenerator"],
+    "base_stats": [114, 85, 70, 85, 80, 30]
+  },
+  {
+    "id": "154-shieldon",
+    "kulure_pokedex_number": 154,
+    "national_pokedex_number": 410,
+    "name": "Shieldon",
+    "type": ["Rock", "Steel"],
+    "abilities": ["Sturdy", null, "Soundproof"],
+    "base_stats": [30, 42, 118, 42, 88, 23]
+  },
+  {
+    "id": "155-bastiodon",
+    "kulure_pokedex_number": 155,
+    "national_pokedex_number": 411,
+    "name": "Bastiodon",
+    "type": ["Rock", "Steel"],
+    "abilities": ["Sturdy", null, "Soundproof"],
+    "base_stats": [60, 52, 168, 47, 138, 30]
+  },
+  {
+    "id": "156-timburr",
+    "kulure_pokedex_number": 156,
+    "national_pokedex_number": 532,
+    "name": "Timburr",
+    "type": ["Fighting", null],
+    "abilities": ["Guts", "Sheer Force", "Iron Fist"],
+    "base_stats": [75, 80, 55, 25, 35, 35]
+  },
+  {
+    "id": "157-gurdurr",
+    "kulure_pokedex_number": 157,
+    "national_pokedex_number": 533,
+    "name": "Gurdurr",
+    "type": ["Fighting", null],
+    "abilities": ["Guts", "Sheer Force", "Iron Fist"],
+    "base_stats": [85, 105, 85, 40, 50, 40]
+  },
+  {
+    "id": "158-conkeldurr",
+    "kulure_pokedex_number": 158,
+    "national_pokedex_number": 534,
+    "name": "Conkeldurr",
+    "type": ["Fighting", null],
+    "abilities": ["Guts", "Sheer Force", "Iron Fist"],
+    "base_stats": [105, 140, 95, 55, 65, 45]
+  },
+  {
+    "id": "159-amaura",
+    "kulure_pokedex_number": 159,
+    "national_pokedex_number": 698,
+    "name": "Amaura",
+    "type": ["Rock", "Ice"],
+    "abilities": ["Refrigerate", null, "Snow Warning"],
+    "base_stats": [77, 59, 50, 67, 63, 46]
+  },
+  {
+    "id": "160-aurorus",
+    "kulure_pokedex_number": 160,
+    "national_pokedex_number": 699,
+    "name": "Aurorus",
+    "type": ["Rock", "Ice"],
+    "abilities": ["Refrigerate", null, "Snow Warning"],
+    "base_stats": [123, 77, 72, 99, 92, 58]
+  },
+  {
+    "id": "161-turtonator",
+    "kulure_pokedex_number": 161,
+    "national_pokedex_number": 776,
+    "name": "Turtonator",
+    "type": ["Fire", "Dragon"],
+    "abilities": ["Shell Armor", null, null],
+    "base_stats": [60, 78, 135, 91, 85, 36]
+  },
+  {
+    "id": "162-mime-jr",
+    "kulure_pokedex_number": 162,
+    "national_pokedex_number": 439,
+    "name": "Mime Jr.",
+    "type": ["Psychic", "Fairy"],
+    "abilities": ["Soundproof", "Filter", "Technician"],
+    "base_stats": [20, 25, 45, 70, 90, 60]
+  },
+  {
+    "id": "163-mr-mime-g",
+    "kulure_pokedex_number": 163,
+    "national_pokedex_number": 122,
+    "name": "Mr. Mime-G",
+    "type": ["Ice", "Psychic"],
+    "abilities": ["Vital Spirit", "Screen Cleaner", "Ice Body"],
+    "base_stats": [50, 65, 65, 90, 90, 100]
+  },
+  {
+    "id": "164-mr-rime",
+    "kulure_pokedex_number": 164,
+    "national_pokedex_number": 866,
+    "name": "Mr. Rime",
+    "type": ["Ice", "Psychic"],
+    "abilities": ["Tangled Feet", "Screen Cleaner", "Ice Body"],
+    "base_stats": [80, 85, 75, 110, 100, 70]
+  },
+  {
+    "id": "165-slugma",
+    "kulure_pokedex_number": 165,
+    "national_pokedex_number": 218,
+    "name": "Slugma",
+    "type": ["Fire", null],
+    "abilities": ["Magma Armor", "Flame Body", "Weak Armor"],
+    "base_stats": [40, 40, 40, 70, 40, 20]
+  },
+  {
+    "id": "166-macargo",
+    "kulure_pokedex_number": 166,
+    "national_pokedex_number": 219,
+    "name": "Magcargo",
+    "type": ["Fire", "Rock"],
+    "abilities": ["Magma Armor", "Flame Body", "Weak Armor"],
+    "base_stats": [60, 50, 120, 90, 80, 30]
+  },
+  {
+    "id": "167-hatenna",
+    "kulure_pokedex_number": 167,
+    "national_pokedex_number": 856,
+    "name": "Hatenna",
+    "type": ["Psychic", null],
+    "abilities": ["Healer", "Anticipation", "Magic Bounce"],
+    "base_stats": [42, 30, 45, 56, 53, 39]
+  },
+  {
+    "id": "168-hattrem",
+    "kulure_pokedex_number": 168,
+    "national_pokedex_number": 857,
+    "name": "Hattrem",
+    "type": ["Psychic", null],
+    "abilities": ["Healer", "Anticipation", "Magic Bounce"],
+    "base_stats": [57, 40, 65, 86, 73, 49]
+  },
+  {
+    "id": "169-hatterene",
+    "kulure_pokedex_number": 169,
+    "national_pokedex_number": 858,
+    "name": "Hatterene",
+    "type": ["Psychic", "Fairy"],
+    "abilities": ["Healer", "Anticipation", "Magic Bounce"],
+    "base_stats": [57, 90, 95, 136, 103, 29]
+  },
+  {
+    "id": "170-oranguru",
+    "kulure_pokedex_number": 170,
+    "national_pokedex_number": 765,
+    "name": "Oranguru",
+    "type": ["Normal", "Psychic"],
+    "abilities": ["Inner Focus", "Telepathy", "Symbiosis"],
+    "base_stats": [90, 60, 80, 90, 110, 60]
+  },
+  {
+    "id": "171-passimian",
+    "kulure_pokedex_number": 171,
+    "national_pokedex_number": 766,
+    "name": "Passimian",
+    "type": ["Fighting", null],
+    "abilities": ["Receiver", null, "Defiant"],
+    "base_stats": [100, 120, 90, 40, 60, 80]
+  },
+  {
+    "id": "172-torkoal",
+    "kulure_pokedex_number": 172,
+    "national_pokedex_number": 324,
+    "name": "Torkoal",
+    "type": ["Fire", null],
+    "abilities": ["White Smoke", "Drought", "Shell Armor"],
+    "base_stats": [70, 85, 140, 85, 70, 20]
+  },
+  {
+    "id": "173-lileep",
+    "kulure_pokedex_number": 173,
+    "national_pokedex_number": 345,
+    "name": "Lileep",
+    "type": ["Rock", "Grass"],
+    "abilities": ["Suction Cups", null, "Storm Drain"],
+    "base_stats": [66, 41, 77, 61, 87, 23]
+  },
+  {
+    "id": "174-cradily",
+    "kulure_pokedex_number": 174,
+    "national_pokedex_number": 346,
+    "name": "Cradily",
+    "type": ["Rock", "Grass"],
+    "abilities": ["Suction Cups", null, "Storm Drain"],
+    "base_stats": [86, 81, 97, 81, 107, 43]
+  },
+  {
+    "id": "175-shellder",
+    "kulure_pokedex_number": 175,
+    "national_pokedex_number": 90,
+    "name": "Shellder",
+    "type": ["Water", null],
+    "abilities": ["Shell Armor", "Skill Link", "Overcoat"],
+    "base_stats": [30, 65, 100, 45, 25, 40]
+  },
+  {
+    "id": "176-cloyster",
+    "kulure_pokedex_number": 176,
+    "national_pokedex_number": 91,
+    "name": "Cloyster",
+    "type": ["Water", "Ice"],
+    "abilities": ["Shell Armor", "Skill Link", "Overcoat"],
+    "base_stats": [50, 95, 180, 85, 45, 70]
+  },
+  {
+    "id": "177-sizzlipede",
+    "kulure_pokedex_number": 177,
+    "national_pokedex_number": 850,
+    "name": "Sizzlipede",
+    "type": ["Fire", "Bug"],
+    "abilities": ["Flash Fire", "White Smoke", "Flame Body"],
+    "base_stats": [50, 65, 45, 50, 50, 45]
+  },
+  {
+    "id": "178-centiskorch",
+    "kulure_pokedex_number": 178,
+    "national_pokedex_number": 851,
+    "name": "Centiskorch",
+    "type": ["Fire", "Bug"],
+    "abilities": ["Flash Fire", "White Smoke", "Flame Body"],
+    "base_stats": [100, 115, 65, 90, 90, 65]
+  },
+  {
+    "id": "179-cottonee",
+    "kulure_pokedex_number": 179,
+    "national_pokedex_number": 546,
+    "name": "Cottonee",
+    "type": ["Grass", "Fairy"],
+    "abilities": ["Prankster", "Infiltrator", "Chlorophyll"],
+    "base_stats": [40, 27, 60, 37, 50, 66]
+  },
+  {
+    "id": "180-whimsicott",
+    "kulure_pokedex_number": 180,
+    "national_pokedex_number": 547,
+    "name": "Whimsicott",
+    "type": ["Grass", "Fairy"],
+    "abilities": ["Prankster", "Infiltrator", "Chlorophyll"],
+    "base_stats": [60, 67, 85, 77, 75, 116]
+  },
+  {
+    "id": "181-ditto",
+    "kulure_pokedex_number": 181,
+    "national_pokedex_number": 132,
+    "name": "Ditto",
+    "type": ["Normal", null],
+    "abilities": ["Limber", null, "Imposter"],
+    "base_stats": [48, 48, 48, 48, 48, 48]
+  },
+  {
+    "id": "182-eevee",
+    "kulure_pokedex_number": 182,
+    "national_pokedex_number": 133,
+    "name": "Eevee",
+    "type": ["Normal", null],
+    "abilities": ["Run Away", "Adaptability", "Anticipation"],
+    "base_stats": [55, 55, 50, 45, 65, 55]
+  },
+  {
+    "id": "183-vaporeon",
+    "kulure_pokedex_number": 183,
+    "national_pokedex_number": 134,
+    "name": "Vaporeon",
+    "type": ["Water", null],
+    "abilities": ["Water Absorb", null, "Hydration"],
+    "base_stats": [130, 65, 60, 110, 95, 65]
+  },
+  {
+    "id": "184-jolteon",
+    "kulure_pokedex_number": 184,
+    "national_pokedex_number": 135,
+    "name": "Jolteon",
+    "type": ["Electric", null],
+    "abilities": ["Volt Absorb", null, "Quick Feet"],
+    "base_stats": [65, 65, 60, 110, 95, 130]
+  },
+  {
+    "id": "185-flareon",
+    "kulure_pokedex_number": 185,
+    "national_pokedex_number": 136,
+    "name": "Flareon",
+    "type": ["Fire", null],
+    "abilities": ["Flash Fire", null, "Guts"],
+    "base_stats": [65, 130, 60, 95, 110, 65]
+  },
+  {
+    "id": "186-espeon",
+    "kulure_pokedex_number": 186,
+    "national_pokedex_number": 196,
+    "name": "Espeon",
+    "type": ["Psychic", null],
+    "abilities": ["Synchronize", null, "Magic Bounce"],
+    "base_stats": [65, 65, 60, 130, 95, 110]
+  },
+  {
+    "id": "187-umbreon",
+    "kulure_pokedex_number": 187,
+    "national_pokedex_number": 197,
+    "name": "Umbreon",
+    "type": ["Dark", null],
+    "abilities": ["Synchronize", null, "Inner Focus"],
+    "base_stats": [95, 65, 110, 60, 130, 65]
+  },
+  {
+    "id": "188-leafeon",
+    "kulure_pokedex_number": 188,
+    "national_pokedex_number": 470,
+    "name": "Leafeon",
+    "type": ["Grass", null],
+    "abilities": ["Leaf Guard", null, "Chlorophyll"],
+    "base_stats": [65, 110, 130, 60, 65, 95]
+  },
+  {
+    "id": "189-glaceon",
+    "kulure_pokedex_number": 189,
+    "national_pokedex_number": 471,
+    "name": "Glaceon",
+    "type": ["Ice", null],
+    "abilities": ["Snow Cloak", null, "Ice Body"],
+    "base_stats": [65, 60, 110, 130, 95, 65]
+  },
+  {
+    "id": "190-sylveon",
+    "kulure_pokedex_number": 190,
+    "national_pokedex_number": 700,
+    "name": "Sylveon",
+    "type": ["Fairy", null],
+    "abilities": ["Cute Charm", null, "Pixilate"],
+    "base_stats": [95, 65, 65, 110, 130, 60]
+  },
+  {
+    "id": "191-mareep",
+    "kulure_pokedex_number": 191,
+    "national_pokedex_number": 179,
+    "name": "Mareep",
+    "type": ["Electric", null],
+    "abilities": ["Static", null, "Plus"],
+    "base_stats": [55, 40, 40, 65, 45, 35]
+  },
+  {
+    "id": "192-flaaffy",
+    "kulure_pokedex_number": 192,
+    "national_pokedex_number": 180,
+    "name": "Flaaffy",
+    "type": ["Electric", null],
+    "abilities": ["Static", null, "Plus"],
+    "base_stats": [70, 55, 55, 80, 60, 45]
+  },
+  {
+    "id": "193-ampharos",
+    "kulure_pokedex_number": 193,
+    "national_pokedex_number": 181,
+    "name": "Ampharos",
+    "type": ["Electric", null],
+    "abilities": ["Static", null, "Plus"],
+    "base_stats": [90, 75, 85, 115, 90, 55]
+  },
+  {
+    "id": "194-togepi",
+    "kulure_pokedex_number": 194,
+    "national_pokedex_number": 175,
+    "name": "Togepi",
+    "type": ["Fairy", null],
+    "abilities": ["Hustle", "Serene Grace", "Super Luck"],
+    "base_stats": [35, 20, 65, 40, 65, 20]
+  },
+  {
+    "id": "195-togetic",
+    "kulure_pokedex_number": 195,
+    "national_pokedex_number": 176,
+    "name": "Togetic",
+    "type": ["Fairy", "Flying"],
+    "abilities": ["Hustle", "Serene Grace", "Super Luck"],
+    "base_stats": [55, 40, 85, 80, 105, 40]
+  },
+  {
+    "id": "196-togekiss",
+    "kulure_pokedex_number": 196,
+    "national_pokedex_number": 468,
+    "name": "Togekiss",
+    "type": ["Fairy", "Flying"],
+    "abilities": ["Hustle", "Serene Grace", "Super Luck"],
+    "base_stats": [85, 50, 95, 120, 115, 80]
+  },
+  {
+    "id": "197-mudbray",
+    "kulure_pokedex_number": 197,
+    "national_pokedex_number": 749,
+    "name": "Mudbray",
+    "type": ["Ground", null],
+    "abilities": ["Own Tempo", "Stamina", "Inner Focus"],
+    "base_stats": [70, 100, 70, 45, 55, 45]
+  },
+  {
+    "id": "198-mudsdale",
+    "kulure_pokedex_number": 198,
+    "national_pokedex_number": 750,
+    "name": "Mudsdale",
+    "type": ["Ground", null],
+    "abilities": ["Own Tempo", "Stamina", "Inner Focus"],
+    "base_stats": [100, 125, 100, 55, 85, 35]
+  },
+  {
+    "id": "199-happiny",
+    "kulure_pokedex_number": 199,
+    "national_pokedex_number": 440,
+    "name": "Happiny",
+    "type": ["Normal", null],
+    "abilities": ["Natural Cure", "Serene Grace", "Friend Guard"],
+    "base_stats": [100, 5, 5, 15, 65, 30]
+  },
+  {
+    "id": "200-chansey",
+    "kulure_pokedex_number": 200,
+    "national_pokedex_number": 113,
+    "name": "Chansey",
+    "type": ["Normal", null],
+    "abilities": ["Natural Cure", "Serene Grace", "Healer"],
+    "base_stats": [250, 5, 5, 35, 105, 50]
+  },
+  {
+    "id": "201-blissey",
+    "kulure_pokedex_number": 201,
+    "national_pokedex_number": 242,
+    "name": "Blissey",
+    "type": ["Normal", null],
+    "abilities": ["Natural Cure", "Serene Grace", "Healer"],
+    "base_stats": [255, 10, 10, 75, 135, 55]
+  },
+  {
+    "id": "202-mienfoo",
+    "kulure_pokedex_number": 202,
+    "national_pokedex_number": 619,
+    "name": "Mienfoo",
+    "type": ["Fighting", null],
+    "abilities": ["Inner Focus", "Regenerator", "Reckless"],
+    "base_stats": [45, 85, 50, 55, 50, 65]
+  },
+  {
+    "id": "203-mienshao",
+    "kulure_pokedex_number": 203,
+    "national_pokedex_number": 620,
+    "name": "Mienshao",
+    "type": ["Fighting", null],
+    "abilities": ["Inner Focus", "Regenerator", "Reckless"],
+    "base_stats": [65, 125, 60, 95, 60, 105]
+  },
+  {
+    "id": "204-skiddo",
+    "kulure_pokedex_number": 204,
+    "national_pokedex_number": 672,
+    "name": "Skiddo",
+    "type": ["Grass", null],
+    "abilities": ["Sap Sipper", null, "Grass Pelt"],
+    "base_stats": [66, 65, 62, 62, 57, 52]
+  },
+  {
+    "id": "205-gogoat",
+    "kulure_pokedex_number": 205,
+    "national_pokedex_number": 673,
+    "name": "Gogoat",
+    "type": ["Grass", null],
+    "abilities": ["Sap Sipper", null, "Grass Pelt"],
+    "base_stats": [123, 100, 62, 97, 81, 68]
+  },
+  {
+    "id": "206-riolu",
+    "kulure_pokedex_number": 206,
+    "national_pokedex_number": 447,
+    "name": "Riolu",
+    "type": ["Fighting", null],
+    "abilities": ["Steadfast", "Inner Focus", "Prankster"],
+    "base_stats": [40, 70, 40, 35, 40, 60]
+  },
+  {
+    "id": "207-lucario",
+    "kulure_pokedex_number": 207,
+    "national_pokedex_number": 448,
+    "name": "Lucario",
+    "type": ["Fighting", "Steel"],
+    "abilities": ["Steadfast", "Inner Focus", "Justified"],
+    "base_stats": [70, 110, 70, 115, 70, 90]
+  },
+  {
+    "id": "208-dratini",
+    "kulure_pokedex_number": 208,
+    "national_pokedex_number": 147,
+    "name": "Dratini",
+    "type": ["Dragon", null],
+    "abilities": ["Shed Skin", null, "Marvel Scale"],
+    "base_stats": [41, 64, 45, 50, 50, 50]
+  },
+  {
+    "id": "209-dragonair",
+    "kulure_pokedex_number": 209,
+    "national_pokedex_number": 148,
+    "name": "Dragonair",
+    "type": ["Dragon", null],
+    "abilities": ["Shed Skin", null, "Marvel Scale"],
+    "base_stats": [61, 84, 65, 70, 70, 70]
+  },
+  {
+    "id": "210-dragonite",
+    "kulure_pokedex_number": 210,
+    "national_pokedex_number": 149,
+    "name": "Dragonite",
+    "type": ["Dragon", "Flying"],
+    "abilities": ["Inner Focus", null, "Multiscale"],
+    "base_stats": [91, 134, 95, 100, 100, 80]
+  },
+  {
+    "id": "211-pachirisu",
+    "kulure_pokedex_number": 211,
+    "national_pokedex_number": 417,
+    "name": "Pachirisu",
+    "type": ["Electric", null],
+    "abilities": ["Run Away", "Pickup", "Volt Absorb"],
+    "base_stats": [60, 45, 70, 45, 90, 95]
+  },
+  {
+    "id": "212-rotom",
+    "kulure_pokedex_number": 212,
+    "national_pokedex_number": 479,
+    "name": "Rotom",
+    "type": ["Electric", "Ghost"],
+    "abilities": ["Levitate", null, null],
+    "base_stats": [50, 50, 77, 95, 77, 91]
+  },
+  {
+    "id": "213-toxel",
+    "kulure_pokedex_number": 213,
+    "national_pokedex_number": 848,
+    "name": "Toxel",
+    "type": ["Electric", "Poison"],
+    "abilities": ["Rattled", "Static", "Klutz"],
+    "base_stats": [40, 38, 35, 54, 35, 40]
+  },
+  {
+    "id": "214-toxtricity",
+    "kulure_pokedex_number": 214,
+    "national_pokedex_number": 849,
+    "name": "Toxtricity",
+    "type": ["Electric", "Poison"],
+    "abilities": ["Punk Rock", "Plus", "Technician"],
+    "base_stats": [75, 98, 70, 114, 70, 75]
+  },
+  {
+    "id": "215-horsea",
+    "kulure_pokedex_number": 215,
+    "national_pokedex_number": 116,
+    "name": "Horsea",
+    "type": ["Water", null],
+    "abilities": ["Swift Swim", "Sniper", "Damp"],
+    "base_stats": [30, 40, 70, 70, 25, 60]
+  },
+  {
+    "id": "216-seadra",
+    "kulure_pokedex_number": 216,
+    "national_pokedex_number": 117,
+    "name": "Seadra",
+    "type": ["Water", null],
+    "abilities": ["Poison Point", "Sniper", "Damp"],
+    "base_stats": [55, 65, 95, 95, 45, 85]
+  },
+  {
+    "id": "217-kingdra",
+    "kulure_pokedex_number": 217,
+    "national_pokedex_number": 230,
+    "name": "Kingdra",
+    "type": ["Water", "Dragon"],
+    "abilities": ["Swift Swim", "Sniper", "Damp"],
+    "base_stats": [75, 95, 95, 95, 95, 85]
+  },
+  {
+    "id": "218-croagunk",
+    "kulure_pokedex_number": 218,
+    "national_pokedex_number": 453,
+    "name": "Croagunk",
+    "type": ["Poison", "Fighting"],
+    "abilities": ["Anticipation", "Dry Skin", "Poison Touch"],
+    "base_stats": [48, 61, 40, 61, 40, 50]
+  },
+  {
+    "id": "219-toxicroak",
+    "kulure_pokedex_number": 219,
+    "national_pokedex_number": 454,
+    "name": "Toxicroak",
+    "type": ["Poison", "Fighting"],
+    "abilities": ["Anticipation", "Dry Skin", "Poison Touch"],
+    "base_stats": [83, 106, 65, 86, 65, 85]
+  },
+  {
+    "id": "220-goomy",
+    "kulure_pokedex_number": 220,
+    "national_pokedex_number": 704,
+    "name": "Goomy",
+    "type": ["Dragon", null],
+    "abilities": ["Sap Sipper", "Hydration", "Gooey"],
+    "base_stats": [45, 50, 35, 55, 75, 40]
+  },
+  {
+    "id": "221-sliggoo",
+    "kulure_pokedex_number": 221,
+    "national_pokedex_number": 705,
+    "name": "Sliggoo",
+    "type": ["Dragon", null],
+    "abilities": ["Sap Sipper", "Hydration", "Gooey"],
+    "base_stats": [68, 75, 53, 83, 113, 60]
+  },
+  {
+    "id": "222-goodra",
+    "kulure_pokedex_number": 222,
+    "national_pokedex_number": 706,
+    "name": "Goodra",
+    "type": ["Dragon", null],
+    "abilities": ["Sap Sipper", "Hydration", "Gooey"],
+    "base_stats": [90, 100, 70, 110, 150, 80]
+  },
+  {
+    "id": "223-shellos",
+    "kulure_pokedex_number": 223,
+    "national_pokedex_number": 422,
+    "name": "Shellos",
+    "type": ["Water", null],
+    "abilities": ["Sticky Hold", "Storm Drain", "Sand Force"],
+    "base_stats": [76, 48, 48, 57, 62, 34]
+  },
+  {
+    "id": "224-gastrodon",
+    "kulure_pokedex_number": 224,
+    "national_pokedex_number": 423,
+    "name": "Gastrodon",
+    "type": ["Water", "Ground"],
+    "abilities": ["Sticky Hold", "Storm Drain", "Sand Force"],
+    "base_stats": [111, 83, 68, 92, 82, 39]
+  },
+  {
+    "id": "225-mimikyu",
+    "kulure_pokedex_number": 225,
+    "national_pokedex_number": 778,
+    "name": "Mimikyu",
+    "type": ["Ghost", "Fairy"],
+    "abilities": ["Disguise", null, null],
+    "base_stats": [55, 90, 80, 50, 105, 96]
+  },
+  {
+    "id": "226-duskull",
+    "kulure_pokedex_number": 226,
+    "national_pokedex_number": 355,
+    "name": "Duskull",
+    "type": ["Ghost", null],
+    "abilities": ["Levitate", null, "Frisk"],
+    "base_stats": [20, 40, 90, 30, 90, 25]
+  },
+  {
+    "id": "227-dusclops",
+    "kulure_pokedex_number": 227,
+    "national_pokedex_number": 356,
+    "name": "Dusclops",
+    "type": ["Ghost", null],
+    "abilities": ["Pressure", null, "Frisk"],
+    "base_stats": [40, 70, 130, 60, 130, 25]
+  },
+  {
+    "id": "228-dusknoir",
+    "kulure_pokedex_number": 228,
+    "national_pokedex_number": 477,
+    "name": "Dusknoir",
+    "type": ["Ghost", null],
+    "abilities": ["Pressure", null, "Frisk"],
+    "base_stats": [45, 100, 135, 65, 135, 45]
+  },
+  {
+    "id": "229-emolga",
+    "kulure_pokedex_number": 229,
+    "national_pokedex_number": 587,
+    "name": "Emolga",
+    "type": ["Electric", "Flying"],
+    "abilities": ["Static", null, "Motor Drive"],
+    "base_stats": [55, 75, 60, 75, 60, 103]
+  },
+  {
+    "id": "230-carvanha",
+    "kulure_pokedex_number": 230,
+    "national_pokedex_number": 318,
+    "name": "Carvanha",
+    "type": ["Water", "Dark"],
+    "abilities": ["Rough Skin", null, "Speed Boost"],
+    "base_stats": [45, 90, 20, 65, 20, 65]
+  },
+  {
+    "id": "231-sharpedo",
+    "kulure_pokedex_number": 231,
+    "national_pokedex_number": 319,
+    "name": "Sharpedo",
+    "type": ["Water", "Dark"],
+    "abilities": ["Rough Skin", null, "Speed Boost"],
+    "base_stats": [70, 120, 40, 95, 40, 95]
+  },
+  {
+    "id": "232-heracross",
+    "kulure_pokedex_number": 232,
+    "national_pokedex_number": 214,
+    "name": "Heracross",
+    "type": ["Bug", "Fighting"],
+    "abilities": ["Swarm", "Guts", "Moxie"],
+    "base_stats": [80, 125, 75, 40, 95, 85]
+  },
+  {
+    "id": "233-yamask-g",
+    "kulure_pokedex_number": 233,
+    "national_pokedex_number": 562,
+    "name": "Yamask",
+    "type": ["Ground", "Ghost"],
+    "abilities": ["Wandering Spirit", null, null],
+    "base_stats": [38, 55, 85, 30, 65, 30]
+  },
+  {
+    "id": "234-cofagrigus",
+    "kulure_pokedex_number": 234,
+    "national_pokedex_number": 563,
+    "name": "Cofagrigus",
+    "type": ["Ghost", null],
+    "abilities": ["Mummy", null, null],
+    "base_stats": [58, 50, 145, 95, 105, 30]
+  },
+  {
+    "id": "235-runerigus",
+    "kulure_pokedex_number": 235,
+    "national_pokedex_number": 867,
+    "name": "Runerigus",
+    "type": ["Ground", "Ghost"],
+    "abilities": ["Wandering Spirit", null, null],
+    "base_stats": [58, 95, 145, 50, 105, 30]
+  },
+  {
+    "id": "236-dhelmise",
+    "kulure_pokedex_number": 236,
+    "national_pokedex_number": 781,
+    "name": "Dhelmise",
+    "type": ["Ghost", "Grass"],
+    "abilities": ["Steelworker", null, null],
+    "base_stats": [70, 131, 100, 86, 90, 40]
+  },
+  {
+    "id": "237-pincurchin",
+    "kulure_pokedex_number": 237,
+    "national_pokedex_number": 871,
+    "name": "Pincurchin",
+    "type": ["Electric", null],
+    "abilities": ["Lightning Rod", null, "Electric Surge"],
+    "base_stats": [48, 101, 95, 91, 85, 15]
+  },
+  {
+    "id": "238-morpeko",
+    "kulure_pokedex_number": 238,
+    "national_pokedex_number": 877,
+    "name": "Morpeko",
+    "type": ["Electric", "Dark"],
+    "abilities": ["Hunger Switch", null, null],
+    "base_stats": [58, 95, 58, 70, 58, 97]
+  },
+  {
+    "id": "239-stunfisk-g",
+    "kulure_pokedex_number": 239,
+    "national_pokedex_number": 618,
+    "name": "Stunfisk-G",
+    "type": ["Ground", "Steel"],
+    "abilities": ["Mimicry", null, "Sand Veil"],
+    "base_stats": [109, 81, 99, 66, 84, 32]
+  },
+  {
+    "id": "240-misdreavus",
+    "kulure_pokedex_number": 240,
+    "national_pokedex_number": 200,
+    "name": "Misdreavus",
+    "type": ["Ghost", null],
+    "abilities": ["Levitate", null, null],
+    "base_stats": [60, 60, 60, 85, 85, 85]
+  },
+  {
+    "id": "241-mismagius",
+    "kulure_pokedex_number": 241,
+    "national_pokedex_number": 429,
+    "name": "Mismagius",
+    "type": ["Ghost", null],
+    "abilities": ["Levitate", null, null],
+    "base_stats": [60, 60, 60, 105, 105, 105]
+  },
+  {
+    "id": "242-grimer-a",
+    "kulure_pokedex_number": 242,
+    "national_pokedex_number": 88,
+    "name": "Grimer-A",
+    "type": ["Poison", "Dark"],
+    "abilities": ["Poison Touch", "Gluttony", "Power of Alchemy"],
+    "base_stats": [80, 80, 50, 40, 50, 25]
+  },
+  {
+    "id": "243-muk-a",
+    "kulure_pokedex_number": 243,
+    "national_pokedex_number": 89,
+    "name": "Muk-A",
+    "type": ["Poison", "Dark"],
+    "abilities": ["Poison Touch", "Gluttony", "Power of Alchemy"],
+    "base_stats": [105, 105, 75, 65, 100, 50]
+  },
+  {
+    "id": "244-gible",
+    "kulure_pokedex_number": 244,
+    "national_pokedex_number": 443,
+    "name": "Gible",
+    "type": ["Dragon", "Ground"],
+    "abilities": ["Sand Veil", null, "Rough Skin"],
+    "base_stats": [58, 70, 45, 40, 45, 42]
+  },
+  {
+    "id": "245-gabite",
+    "kulure_pokedex_number": 245,
+    "national_pokedex_number": 444,
+    "name": "Gabite",
+    "type": ["Dragon", "Ground"],
+    "abilities": ["Sand Veil", null, "Rough Skin"],
+    "base_stats": [68, 90, 65, 50, 55, 82]
+  },
+  {
+    "id": "246-garchomp",
+    "kulure_pokedex_number": 246,
+    "national_pokedex_number": 445,
+    "name": "Garchomp",
+    "type": ["Dragon", "Ground"],
+    "abilities": ["Sand Veil", null, "Rough Skin"],
+    "base_stats": [108, 130, 95, 80, 85, 102]
+  },
+  {
+    "id": "247-binacle",
+    "kulure_pokedex_number": 247,
+    "national_pokedex_number": 688,
+    "name": "Binacle",
+    "type": ["Rock", "Water"],
+    "abilities": ["Tough Claws", "Sniper", "Pickpocket"],
+    "base_stats": [42, 52, 67, 39, 56, 50]
+  },
+  {
+    "id": "248-barbaracle",
+    "kulure_pokedex_number": 248,
+    "national_pokedex_number": 689,
+    "name": "Barbaracle",
+    "type": ["Rock", "Water"],
+    "abilities": ["Tough Claws", "Sniper", "Pickpocket"],
+    "base_stats": [72, 105, 115, 54, 86, 68]
+  },
+  {
+    "id": "249-mareanie",
+    "kulure_pokedex_number": 249,
+    "national_pokedex_number": 747,
+    "name": "Mareanie",
+    "type": ["Poison", "Water"],
+    "abilities": ["Merciless", "Limber", "Regenerator"],
+    "base_stats": [50, 53, 62, 43, 52, 45]
+  },
+  {
+    "id": "250-toxapex",
+    "kulure_pokedex_number": 250,
+    "national_pokedex_number": 748,
+    "name": "Toxapex",
+    "type": ["Poison", "Water"],
+    "abilities": ["Merciless", "Limber", "Regenerator"],
+    "base_stats": [50, 63, 152, 53, 142, 35]
+  },
+  {
+    "id": "251-koffing",
+    "kulure_pokedex_number": 251,
+    "national_pokedex_number": 109,
+    "name": "Koffing",
+    "type": ["Poison", null],
+    "abilities": ["Levitate", null, "Neutralizing Gas"],
+    "base_stats": [40, 65, 95, 60, 45, 35]
+  },
+  {
+    "id": "252-weezing-g",
+    "kulure_pokedex_number": 252,
+    "national_pokedex_number": 110,
+    "name": "Weezing-G",
+    "type": ["Poison", "Fairy"],
+    "abilities": ["Levitate", "Neutralizing Gas", "Misty Surge"],
+    "base_stats": [65, 90, 120, 85, 70, 60]
+  },
+  {
+    "id": "253-zorua",
+    "kulure_pokedex_number": 253,
+    "national_pokedex_number": 570,
+    "name": "Zorua",
+    "type": ["Dark", null],
+    "abilities": ["Illusion", null, null],
+    "base_stats": [40, 65, 40, 80, 40, 65]
+  },
+  {
+    "id": "254-zoroark",
+    "kulure_pokedex_number": 254,
+    "national_pokedex_number": 571,
+    "name": "Zoroark",
+    "type": ["Dark", null],
+    "abilities": ["Illusion", null, null],
+    "base_stats": [60, 105, 60, 120, 60, 105]
+  },
+  {
+    "id": "255-lapras",
+    "kulure_pokedex_number": 255,
+    "national_pokedex_number": 131,
+    "name": "Lapras",
+    "type": ["Water", "Ice"],
+    "abilities": ["Water Absorb", "Shell Armor", "Hydration"],
+    "base_stats": [130, 85, 80, 85, 95, 60]
+  },
+  {
+    "id": "256-crabrawler",
+    "kulure_pokedex_number": 256,
+    "national_pokedex_number": 739,
+    "name": "Crabrawler",
+    "type": ["Fighting", null],
+    "abilities": ["Hyper Cutter", "Iron Fist", "Anger Point"],
+    "base_stats": [47, 82, 57, 42, 47, 63]
+  },
+  {
+    "id": "257-crabominable",
+    "kulure_pokedex_number": 257,
+    "national_pokedex_number": 740,
+    "name": "Crabominable",
+    "type": ["Fighting", "Ice"],
+    "abilities": ["Hyper Cutter", "Iron Fist", "Anger Point"],
+    "base_stats": [97, 132, 77, 62, 67, 43]
+  },
+  {
+    "id": "258-phantump",
+    "kulure_pokedex_number": 258,
+    "national_pokedex_number": 708,
+    "name": "Phantump",
+    "type": ["Ghost", "Grass"],
+    "abilities": ["Natural Cure", "Frisk", "Harvest"],
+    "base_stats": [43, 70, 48, 50, 60, 38]
+  },
+  {
+    "id": "259-trevenant",
+    "kulure_pokedex_number": 259,
+    "national_pokedex_number": 709,
+    "name": "Trevenant",
+    "type": ["Ghost", "Grass"],
+    "abilities": ["Natural Cure", "Frisk", "Harvest"],
+    "base_stats": [85, 110, 76, 65, 82, 56]
+  },
+  {
+    "id": "260-sandygast",
+    "kulure_pokedex_number": 260,
+    "national_pokedex_number": 769,
+    "name": "Sandygast",
+    "type": ["Ghost", "Ground"],
+    "abilities": ["Water Compaction", null, "Sand Veil"],
+    "base_stats": [55, 55, 80, 70, 45, 15]
+  },
+  {
+    "id": "261-palossand",
+    "kulure_pokedex_number": 261,
+    "national_pokedex_number": 770,
+    "name": "Palossand",
+    "type": ["Ghost", "Ground"],
+    "abilities": ["Water Compaction", null, "Sand Veil"],
+    "base_stats": [85, 75, 110, 100, 75, 35]
+  },
+  {
+    "id": "262-slowpoke",
+    "kulure_pokedex_number": 262,
+    "national_pokedex_number": 79,
+    "name": "Slowpoke",
+    "type": ["Water", "Psychic"],
+    "abilities": ["Oblivious", "Own Tempo", "Regenerator"],
+    "base_stats": [90, 65, 65, 40, 40, 15]
+  },
+  {
+    "id": "263-slowbro",
+    "kulure_pokedex_number": 263,
+    "national_pokedex_number": 80,
+    "name": "Slowbro",
+    "type": ["Water", "Psychic"],
+    "abilities": ["Oblivious", "Own Tempo", "Regenerator"],
+    "base_stats": [95, 75, 110, 100, 80, 30]
+  },
+  {
+    "id": "264-slowking",
+    "kulure_pokedex_number": 264,
+    "national_pokedex_number": 199,
+    "name": "Slowking",
+    "type": ["Water", "Psychic"],
+    "abilities": ["Oblivious", "Own Tempo", "Regenerator"],
+    "base_stats": [95, 75, 80, 100, 110, 30]
+  },
+  {
+    "id": "265-corsola-g",
+    "kulure_pokedex_number": 265,
+    "national_pokedex_number": 222,
+    "name": "Corsola-G",
+    "type": ["Ghost", null],
+    "abilities": ["Weak Armor", null, "Cursed Body"],
+    "base_stats": [60, 55, 100, 65, 100, 30]
+  },
+  {
+    "id": "266-cursola",
+    "kulure_pokedex_number": 266,
+    "national_pokedex_number": 864,
+    "name": "Cursola",
+    "type": ["Ghost", null],
+    "abilities": ["Weak Armor", null, "Perish Body"],
+    "base_stats": [60, 95, 50, 145, 130, 30]
+  },
+  {
+    "id": "267-falinks",
+    "kulure_pokedex_number": 267,
+    "national_pokedex_number": 870,
+    "name": "Falinks",
+    "type": ["Fighting", null],
+    "abilities": ["Battle Armor", null, "Defiant"],
+    "base_stats": [65, 100, 100, 70, 60, 75]
+  },
+  {
+    "id": "268-pawniard",
+    "kulure_pokedex_number": 268,
+    "national_pokedex_number": 624,
+    "name": "Pawniard",
+    "type": ["Dark", "Steel"],
+    "abilities": ["Defiant", "Inner Focus", "Pressure"],
+    "base_stats": [45, 85, 70, 40, 40, 60]
+  },
+  {
+    "id": "269-bisharp",
+    "kulure_pokedex_number": 269,
+    "national_pokedex_number": 625,
+    "name": "Bisharp",
+    "type": ["Dark", "Steel"],
+    "abilities": ["Defiant", "Inner Focus", "Pressure"],
+    "base_stats": [65, 125, 100, 60, 70, 70]
+  },
+  {
+    "id": "270-elgyem",
+    "kulure_pokedex_number": 270,
+    "national_pokedex_number": 605,
+    "name": "Elgyem",
+    "type": ["Psychic", null],
+    "abilities": ["Telepathy", "Synchronize", "Analytic"],
+    "base_stats": [55, 55, 55, 85, 55, 30]
+  },
+  {
+    "id": "271-beheeyem",
+    "kulure_pokedex_number": 271,
+    "national_pokedex_number": 606,
+    "name": "Beheeyem",
+    "type": ["Psychic", null],
+    "abilities": ["Telepathy", "Synchronize", "Analytic"],
+    "base_stats": [75, 75, 75, 125, 95, 40]
+  },
+  {
+    "id": "272-mankey",
+    "kulure_pokedex_number": 272,
+    "national_pokedex_number": 56,
+    "name": "Mankey",
+    "type": ["Fighting", null],
+    "abilities": ["Vital Spirit", "Anger Point", "Defiant"],
+    "base_stats": [40, 80, 35, 35, 45, 70]
+  },
+  {
+    "id": "273-primeape",
+    "kulure_pokedex_number": 273,
+    "national_pokedex_number": 57,
+    "name": "Primeape",
+    "type": ["Fighting", null],
+    "abilities": ["Vital Spirit", "Anger Point", "Defiant"],
+    "base_stats": [65, 105, 60, 60, 70, 95]
+  },
+  {
+    "id": "274-bergmite",
+    "kulure_pokedex_number": 274,
+    "national_pokedex_number": 712,
+    "name": "Bergmite",
+    "type": ["Ice", null],
+    "abilities": ["Own Tempo", "Ice Body", "Sturdy"],
+    "base_stats": [55, 69, 85, 32, 35, 28]
+  },
+  {
+    "id": "275-avalugg",
+    "kulure_pokedex_number": 275,
+    "national_pokedex_number": 713,
+    "name": "Avalugg",
+    "type": ["Ice", null],
+    "abilities": ["Own Tempo", "Ice Body", "Sturdy"],
+    "base_stats": [95, 117, 184, 44, 46, 28]
+  },
+  {
+    "id": "276-stonjourner",
+    "kulure_pokedex_number": 276,
+    "national_pokedex_number": 874,
+    "name": "Stonjourner",
+    "type": ["Rock", null],
+    "abilities": ["Power Spot", null, null],
+    "base_stats": [100, 125, 135, 20, 20, 70]
+  },
+  {
+    "id": "277-delibird",
+    "kulure_pokedex_number": 277,
+    "national_pokedex_number": 225,
+    "name": "Delibird",
+    "type": ["Ice", "Flying"],
+    "abilities": ["Vital Spirit", "Hustle", "Insomnia"],
+    "base_stats": [45, 55, 45, 65, 45, 75]
+  },
+  {
+    "id": "278-comfey",
+    "kulure_pokedex_number": 278,
+    "national_pokedex_number": 764,
+    "name": "Comfey",
+    "type": ["Fairy", null],
+    "abilities": ["Flower Veil", "Triage", "Natural Cure"],
+    "base_stats": [51, 52, 90, 82, 110, 100]
+  },
+  {
+    "id": "279-cufant",
+    "kulure_pokedex_number": 279,
+    "national_pokedex_number": 878,
+    "name": "Cufant",
+    "type": ["Steel", null],
+    "abilities": ["Sheer Force", null, "Heavy Metal"],
+    "base_stats": [72, 80, 49, 40, 49, 40]
+  },
+  {
+    "id": "280-copperajah",
+    "kulure_pokedex_number": 280,
+    "national_pokedex_number": 879,
+    "name": "Copperajah",
+    "type": ["Steel", null],
+    "abilities": ["Sheer Force", null, "Heavy Metal"],
+    "base_stats": [122, 130, 69, 80, 69, 30]
+  },
+  {
+    "id": "281-joltik",
+    "kulure_pokedex_number": 281,
+    "national_pokedex_number": 595,
+    "name": "Joltik",
+    "type": ["Bug", "Electric"],
+    "abilities": ["Compound Eyes", "Unnerve", "Swarm"],
+    "base_stats": [50, 47, 50, 57, 50, 65]
+  },
+  {
+    "id": "282-galvantula",
+    "kulure_pokedex_number": 282,
+    "national_pokedex_number": 596,
+    "name": "Galvantula",
+    "type": ["Bug", "Electric"],
+    "abilities": ["Compound Eyes", "Unnerve", "Swarm"],
+    "base_stats": [70, 77, 60, 97, 60, 108]
+  },
+  {
+    "id": "283-carnivine",
+    "kulure_pokedex_number": 283,
+    "national_pokedex_number": 455,
+    "name": "Carnivine",
+    "type": ["Grass", null],
+    "abilities": ["Levitate", null, null],
+    "base_stats": [74, 100, 72, 90, 72, 46]
+  },
+  {
+    "id": "284-litleo",
+    "kulure_pokedex_number": 284,
+    "national_pokedex_number": 667,
+    "name": "Litleo",
+    "type": ["Fire", "Normal"],
+    "abilities": ["Rivalry", "Unnerve", "Moxie"],
+    "base_stats": [62, 50, 58, 73, 54, 72]
+  },
+  {
+    "id": "285-pyroar",
+    "kulure_pokedex_number": 285,
+    "national_pokedex_number": 668,
+    "name": "Pyroar",
+    "type": ["Fire", "Normal"],
+    "abilities": ["Rivalry", "Unnerve", "Moxie"],
+    "base_stats": [86, 68, 72, 109, 66, 106]
+  },
+  {
+    "id": "286-kangaskhan",
+    "kulure_pokedex_number": 286,
+    "national_pokedex_number": 115,
+    "name": "Kangaskhan",
+    "type": ["Normal", null],
+    "abilities": ["Early Bird", "Scrappy", "Inner Focus"],
+    "base_stats": [105, 95, 80, 40, 80, 90]
+  },
+  {
+    "id": "287-duraludon",
+    "kulure_pokedex_number": 287,
+    "national_pokedex_number": 884,
+    "name": "Duraludon",
+    "type": ["Steel", "Dragon"],
+    "abilities": ["Light Metal", "Heavy Metal", "Stalwart"],
+    "base_stats": [70, 95, 115, 120, 50, 85]
+  },
+  {
+    "id": "288-articuno-g",
+    "kulure_pokedex_number": 288,
+    "national_pokedex_number": 144,
+    "name": "Articuno-G",
+    "type": ["Psychic", "Flying"],
+    "abilities": ["Competitive", null, null],
+    "base_stats": [90, 85, 85, 125, 100, 95]
+  },
+  {
+    "id": "289-zapdos-g",
+    "kulure_pokedex_number": 289,
+    "national_pokedex_number": 145,
+    "name": "Zapdos-G",
+    "type": ["Fighting", "Flying"],
+    "abilities": ["Defiant", null, null],
+    "base_stats": [90, 125, 90, 85, 90, 100]
+  },
+  {
+    "id": "290-moltres-g",
+    "kulure_pokedex_number": 290,
+    "national_pokedex_number": 146,
+    "name": "Moltres-G",
+    "type": ["Dark", "Flying"],
+    "abilities": ["Berserk", null, null],
+    "base_stats": [90, 85, 90, 100, 125, 90]
+  },
+  {
+    "id": "291-jirachi",
+    "kulure_pokedex_number": 291,
+    "national_pokedex_number": 385,
+    "name": "Jirachi",
+    "type": ["Steel", "Psychic"],
+    "abilities": ["Serene Grace", null, null],
+    "base_stats": [100, 100, 100, 100, 100, 100]
+  },
+  {
+    "id": "292-shaymin",
+    "kulure_pokedex_number": 292,
+    "national_pokedex_number": 492,
+    "name": "Shaymin",
+    "type": ["Grass", null],
+    "abilities": ["Natural Cure", null, null],
+    "base_stats": [100, 100, 100, 100, 100, 100]
+  },
+  {
+    "id": "293-kyogre",
+    "kulure_pokedex_number": 293,
+    "national_pokedex_number": 382,
+    "name": "Kyogre",
+    "type": ["Water", null],
+    "abilities": ["Drizzle", null, null],
+    "base_stats": [100, 100, 90, 150, 140, 90]
+  },
+  {
+    "id": "294-groudon",
+    "kulure_pokedex_number": 294,
+    "national_pokedex_number": 383,
+    "name": "Groudon",
+    "type": ["Ground", null],
+    "abilities": ["Drought", null, null],
+    "base_stats": [100, 150, 140, 100, 90, 90]
+  },
+  {
+    "id": "295-volcanion",
+    "kulure_pokedex_number": 295,
+    "national_pokedex_number": 721,
+    "name": "Volcanion",
+    "type": ["Fire", "Water"],
+    "abilities": ["Water Absorb", null, null],
+    "base_stats": [80, 110, 120, 130, 90, 70]
+  },
+  {
+    "id": "296-zeraora",
+    "kulure_pokedex_number": 296,
+    "national_pokedex_number": 807,
+    "name": "Zeraora",
+    "type": ["Electric", null],
+    "abilities": ["Volt Absorb", null, null],
+    "base_stats": [88, 112, 75, 102, 80, 143]
+  },
+  {
+    "id": "297-glastrier",
+    "kulure_pokedex_number": 297,
+    "national_pokedex_number": 896,
+    "name": "Glastrier",
+    "type": ["Ice", null],
+    "abilities": ["Chilling Neigh", null, null],
+    "base_stats": [100, 145, 130, 65, 110, 30]
+  },
+  {
+    "id": "298-meltan",
+    "kulure_pokedex_number": 298,
+    "national_pokedex_number": 808,
+    "name": "Meltan",
+    "type": ["Steel", null],
+    "abilities": ["Magnet Pull", null, null],
+    "base_stats": [46, 65, 65, 55, 35, 34]
+  },
+  {
+    "id": "299-melmetal",
+    "kulure_pokedex_number": 299,
+    "national_pokedex_number": 809,
+    "name": "Melmetal",
+    "type": ["Steel", null],
+    "abilities": ["Iron Fist", null, null],
+    "base_stats": [135, 143, 143, 80, 65, 34]
+  },
+  {
+    "id": "300-victini",
+    "kulure_pokedex_number": 300,
+    "national_pokedex_number": 494,
+    "name": "Victini",
+    "type": ["Psychic", "Fire"],
+    "abilities": ["Victory Star", null, null],
+    "base_stats": [100, 100, 100, 100, 100, 100]
+  },
+  {
+    "id": "301-bulbasaur",
+    "kulure_pokedex_number": 301,
+    "national_pokedex_number": 1,
+    "name": "Bulbasaur",
+    "type": ["Grass", "Poison"],
+    "abilities": ["Overgrow", null, "Chlorophyll"],
+    "base_stats": [45, 49, 49, 65, 65, 45]
+  },
+  {
+    "id": "302-ivysaur",
+    "kulure_pokedex_number": 302,
+    "national_pokedex_number": 2,
+    "name": "Ivysaur",
+    "type": ["Grass", "Poison"],
+    "abilities": ["Overgrow", null, "Chlorophyll"],
+    "base_stats": [60, 62, 63, 80, 80, 60]
+  },
+  {
+    "id": "303-venusaur",
+    "kulure_pokedex_number": 303,
+    "national_pokedex_number": 3,
+    "name": "Venusaur",
+    "type": ["Grass", "Poison"],
+    "abilities": ["Overgrow", null, "Chlorophyll"],
+    "base_stats": [80, 82, 83, 100, 100, 80]
+  },
+  {
+    "id": "304-charmander",
+    "kulure_pokedex_number": 304,
+    "national_pokedex_number": 4,
+    "name": "Charmander",
+    "type": ["Fire", null],
+    "abilities": ["Blaze", null, "Solar Power"],
+    "base_stats": [39, 52, 43, 60, 50, 65]
+  },
+  {
+    "id": "305-charmeleon",
+    "kulure_pokedex_number": 305,
+    "national_pokedex_number": 5,
+    "name": "Charmeleon",
+    "type": ["Fire", null],
+    "abilities": ["Blaze", null, "Solar Power"],
+    "base_stats": [58, 64, 58, 80, 65, 80]
+  },
+  {
+    "id": "306-charizard",
+    "kulure_pokedex_number": 306,
+    "national_pokedex_number": 6,
+    "name": "Charizard",
+    "type": ["Fire", "Flying"],
+    "abilities": ["Blaze", null, "Solar Power"],
+    "base_stats": [78, 84, 78, 109, 85, 100]
+  },
+  {
+    "id": "307-squirtle",
+    "kulure_pokedex_number": 307,
+    "national_pokedex_number": 7,
+    "name": "Squirtle",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Rain Dish"],
+    "base_stats": [44, 48, 65, 50, 64, 43]
+  },
+  {
+    "id": "308-wartortle",
+    "kulure_pokedex_number": 308,
+    "national_pokedex_number": 8,
+    "name": "Wartortle",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Rain Dish"],
+    "base_stats": [59, 63, 80, 65, 80, 58]
+  },
+  {
+    "id": "309-blastoise",
+    "kulure_pokedex_number": 309,
+    "national_pokedex_number": 9,
+    "name": "Blastoise",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Rain Dish"],
+    "base_stats": [79, 83, 100, 85, 105, 78]
+  },
+  {
+    "id": "310-chikorita",
+    "kulure_pokedex_number": 310,
+    "national_pokedex_number": 152,
+    "name": "Chikorita",
+    "type": ["Grass", null],
+    "abilities": ["Overgrow", null, "Leaf Guard"],
+    "base_stats": [45, 49, 65, 49, 65, 45]
+  },
+  {
+    "id": "311-bayleef",
+    "kulure_pokedex_number": 311,
+    "national_pokedex_number": 153,
+    "name": "Bayleef",
+    "type": ["Grass", null],
+    "abilities": ["Overgrow", null, "Leaf Guard"],
+    "base_stats": [60, 62, 80, 63, 80, 60]
+  },
+  {
+    "id": "312-meganium",
+    "kulure_pokedex_number": 312,
+    "national_pokedex_number": 154,
+    "name": "Meganium",
+    "type": ["Grass", null],
+    "abilities": ["Overgrow", null, "Leaf Guard"],
+    "base_stats": [80, 82, 100, 83, 100, 80]
+  },
+  {
+    "id": "313-cyndaquil",
+    "kulure_pokedex_number": 313,
+    "national_pokedex_number": 155,
+    "name": "Cyndaquil",
+    "type": ["Fire", null],
+    "abilities": ["Blaze", null, "Flash Fire"],
+    "base_stats": [39, 52, 43, 60, 50, 65]
+  },
+  {
+    "id": "314-quilava",
+    "kulure_pokedex_number": 314,
+    "national_pokedex_number": 156,
+    "name": "Quilava",
+    "type": ["Fire", null],
+    "abilities": ["Blaze", null, "Flash Fire"],
+    "base_stats": [58, 64, 58, 80, 65, 80]
+  },
+  {
+    "id": "315-typhlosion",
+    "kulure_pokedex_number": 315,
+    "national_pokedex_number": 157,
+    "name": "Typhlosion",
+    "type": ["Fire", null],
+    "abilities": ["Blaze", null, "Flash Fire"],
+    "base_stats": [78, 84, 78, 109, 85, 100]
+  },
+  {
+    "id": "316-totodile",
+    "kulure_pokedex_number": 316,
+    "national_pokedex_number": 158,
+    "name": "Totodile",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Sheer Force"],
+    "base_stats": [50, 65, 64, 44, 48, 43]
+  },
+  {
+    "id": "317-croconaw",
+    "kulure_pokedex_number": 317,
+    "national_pokedex_number": 159,
+    "name": "Croconaw",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Sheer Force"],
+    "base_stats": [65, 80, 80, 59, 63, 58]
+  },
+  {
+    "id": "318-feraligatr",
+    "kulure_pokedex_number": 318,
+    "national_pokedex_number": 160,
+    "name": "Feraligatr",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Sheer Force"],
+    "base_stats": [85, 105, 100, 79, 83, 78]
+  },
+  {
+    "id": "319-treecko",
+    "kulure_pokedex_number": 319,
+    "national_pokedex_number": 252,
+    "name": "Treecko",
+    "type": ["Grass", null],
+    "abilities": ["Overgrow", null, "Unburden"],
+    "base_stats": [40, 45, 35, 65, 55, 70]
+  },
+  {
+    "id": "320-grovyle",
+    "kulure_pokedex_number": 320,
+    "national_pokedex_number": 253,
+    "name": "Grovyle",
+    "type": ["Grass", null],
+    "abilities": ["Overgrow", null, "Unburden"],
+    "base_stats": [50, 65, 45, 85, 65, 95]
+  },
+  {
+    "id": "321-sceptile",
+    "kulure_pokedex_number": 321,
+    "national_pokedex_number": 254,
+    "name": "Sceptile",
+    "type": ["Grass", null],
+    "abilities": ["Overgrow", null, "Unburden"],
+    "base_stats": [70, 85, 65, 105, 85, 120]
+  },
+  {
+    "id": "322-torchic",
+    "kulure_pokedex_number": 322,
+    "national_pokedex_number": 255,
+    "name": "Torchic",
+    "type": ["Fire", null],
+    "abilities": ["Blaze", null, "Speed Boost"],
+    "base_stats": [45, 60, 40, 70, 50, 45]
+  },
+  {
+    "id": "323-combusken",
+    "kulure_pokedex_number": 323,
+    "national_pokedex_number": 256,
+    "name": "Combusken",
+    "type": ["Fire", "Fighting"],
+    "abilities": ["Blaze", null, "Speed Boost"],
+    "base_stats": [60, 85, 60, 85, 60, 55]
+  },
+  {
+    "id": "324-blaziken",
+    "kulure_pokedex_number": 324,
+    "national_pokedex_number": 257,
+    "name": "Blaziken",
+    "type": ["Fire", "Fighting"],
+    "abilities": ["Blaze", null, "Speed Boost"],
+    "base_stats": [80, 120, 70, 110, 70, 80]
+  },
+  {
+    "id": "325-mudkip",
+    "kulure_pokedex_number": 325,
+    "national_pokedex_number": 258,
+    "name": "Mudkip",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Damp"],
+    "base_stats": [50, 70, 50, 50, 50, 40]
+  },
+  {
+    "id": "326-marshtomp",
+    "kulure_pokedex_number": 326,
+    "national_pokedex_number": 259,
+    "name": "Marshtomp",
+    "type": ["Water", "Ground"],
+    "abilities": ["Torrent", null, "Damp"],
+    "base_stats": [70, 85, 70, 60, 70, 50]
+  },
+  {
+    "id": "327-swampert",
+    "kulure_pokedex_number": 327,
+    "national_pokedex_number": 260,
+    "name": "Swampert",
+    "type": ["Water", "Ground"],
+    "abilities": ["Torrent", null, "Damp"],
+    "base_stats": [100, 110, 90, 85, 90, 60]
+  },
+  {
+    "id": "328-turtwig",
+    "kulure_pokedex_number": 328,
+    "national_pokedex_number": 387,
+    "name": "Turtwig",
+    "type": ["Grass", null],
+    "abilities": ["Overgrow", null, "Shell Armor"],
+    "base_stats": [55, 68, 64, 45, 55, 31]
+  },
+  {
+    "id": "329-grotle",
+    "kulure_pokedex_number": 329,
+    "national_pokedex_number": 388,
+    "name": "Grotle",
+    "type": ["Grass", null],
+    "abilities": ["Overgrow", null, "Shell Armor"],
+    "base_stats": [75, 89, 85, 55, 65, 36]
+  },
+  {
+    "id": "330-torterra",
+    "kulure_pokedex_number": 330,
+    "national_pokedex_number": 389,
+    "name": "Torterra",
+    "type": ["Grass", "Ground"],
+    "abilities": ["Overgrow", null, "Shell Armor"],
+    "base_stats": [95, 109, 105, 75, 85, 56]
+  },
+  {
+    "id": "331-chimchar",
+    "kulure_pokedex_number": 331,
+    "national_pokedex_number": 390,
+    "name": "Chimchar",
+    "type": ["Fire", null],
+    "abilities": ["Blaze", null, "Iron Fist"],
+    "base_stats": [44, 58, 44, 58, 44, 61]
+  },
+  {
+    "id": "332-monferno",
+    "kulure_pokedex_number": 332,
+    "national_pokedex_number": 391,
+    "name": "Monferno",
+    "type": ["Fire", "Fighting"],
+    "abilities": ["Blaze", null, "Iron Fist"],
+    "base_stats": [64, 78, 52, 78, 52, 81]
+  },
+  {
+    "id": "333-infernape",
+    "kulure_pokedex_number": 333,
+    "national_pokedex_number": 392,
+    "name": "Infernape",
+    "type": ["Fire", "Fighting"],
+    "abilities": ["Blaze", null, "Iron Fist"],
+    "base_stats": [76, 104, 71, 104, 71, 108]
+  },
+  {
+    "id": "334-piplup",
+    "kulure_pokedex_number": 334,
+    "national_pokedex_number": 393,
+    "name": "Piplup",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Defiant"],
+    "base_stats": [53, 51, 53, 61, 56, 40]
+  },
+  {
+    "id": "335-prinplup",
+    "kulure_pokedex_number": 335,
+    "national_pokedex_number": 394,
+    "name": "Prinplup",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Defiant"],
+    "base_stats": [64, 66, 68, 81, 76, 50]
+  },
+  {
+    "id": "336-empoleon",
+    "kulure_pokedex_number": 336,
+    "national_pokedex_number": 395,
+    "name": "Empoleon",
+    "type": ["Water", "Steel"],
+    "abilities": ["Torrent", null, "Defiant"],
+    "base_stats": [84, 86, 88, 111, 101, 60]
+  },
+  {
+    "id": "337-snivy",
+    "kulure_pokedex_number": 337,
+    "national_pokedex_number": 495,
+    "name": "Snivy",
+    "type": ["Grass", null],
+    "abilities": ["Overgrow", null, "Contrary"],
+    "base_stats": [45, 45, 55, 45, 55, 63]
+  },
+  {
+    "id": "338-servine",
+    "kulure_pokedex_number": 338,
+    "national_pokedex_number": 496,
+    "name": "Servine",
+    "type": ["Grass", null],
+    "abilities": ["Overgrow", null, "Contrary"],
+    "base_stats": [60, 60, 75, 60, 75, 83]
+  },
+  {
+    "id": "339-serperior",
+    "kulure_pokedex_number": 339,
+    "national_pokedex_number": 497,
+    "name": "Serperior",
+    "type": ["Grass", null],
+    "abilities": ["Overgrow", null, "Contrary"],
+    "base_stats": [75, 75, 95, 75, 95, 113]
+  },
+  {
+    "id": "340-tepig",
+    "kulure_pokedex_number": 340,
+    "national_pokedex_number": 498,
+    "name": "Tepig",
+    "type": ["Fire", null],
+    "abilities": ["Blaze", null, "Thick Fat"],
+    "base_stats": [65, 63, 45, 45, 45, 45]
+  },
+  {
+    "id": "341-pignite",
+    "kulure_pokedex_number": 341,
+    "national_pokedex_number": 499,
+    "name": "Pignite",
+    "type": ["Fire", "Fighting"],
+    "abilities": ["Blaze", null, "Thick Fat"],
+    "base_stats": [90, 93, 55, 70, 55, 55]
+  },
+  {
+    "id": "342-emboar",
+    "kulure_pokedex_number": 342,
+    "national_pokedex_number": 500,
+    "name": "Emboar",
+    "type": ["Fire", "Fighting"],
+    "abilities": ["Blaze", null, "Reckless"],
+    "base_stats": [110, 123, 65, 100, 65, 65]
+  },
+  {
+    "id": "343-oshawott",
+    "kulure_pokedex_number": 343,
+    "national_pokedex_number": 501,
+    "name": "Oshawott",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Shell Armor"],
+    "base_stats": [55, 55, 45, 63, 45, 45]
+  },
+  {
+    "id": "344-dewott",
+    "kulure_pokedex_number": 344,
+    "national_pokedex_number": 502,
+    "name": "Dewott",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Shell Armor"],
+    "base_stats": [75, 75, 60, 83, 60, 60]
+  },
+  {
+    "id": "345-samurott",
+    "kulure_pokedex_number": 345,
+    "national_pokedex_number": 503,
+    "name": "Samurott",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Shell Armor"],
+    "base_stats": [95, 100, 85, 108, 70, 70]
+  },
+  {
+    "id": "346-chespin",
+    "kulure_pokedex_number": 346,
+    "national_pokedex_number": 650,
+    "name": "Chespin",
+    "type": ["Grass", null],
+    "abilities": ["Overgrow", null, "Bulletproof"],
+    "base_stats": [56, 61, 65, 48, 45, 38]
+  },
+  {
+    "id": "347-quilladin",
+    "kulure_pokedex_number": 347,
+    "national_pokedex_number": 651,
+    "name": "Quilladin",
+    "type": ["Grass", null],
+    "abilities": ["Overgrow", null, "Bulletproof"],
+    "base_stats": [61, 78, 95, 56, 58, 57]
+  },
+  {
+    "id": "348-chesnaught",
+    "kulure_pokedex_number": 348,
+    "national_pokedex_number": 652,
+    "name": "Chesnaught",
+    "type": ["Grass", "Fighting"],
+    "abilities": ["Overgrow", null, "Bulletproof"],
+    "base_stats": [88, 107, 122, 74, 75, 64]
+  },
+  {
+    "id": "349-fennekin",
+    "kulure_pokedex_number": 349,
+    "national_pokedex_number": 653,
+    "name": "Fennekin",
+    "type": ["Fire", null],
+    "abilities": ["Blaze", null, "Magician"],
+    "base_stats": [40, 45, 40, 62, 60, 60]
+  },
+  {
+    "id": "350-braixen",
+    "kulure_pokedex_number": 350,
+    "national_pokedex_number": 654,
+    "name": "Braixen",
+    "type": ["Fire", null],
+    "abilities": ["Blaze", null, "Magician"],
+    "base_stats": [59, 59, 58, 90, 70, 73]
+  },
+  {
+    "id": "351-delphox",
+    "kulure_pokedex_number": 351,
+    "national_pokedex_number": 655,
+    "name": "Delphox",
+    "type": ["Fire", "Psychic"],
+    "abilities": ["Blaze", null, "Magician"],
+    "base_stats": [75, 69, 72, 114, 100, 104]
+  },
+  {
+    "id": "352-froakie",
+    "kulure_pokedex_number": 352,
+    "national_pokedex_number": 656,
+    "name": "Froakie",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Protean"],
+    "base_stats": [41, 56, 40, 62, 44, 71]
+  },
+  {
+    "id": "353-frogadier",
+    "kulure_pokedex_number": 353,
+    "national_pokedex_number": 657,
+    "name": "Frogadier",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Protean"],
+    "base_stats": [54, 63, 52, 83, 56, 97]
+  },
+  {
+    "id": "354-greninja",
+    "kulure_pokedex_number": 354,
+    "national_pokedex_number": 658,
+    "name": "Greninja",
+    "type": ["Water", "Dark"],
+    "abilities": ["Torrent", null, "Protean"],
+    "base_stats": [72, 95, 67, 103, 71, 122]
+  },
+  {
+    "id": "355-rowlet",
+    "kulure_pokedex_number": 355,
+    "national_pokedex_number": 722,
+    "name": "Rowlet",
+    "type": ["Grass", "Flying"],
+    "abilities": ["Overgrow", null, "Long Reach"],
+    "base_stats": [68, 55, 55, 50, 50, 42]
+  },
+  {
+    "id": "356-dartrix",
+    "kulure_pokedex_number": 356,
+    "national_pokedex_number": 723,
+    "name": "Dartrix",
+    "type": ["Grass", "Flying"],
+    "abilities": ["Overgrow", null, "Long Reach"],
+    "base_stats": [78, 75, 75, 70, 70, 52]
+  },
+  {
+    "id": "357-decidueye",
+    "kulure_pokedex_number": 357,
+    "national_pokedex_number": 724,
+    "name": "Decidueye",
+    "type": ["Grass", "Ghost"],
+    "abilities": ["Overgrow", null, "Long Reach"],
+    "base_stats": [78, 107, 75, 100, 100, 70]
+  },
+  {
+    "id": "358-litten",
+    "kulure_pokedex_number": 358,
+    "national_pokedex_number": 725,
+    "name": "Litten",
+    "type": ["Fire", null],
+    "abilities": ["Blaze", null, "Intimidate"],
+    "base_stats": [45, 65, 40, 60, 40, 70]
+  },
+  {
+    "id": "359-torracat",
+    "kulure_pokedex_number": 359,
+    "national_pokedex_number": 726,
+    "name": "Torracat",
+    "type": ["Fire", null],
+    "abilities": ["Blaze", null, "Intimidate"],
+    "base_stats": [65, 85, 50, 80, 50, 90]
+  },
+  {
+    "id": "360-incineroar",
+    "kulure_pokedex_number": 360,
+    "national_pokedex_number": 727,
+    "name": "Incineroar",
+    "type": ["Fire", "Dark"],
+    "abilities": ["Blaze", null, "Intimidate"],
+    "base_stats": [95, 115, 90, 80, 90, 60]
+  },
+  {
+    "id": "361-popplio",
+    "kulure_pokedex_number": 361,
+    "national_pokedex_number": 728,
+    "name": "Popplio",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Liquid Voice"],
+    "base_stats": [50, 54, 54, 66, 56, 40]
+  },
+  {
+    "id": "362-brionne",
+    "kulure_pokedex_number": 362,
+    "national_pokedex_number": 729,
+    "name": "Brionne",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Liquid Voice"],
+    "base_stats": [60, 69, 69, 91, 81, 50]
+  },
+  {
+    "id": "363-primarina",
+    "kulure_pokedex_number": 363,
+    "national_pokedex_number": 730,
+    "name": "Primarina",
+    "type": ["Water", "Fairy"],
+    "abilities": ["Torrent", null, "Liquid Voice"],
+    "base_stats": [80, 74, 74, 126, 116, 60]
+  },
+  {
+    "id": "364-grookey",
+    "kulure_pokedex_number": 364,
+    "national_pokedex_number": 810,
+    "name": "Grookey",
+    "type": ["Grass", null],
+    "abilities": ["Overgrow", null, "Grassy Surge"],
+    "base_stats": [50, 65, 50, 40, 40, 65]
+  },
+  {
+    "id": "365-thwackey",
+    "kulure_pokedex_number": 365,
+    "national_pokedex_number": 811,
+    "name": "Thwackey",
+    "type": ["Grass", null],
+    "abilities": ["Overgrow", null, "Grassy Surge"],
+    "base_stats": [70, 85, 70, 60, 60, 80]
+  },
+  {
+    "id": "366-rillaboom",
+    "kulure_pokedex_number": 366,
+    "national_pokedex_number": 812,
+    "name": "Rillaboom",
+    "type": ["Grass", null],
+    "abilities": ["Overgrow", null, "Grassy Surge"],
+    "base_stats": [100, 125, 90, 60, 70, 85]
+  },
+  {
+    "id": "367-scorbunny",
+    "kulure_pokedex_number": 367,
+    "national_pokedex_number": 813,
+    "name": "Scorbunny",
+    "type": ["Fire", null],
+    "abilities": ["Blaze", null, "Libero"],
+    "base_stats": [50, 71, 40, 40, 40, 69]
+  },
+  {
+    "id": "368-raboot",
+    "kulure_pokedex_number": 368,
+    "national_pokedex_number": 814,
+    "name": "Raboot",
+    "type": ["Fire", null],
+    "abilities": ["Blaze", null, "Libero"],
+    "base_stats": [65, 86, 60, 55, 60, 94]
+  },
+  {
+    "id": "369-cinderace",
+    "kulure_pokedex_number": 369,
+    "national_pokedex_number": 815,
+    "name": "Cinderace",
+    "type": ["Fire", null],
+    "abilities": ["Blaze", null, "Libero"],
+    "base_stats": [80, 116, 75, 65, 75, 119]
+  },
+  {
+    "id": "370-sobble",
+    "kulure_pokedex_number": 370,
+    "national_pokedex_number": 816,
+    "name": "Sobble",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Sniper"],
+    "base_stats": [50, 40, 40, 70, 40, 70]
+  },
+  {
+    "id": "371-drizzile",
+    "kulure_pokedex_number": 371,
+    "national_pokedex_number": 817,
+    "name": "Drizzile",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Sniper"],
+    "base_stats": [65, 60, 55, 95, 55, 90]
+  },
+  {
+    "id": "372-inteleon",
+    "kulure_pokedex_number": 372,
+    "national_pokedex_number": 818,
+    "name": "Inteleon",
+    "type": ["Water", null],
+    "abilities": ["Torrent", null, "Sniper"],
+    "base_stats": [70, 85, 65, 125, 65, 120]
+  },
+  {
+    "id": "373-cosmog",
+    "kulure_pokedex_number": 373,
+    "national_pokedex_number": 789,
+    "name": "Cosmog",
+    "type": ["Psychic", null],
+    "abilities": ["Unaware", null, null],
+    "base_stats": [43, 29, 31, 29, 31, 37]
+  },
+  {
+    "id": "374-cosmoem",
+    "kulure_pokedex_number": 374,
+    "national_pokedex_number": 790,
+    "name": "Cosmoem",
+    "type": ["Psychic", null],
+    "abilities": ["Sturdy", null, null],
+    "base_stats": [43, 29, 131, 29, 131, 37]
+  },
+  {
+    "id": "375-solgaleo",
+    "kulure_pokedex_number": 375,
+    "national_pokedex_number": 791,
+    "name": "Solgaleo",
+    "type": ["Psychic", "Steel"],
+    "abilities": ["Full Metal Body", null, null],
+    "base_stats": [137, 137, 107, 113, 89, 97]
+  },
+  {
+    "id": "376-lunala",
+    "kulure_pokedex_number": 376,
+    "national_pokedex_number": 792,
+    "name": "Lunala",
+    "type": ["Psychic", "Ghost"],
+    "abilities": ["Shadow Shield", null, null],
+    "base_stats": [137, 113, 89, 137, 107, 97]
+  },
+  {
+    "id": "377-nihilego",
+    "kulure_pokedex_number": 377,
+    "national_pokedex_number": 793,
+    "name": "Nihilego",
+    "type": ["Rock", "Poison"],
+    "abilities": ["Beast Boost", null, null],
+    "base_stats": [109, 53, 47, 127, 131, 103]
+  },
+  {
+    "id": "378-buzzwole",
+    "kulure_pokedex_number": 378,
+    "national_pokedex_number": 794,
+    "name": "Buzzwole",
+    "type": ["Bug", "Fighting"],
+    "abilities": ["Beast Boost", null, null],
+    "base_stats": [107, 139, 139, 53, 53, 79]
+  },
+  {
+    "id": "379-pheromosa",
+    "kulure_pokedex_number": 379,
+    "national_pokedex_number": 795,
+    "name": "Pheromosa",
+    "type": ["Bug", "Fighting"],
+    "abilities": ["Beast Boost", null, null],
+    "base_stats": [71, 137, 37, 137, 37, 151]
+  },
+  {
+    "id": "380-xurkitree",
+    "kulure_pokedex_number": 380,
+    "national_pokedex_number": 796,
+    "name": "Xurkitree",
+    "type": ["Electric", null],
+    "abilities": ["Beast Boost", null, null],
+    "base_stats": [83, 89, 71, 173, 71, 83]
+  },
+  {
+    "id": "381-celesteela",
+    "kulure_pokedex_number": 381,
+    "national_pokedex_number": 797,
+    "name": "Celesteela",
+    "type": ["Steel", "Flying"],
+    "abilities": ["Beast Boost", null, null],
+    "base_stats": [97, 101, 103, 107, 101, 61]
+  },
+  {
+    "id": "382-kartana",
+    "kulure_pokedex_number": 382,
+    "national_pokedex_number": 798,
+    "name": "Kartana",
+    "type": ["Grass", "Steel"],
+    "abilities": ["Beast Boost", null, null],
+    "base_stats": [59, 181, 131, 59, 31, 109]
+  },
+  {
+    "id": "383-guzzlord",
+    "kulure_pokedex_number": 383,
+    "national_pokedex_number": 799,
+    "name": "Guzzlord",
+    "type": ["Dark", "Dragon"],
+    "abilities": ["Beast Boost", null, null],
+    "base_stats": [223, 101, 53, 97, 53, 43]
+  },
+  {
+    "id": "384-necrozma",
+    "kulure_pokedex_number": 384,
+    "national_pokedex_number": 800,
+    "name": "Necrozma",
+    "type": ["Psychic", null],
+    "abilities": ["Prism Armor", null, null],
+    "base_stats": [97, 107, 101, 127, 89, 79]
+  },
+  {
+    "id": "385-poipole",
+    "kulure_pokedex_number": 385,
+    "national_pokedex_number": 803,
+    "name": "Poipole",
+    "type": ["Poison", null],
+    "abilities": ["Beast Boost", null, null],
+    "base_stats": [67, 73, 67, 73, 67, 73]
+  },
+  {
+    "id": "386-naganadel",
+    "kulure_pokedex_number": 386,
+    "national_pokedex_number": 804,
+    "name": "Naganadel",
+    "type": ["Poison", "Dragon"],
+    "abilities": ["Beast Boost", null, null],
+    "base_stats": [73, 73, 73, 127, 73, 121]
+  },
+  {
+    "id": "387-stakataka",
+    "kulure_pokedex_number": 387,
+    "national_pokedex_number": 805,
+    "name": "Stakataka",
+    "type": ["Rock", "Steel"],
+    "abilities": ["Beast Boost", null, null],
+    "base_stats": [61, 131, 211, 53, 101, 13]
+  },
+  {
+    "id": "388-blacephalon",
+    "kulure_pokedex_number": 388,
+    "national_pokedex_number": 806,
+    "name": "Blacephalon",
+    "type": ["Fire", "Ghost"],
+    "abilities": ["Beast Boost", null, null],
+    "base_stats": [53, 127, 53, 151, 79, 107]
+  },
+  {
+    "id": "389-type-null",
+    "kulure_pokedex_number": 389,
+    "national_pokedex_number": 772,
+    "name": "Type: Null",
+    "type": ["Normal", null],
+    "abilities": ["Battle Armor", null, null],
+    "base_stats": [95, 95, 95, 95, 95, 59]
+  },
+  {
+    "id": "390-silvally",
+    "kulure_pokedex_number": 390,
+    "national_pokedex_number": 773,
+    "name": "Silvally",
+    "type": ["Normal", null],
+    "abilities": ["RKS System", null, null],
+    "base_stats": [95, 95, 95, 95, 95, 95]
+  }
+]
