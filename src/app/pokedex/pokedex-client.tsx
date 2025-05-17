@@ -18,9 +18,7 @@ export default function PokedexClient({ pokemon: initialPokemon, error: initialE
 
   useEffect(() => {
     // If initialPokemon is empty and no error, show loading
-    if (pokemon.length === 0 && !error) {
-      setLoading(true);
-    } else {
+    if (!!pokemon.length && !error) {
       setLoading(false);
     }
   }, [pokemon, error]);
