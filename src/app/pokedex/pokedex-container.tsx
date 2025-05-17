@@ -9,7 +9,11 @@ export default async function PokedexContainer() {
     try {
         pokemon = await firebaseService.getPokemon();
     } catch (e) {
-        error = "Error fetching Pokemon data: ${e.message}";
+        if (e instanceof Error) {
+            error = `Error fetching Pokemon data: ${e.message}`;
+        } else {
+            error = "Error fetching Pokemon data: Unknown error";
+        }
         console.error(error);
     }
 

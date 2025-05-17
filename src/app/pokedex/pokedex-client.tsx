@@ -10,8 +10,8 @@ interface PokedexClientProps {
 }
 
 export default function PokedexClient({ pokemon: initialPokemon, error: initialError }: PokedexClientProps) {
-  const [pokemon, setPokemon] = useState<Pokemon[]>(initialPokemon);
-  const [error, setError] = useState<string | null>(initialError || null);
+  const [pokemon] = useState<Pokemon[]>(initialPokemon);
+  const [error] = useState<string | null>(initialError || null);
   const [loading, setLoading] = useState(true);
 
   let pageContent: React.ReactElement[] = [<div key="loading" className="centered">Loading...</div>];
