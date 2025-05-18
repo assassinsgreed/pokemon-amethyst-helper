@@ -14,14 +14,7 @@ To debug, run the included `Next.js: debug full stack` debug configuration and p
 
 ## Deploying
 
-This repo makes use of GitHub actions to automatically deploy the application whenever a change is pushed to the main branch. This is configured in the `./.github/workflows/nextjs.yml` yaml chart.
-
-The build and deployment history can be found in GitHub [here](https://github.com/assassinsgreed/pokemon-amethyst-helper/actions/workflows/nextjs.yml).
-
-This repo makes use of PR previews which are automatically scaffolded and destroyed as PRs are opened, updated, and closed. To achieve this, I had to make some rather ugly changes:
-
-- NextJS now deploys static contents
-- The stylesheets are now referenced directly in the generated HTML's `<head>` tag, instead of being being intelligently bundled
+This repo makes use of Vercel to deploy both the production build and PR Previews. Links to these deployments can be found on the repo in GitHub.
 
 ## Credits
 
