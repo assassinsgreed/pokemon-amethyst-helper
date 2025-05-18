@@ -7,7 +7,7 @@ export default function PokedexTile({ pokemon }: { pokemon: Pokemon }) {
             className="pokedex-tile"
             style={{ backgroundImage: `linear-gradient(to bottom right, ${pokemon.first_type_colour}, ${pokemon.second_type_colour}) ` }}
         >
-            <Image
+            <img
                 src={pokemon.icon_url}
                 alt={pokemon.name}
                 width={48}
