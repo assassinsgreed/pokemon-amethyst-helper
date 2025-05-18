@@ -2,26 +2,15 @@
 import { Pokemon } from "@/models/pokemon";
 import PokedexTile from "./pokedex-tile";
 import { getPokemonIconUrl } from "./pokedex-helpers";
-import { useState, useEffect } from "react";
 
 interface PokedexClientProps {
   pokemon: Pokemon[];
   error?: string | null;
+  loading?: boolean;
 }
 
-export default function PokedexClient({ pokemon: initialPokemon, error: initialError }: PokedexClientProps) {
-  const [pokemon] = useState<Pokemon[]>(initialPokemon);
-  const [error] = useState<string | null>(initialError || null);
-  const [loading, setLoading] = useState(true);
-
+export default function PokedexClient({ pokemon, error, loading = false }: PokedexClientProps) {
   let pageContent: React.ReactElement[] = [<div key="loading" className="centered">Loading...</div>];
-
-  useEffect(() => {
-    // If initialPokemon is empty and no error, show loading
-    if (!!pokemon.length && !error) {
-      setLoading(false);
-    }
-  }, [pokemon, error]);
 
   if (!loading) {
     if (error) {

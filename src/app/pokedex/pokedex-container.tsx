@@ -1,21 +1,27 @@
+"use client";
+
 import { Pokemon } from "@/models/pokemon";
 import { firebaseService } from "@/services/firebase-service";
 import PokedexClient from "./pokedex-client";
+import { useEffect, useState } from "react";
 
-export default async function PokedexContainer() {
-    let pokemon: Pokemon[] = [];
-    let error: string | null = null;
+export default function PokedexContainer() {
+    const [pokemon, setPokemon] = useState<Pokemon[]>([]);
+    const [error, setError] = useState<string | null>(null);
+    const [loading, setLoading] = useState(true);
 
-    try {
-        pokemon = await firebaseService.getPokemon();
-    } catch (e) {
-        if (e instanceof Error) {
-            error = `Error fetching Pokemon data: ${e.message}`;
-        } else {
-            error = "Error fetching Pokemon data: Unknown error";
-        }
-        console.error(error);
-    }
+    useEffect(() => {
+        firebaseService.getPokemon()
+            .then(setPokemon)
+            .catch((e) => {
+                if (e instanceof Error) {
+                    setError(`Error fetching Pokemon data: ${e.message}`);
+                } else {
+                    setError("Error fetching Pokemon data: Unknown error");
+                }
+            })
+            .finally(() => setLoading(false));
+    }, []);
 
-    return <PokedexClient pokemon={pokemon} error={error} />;
+    return <PokedexClient pokemon={pokemon} error={error} loading={loading} />;
 }

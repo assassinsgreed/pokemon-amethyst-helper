@@ -1,24 +1,21 @@
 import { Pokemon } from "@/models/pokemon";
-import { initializeApp, cert, getApps, App } from "firebase-admin/app";
-import { getFirestore, Firestore } from "firebase-admin/firestore";
+import { initializeApp, getApps, FirebaseApp } from "firebase/app";
+import { getFirestore, Firestore, collection, getDocs } from "firebase/firestore";
 
 class FirebaseService {
     private firestore: Firestore;
 
     constructor() {
-        let app: App;
-        const { FIREBASE_PROJECT_ID, FIREBASE_CLIENT_EMAIL, FIREBASE_PRIVATE_KEY } = process.env;
-        if (!FIREBASE_PROJECT_ID || !FIREBASE_CLIENT_EMAIL || !FIREBASE_PRIVATE_KEY) {
-            throw new Error("Missing Firebase Admin credentials in environment variables.");
-        }
-        
+        let app: FirebaseApp;
         if (getApps().length === 0) {
             app = initializeApp({
-                credential: cert({
-                    projectId: FIREBASE_PROJECT_ID,
-                    clientEmail: FIREBASE_CLIENT_EMAIL,
-                    privateKey: FIREBASE_PRIVATE_KEY.replace(/\\n/g, "\n"),
-                }),
+                apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
+                authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
+                projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
+                storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
+                messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
+                appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
+                measurementId: process.env.NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID,
             });
         } else {
             app = getApps()[0];
@@ -32,8 +29,8 @@ class FirebaseService {
 
     public async getPokemon(): Promise<Pokemon[]> {
         const db = this.getFirestoreInstance();
-        const pokemonCollection = await db.collection("pokemon").get();
-        const pokemonList: Pokemon[] = pokemonCollection.docs.map(doc => doc.data() as Pokemon);
+        const pokemonSnapshot = await getDocs(collection(db, "pokemon"));
+        const pokemonList: Pokemon[] = pokemonSnapshot.docs.map(doc => doc.data() as Pokemon);
         return pokemonList;
     }
 }
