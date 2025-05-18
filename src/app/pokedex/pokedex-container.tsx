@@ -1,18 +1,28 @@
 "use client";
 
-import { Pokemon } from "@/models/pokemon";
 import { firebaseService } from "@/services/firebase-service";
-import PokedexClient from "./pokedex-client";
+import PokedexTile from "./pokedex-tile";
+import { Pokemon } from "@/models/pokemon";
+import { getPokemonIconUrl } from "./pokedex-helpers";
 import { useEffect, useState } from "react";
 
 export default function PokedexContainer() {
-    const [pokemon, setPokemon] = useState<Pokemon[]>([]);
-    const [error, setError] = useState<string | null>(null);
+    const [pokemonListHtml, setPokemonListHtml] = useState<React.ReactNode[]>([]);
     const [loading, setLoading] = useState(true);
+    const [error, setError] = useState<string | null>(null);
 
     useEffect(() => {
         firebaseService.getPokemon()
-            .then(setPokemon)
+            .then((pokemonList) => {
+                setPokemonListHtml(
+                    pokemonList.map((pokemon: Pokemon, idx: number) => {
+                        pokemon.icon_url = getPokemonIconUrl(pokemon);
+                        pokemon.first_type_colour = `var(--type_${pokemon.type[0]})`;
+                        pokemon.second_type_colour = pokemon.type[1] ? `var(--type_${pokemon.type[1]})` : pokemon.first_type_colour;
+                        return (<PokedexTile key={idx} pokemon={pokemon} />);
+                    })
+                );
+            })
             .catch((e) => {
                 if (e instanceof Error) {
                     setError(`Error fetching Pokemon data: ${e.message}`);
@@ -23,5 +33,17 @@ export default function PokedexContainer() {
             .finally(() => setLoading(false));
     }, []);
 
-    return <PokedexClient pokemon={pokemon} error={error} loading={loading} />;
+    return (
+        <>
+            <div className="centered">
+                <h1>Pokedex</h1>
+                <p>Click on a Pokemon to view its details.</p>
+            </div>
+            <div className="pokedex-container">
+                {loading && <div className="centered">Loading...</div>}
+                {error && <div className="centered">{error}</div>}
+                {!loading && !error && pokemonListHtml}
+            </div>
+        </>
+    );
 }
