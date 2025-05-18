@@ -29,8 +29,8 @@ async function PokedexContainer() {
     return (
         <>
             <div className="centered">
-                <h1>Pokedex</h1>
-                <p>Click on a Pokemon to view its details.</p>
+                <h1 className="text-3xl font-bold">Pokedex</h1>
+                <p className="m-8">Click on a Pokemon to view its details.</p>
             </div>
             <div className="pokedex-container">
                 {error && <div className="centered" style={{color: 'red'}}>{error}</div>}
