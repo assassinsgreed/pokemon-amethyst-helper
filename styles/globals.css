@@ -3,24 +3,24 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
-  --type_Normal: rgba(168, 168, 120, 0.75);
-  --type_Fighting: rgba(192, 48, 40, 0.75);
-  --type_Flying: rgba(168, 144, 240, 0.75);
-  --type_Poison: rgba(160, 64, 160, 0.75);
-  --type_Ground: rgba(224, 192, 104, 0.75);
-  --type_Rock: rgba(184, 160, 56, 0.75);
-  --type_Bug: rgba(168, 184, 32, 0.75);
-  --type_Ghost: rgba(112, 88, 152, 0.75);
-  --type_Fire: rgba(240, 128, 48, 0.75);
-  --type_Water: rgba(104, 144, 240, 0.75);
-  --type_Grass: rgba(120, 200, 80, 0.75);
-  --type_Electric: rgba(248, 208, 48, 0.75);
-  --type_Psychic: rgba(248, 88, 136, 0.75);
-  --type_Ice: rgba(152, 216, 216, 0.75);
-  --type_Fairy: rgba(238, 153, 172, 0.75);
-  --type_Dragon: rgba(112, 56, 248, 0.75);
-  --type_Dark: rgba(112, 88, 72, 0.75);
-  --type_Steel: rgba(184, 184, 208, 0.75);
+  --type_Normal: #a1a1a1bf;
+  --type_Fighting: #f08833bf;
+  --type_Flying: #8fb8e4bf;
+  --type_Poison: #6d4b97bf;
+  --type_Ground: #895229bf;
+  --type_Rock: #ada984bf;
+  --type_Bug: #95a135bf;
+  --type_Ghost: #9e3aa5bf;
+  --type_Fire: #d43a30bf;
+  --type_Water: #4c79bcbf;
+  --type_Grass: #5d9d3cbf;
+  --type_Electric: #f2c341bf;
+  --type_Psychic: #dc4d79bf;
+  --type_Ice: #78ccf0bf;
+  --type_Fairy: #ba7fb5bf;
+  --type_Dragon: #4c60a9bf;
+  --type_Dark: #3a253bbf;
+  --type_Steel: #918192bf;
 }
 
 @theme inline {
@@ -32,7 +32,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
+    --background: #1a1a1a;
     --foreground: #ededed;
   }
 }
@@ -43,11 +43,19 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {
+.title {
   color: #ddd;
   font-size: 48px;
   font-weight: bold;
   margin: 20px 0;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.footer {
+  font-size: large;
+  padding: 20px;
+  margin-top: 20px;
 }
 
 .centered {
