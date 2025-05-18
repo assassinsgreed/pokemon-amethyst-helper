@@ -2,6 +2,7 @@ import { Pokemon } from "@/models/pokemon";
 import { firebaseService } from "@/services/firebase-service";
 import PokedexTile from "./pokedex-tile";
 import { getPokemonIconUrl } from "./pokedex-helpers";
+import "styles/pokedex/pokedex-tile.css";
 
 export default function PokedexContainerWrapper() {
     return (
