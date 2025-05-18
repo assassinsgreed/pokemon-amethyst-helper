@@ -11,9 +11,13 @@ export default function PokedexContainer() {
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
 
+    console.log("Setting up component");
+
     useEffect(() => {
+        console.log("Fetching");
         firebaseService.getPokemon()
             .then((pokemonList) => {
+                console.log("Fetched");
                 setPokemonListHtml(
                     pokemonList.map((pokemon: Pokemon, idx: number) => {
                         pokemon.icon_url = getPokemonIconUrl(pokemon);
@@ -24,13 +28,17 @@ export default function PokedexContainer() {
                 );
             })
             .catch((e) => {
+                console.log("Caught error");
                 if (e instanceof Error) {
                     setError(`Error fetching Pokemon data: ${e.message}`);
                 } else {
                     setError("Error fetching Pokemon data: Unknown error");
                 }
             })
-            .finally(() => setLoading(false));
+            .finally(() => {
+                console.log("Finalizing loading");
+                setLoading(false)
+            });
     }, []);
 
     return (
@@ -41,7 +49,7 @@ export default function PokedexContainer() {
             </div>
             <div className="pokedex-container">
                 {loading && <div className="centered">Loading...</div>}
-                {error && <div className="centered">{error}</div>}
+                {!loading && error && <div className="centered">{error}</div>}
                 {!loading && !error && pokemonListHtml}
             </div>
         </>
