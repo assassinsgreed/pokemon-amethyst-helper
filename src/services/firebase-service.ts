@@ -4,6 +4,9 @@ import { getFirestore, Firestore } from "firebase-admin/firestore";
 
 class FirebaseService {
     private firestore: Firestore;
+    private pokemonCache: Pokemon[] | null = null;
+    private cacheTimestamp: number | null = null;
+    private readonly CACHE_DURATION_MS = 3 * 60 * 60 * 1000; // 3 hours
 
     constructor() {
         let app: App;
@@ -30,9 +33,15 @@ class FirebaseService {
     }
 
     public async getPokemon(): Promise<Pokemon[]> {
+        const now = Date.now();
+        if (this.pokemonCache && this.cacheTimestamp && now - this.cacheTimestamp < this.CACHE_DURATION_MS) {
+            return this.pokemonCache;
+        }
         const db = this.getFirestoreInstance();
         const pokemonCollection = await db.collection("pokemon").get();
         const pokemonList: Pokemon[] = pokemonCollection.docs.map(doc => doc.data() as Pokemon);
+        this.pokemonCache = pokemonList;
+        this.cacheTimestamp = now;
         return pokemonList;
     }
 }
