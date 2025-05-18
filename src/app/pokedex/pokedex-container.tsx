@@ -2,13 +2,10 @@ import { Pokemon } from "@/models/pokemon";
 import { firebaseService } from "@/services/firebase-service";
 import PokedexTile from "./pokedex-tile";
 import { getPokemonIconUrl } from "./pokedex-helpers";
-import { Suspense } from "react";
 
 export default function PokedexContainerWrapper() {
     return (
-        <Suspense fallback={<div className="centered">Loading...</div>}>
-            <PokedexContainer />
-        </Suspense>
+      <PokedexContainer />
     );
 }
 

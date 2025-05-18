@@ -23,11 +23,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <head>
-        {/* eslint-disable @next/next/no-css-tags */}
-        <link rel="stylesheet" href="./styles/globals.css" />
-        <link rel="stylesheet" href="./styles/pokedex/pokedex-tile.css" />
-      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
