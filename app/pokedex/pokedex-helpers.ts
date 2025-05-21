@@ -1,4 +1,4 @@
-import { Pokemon } from "@/models/pokemon";
+import { Pokemon } from "../../types/pokemon";
 
 export function getPokemonIconUrl(pokemon: Pokemon) {
     if (!pokemon || !pokemon.national_pokedex_number || !pokemon.name) {

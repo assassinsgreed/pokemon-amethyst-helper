@@ -1,5 +1,7 @@
-import type { Metadata } from "next";
+"use client";
+
 import { Geist, Geist_Mono } from "next/font/google";
+import {HeroUIProvider} from "@heroui/react";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -11,24 +13,21 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
-  title: "Pokemon Amethyst Helper",
-  description: "A web based utility designed to support people playing the Pokemon Amethyst Romhack",
-};
-
 export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" style={{ backgroundColor: "var(--background)" }}>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <div className="centered title">Pokemon Amethyst Helper</div>
-        {children}
-        <div className="centered footer">Copyright duck_caper 2025</div>
+        <HeroUIProvider>
+          <div className="centered title">Pokemon Amethyst Helper</div>
+          {children}
+          <div className="centered footer">Copyright duck_caper 2025</div>
+        </HeroUIProvider>
       </body>
     </html>
   );

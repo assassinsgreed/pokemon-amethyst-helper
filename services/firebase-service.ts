@@ -1,4 +1,4 @@
-import { Pokemon } from "@/models/pokemon";
+import { Pokemon } from "../types/pokemon";
 import { initializeApp, cert, getApps, App } from "firebase-admin/app";
 import { getFirestore, Firestore } from "firebase-admin/firestore";
 
