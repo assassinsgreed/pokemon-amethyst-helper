@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Pokemon } from "@/models/pokemon";
+import { Pokemon } from "../../types/pokemon";
 
 export default function PokedexTile({ pokemon }: { pokemon: Pokemon }) {
     return (
