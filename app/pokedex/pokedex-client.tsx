@@ -12,7 +12,7 @@ interface PokedexClientProps {
 
 export default function PokedexClient({ pokemonList, error }: PokedexClientProps) {
   const [search, setSearch] = useState("");
-  const [list, setList] = useState<Pokemon[]>(pokemonList);
+  const [list] = useState<Pokemon[]>(pokemonList);
 
   const filteredList = list.filter((pokemon) =>
     pokemon.name.toLowerCase().includes(search.toLowerCase())
