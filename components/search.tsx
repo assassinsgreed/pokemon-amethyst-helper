@@ -19,7 +19,7 @@ export default function Search({onChangeAction}: {onChangeAction: (query: string
     return (
         <Input
             isClearable
-            placeholder="Type to search by Pokemon name..."
+            placeholder="Type to search..."
             radius="full"
             size="lg"
             value={query}
