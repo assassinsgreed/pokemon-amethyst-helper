@@ -1,20 +1,20 @@
 "use client";
 
 import { Input } from "@heroui/react";
-import { JSX, SVGProps, useState } from "react";
+import { JSX, SVGProps, useCallback, useState } from "react";
 
 export default function Search({onChangeAction}: {onChangeAction: (query: string) => void}) {
     const [query, setQuery] = useState("");
 
-    const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+    const handleChange = useCallback((event: React.ChangeEvent<HTMLInputElement>) => {
         setQuery(event.target.value);
         onChangeAction(event.target.value);
-    };
+    }, []);
 
-    const handleClear = () => {
+    const handleClear = useCallback(() => {
         setQuery("");
         onChangeAction("");
-    }
+    }, []);
 
     return (
         <Input
