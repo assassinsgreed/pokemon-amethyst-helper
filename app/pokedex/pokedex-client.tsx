@@ -25,7 +25,7 @@ export default function PokedexClient({ pokemonList, error }: PokedexClientProps
 
   return (
     <>
-      <div className="centered min-w-6/10 mb-10">
+      <div className="flex flex-col items-center mx-auto max-w-5xl mb-10">
         <h1 className="mb-10">Pokedex</h1>
         <Search onChangeAction={handleSearchChange} />
       </div>

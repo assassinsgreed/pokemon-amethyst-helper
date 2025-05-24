@@ -1,4 +1,4 @@
-import Pokedex from "./pokedex/pokedex"
+import Pokedex from "./pokedex/page"
 import "../styles/globals.css";
 
 export default function Home() {

@@ -1,8 +1,8 @@
 import { Pokemon } from "../../types/pokemon";
 import { firebaseService } from "../../services/firebase-service";
 import { getPokemonIconUrl } from "./pokedex-helpers";
-
 import PokedexClient from "./pokedex-client";
+import "../../styles/globals.css";
 
 export default async function Pokedex() {
     let pokemonList: Pokemon[] = [];
