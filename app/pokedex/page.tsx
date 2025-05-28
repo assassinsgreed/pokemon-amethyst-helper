@@ -1,7 +1,7 @@
 import { Pokemon } from "../../types/pokemon";
 import { firebaseService } from "../../services/firebase-service";
 import { getPokemonIconUrl } from "./pokedex-helpers";
-import PokedexClient from "./pokedex-client";
+import PokedexContainer from "./pokedex-container";
 import "../../styles/globals.css";
 
 export default async function Pokedex() {
@@ -21,6 +21,6 @@ export default async function Pokedex() {
     }
 
     return (
-        <PokedexClient pokemonList={pokemonList} error={error} />
+        <PokedexContainer pokemonList={pokemonList} error={error} />
     );
 }
