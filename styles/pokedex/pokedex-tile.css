@@ -1,14 +1,13 @@
 .pokedex-tile {
+    position: relative;
     margin: 5px;
     padding: 10px;
+    justify-content: center;
     border-radius: 8px;
     border: 2px solid #fff;
     width: 136px;
     height: 136px;
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 20px;
     user-select: none;
     /* Background gradient set by JavaScript */
 
@@ -17,6 +16,21 @@
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         cursor: pointer;
     }
+}
+
+.pokedex-tile__number {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    opacity: 50%;
+    font-size: 14px;
+}
+
+.pokedex-tile__contents {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
 }
 
 .pokedex-tile__icon {

@@ -11,4 +11,12 @@ export interface Pokemon {
     type: string[];
     abilities: string[];
     base_stats: number[]; // [hp, attack, defense, specialAttack, specialDefense, speed]
+    catch_rate: number;
+    exp_yield: number;
+    items: string[]; // First (if any) is 50%, second (if any) is 5%
+    gender_ratio: number[]; // [Male %, Female %], or genderless if empty
+    egg_cycles: number;
+    friendship: number;
+    growth_rate: string;
+    egg_groups: string[]; // 1-2 entry array
 }
