@@ -64,8 +64,8 @@
     "catch_rate": 127,
     "exp_yield": 116,
     "items": [
-      "ITEM_ORAN_BERRY",
-      "ITEM_SITRUS_BERRY"
+      "Oran Berry",
+      "Sitrus Berry"
     ],
     "gender_ratio": [
       50,
@@ -222,7 +222,7 @@
     "exp_yield": 52,
     "items": [
       null,
-      "ITEM_COBA_BERRY"
+      "Coba Berry"
     ],
     "gender_ratio": [
       50,
@@ -378,7 +378,7 @@
     "exp_yield": 68,
     "items": [
       null,
-      "ITEM_POISON_BARB"
+      "Poison Barb"
     ],
     "gender_ratio": [
       50,
@@ -417,7 +417,7 @@
     "exp_yield": 152,
     "items": [
       null,
-      "ITEM_POISON_BARB"
+      "Poison Barb"
     ],
     "gender_ratio": [
       50,
@@ -457,7 +457,7 @@
     "exp_yield": 204,
     "items": [
       null,
-      "ITEM_POISON_BARB"
+      "Poison Barb"
     ],
     "gender_ratio": [
       50,
@@ -536,7 +536,7 @@
     "exp_yield": 145,
     "items": [
       null,
-      "ITEM_CELL_BATTERY"
+      "Cell Battery"
     ],
     "gender_ratio": [
       50,
@@ -929,7 +929,7 @@
     "exp_yield": 117,
     "items": [
       null,
-      "ITEM_PSYCHIC_SEED"
+      "Psychic Seed"
     ],
     "gender_ratio": [
       50,
@@ -968,7 +968,7 @@
     "exp_yield": 186,
     "items": [
       null,
-      "ITEM_PSYCHIC_SEED"
+      "Psychic Seed"
     ],
     "gender_ratio": [
       50,
@@ -1007,7 +1007,7 @@
     "exp_yield": 54,
     "items": [
       null,
-      "ITEM_ORAN_BERRY"
+      "Oran Berry"
     ],
     "gender_ratio": [
       50,
@@ -1046,7 +1046,7 @@
     "exp_yield": 126,
     "items": [
       null,
-      "ITEM_SITRUS_BERRY"
+      "Sitrus Berry"
     ],
     "gender_ratio": [
       50,
@@ -1085,7 +1085,7 @@
     "exp_yield": 172,
     "items": [
       null,
-      "ITEM_RAWST_BERRY"
+      "Rawst Berry"
     ],
     "gender_ratio": [
       50,
@@ -1123,8 +1123,8 @@
     "catch_rate": 190,
     "exp_yield": 70,
     "items": [
-      "ITEM_TINY_MUSHROOM",
-      "ITEM_BIG_MUSHROOM"
+      "Tiny Mushroom",
+      "Big Mushroom"
     ],
     "gender_ratio": [
       50,
@@ -1162,8 +1162,8 @@
     "catch_rate": 75,
     "exp_yield": 128,
     "items": [
-      "ITEM_BIG_MUSHROOM",
-      "ITEM_TINY_MUSHROOM"
+      "Big Mushroom",
+      "Tiny Mushroom"
     ],
     "gender_ratio": [
       0,
@@ -1280,7 +1280,7 @@
     "exp_yield": 42,
     "items": [
       null,
-      "ITEM_ORAN_BERRY"
+      "Oran Berry"
     ],
     "gender_ratio": [
       50,
@@ -1318,8 +1318,8 @@
     "catch_rate": 190,
     "exp_yield": 82,
     "items": [
-      "ITEM_ORAN_BERRY",
-      "ITEM_LIGHT_BALL"
+      "Oran Berry",
+      "Light Ball"
     ],
     "gender_ratio": [
       50,
@@ -1359,7 +1359,7 @@
     "exp_yield": 122,
     "items": [
       null,
-      "ITEM_ORAN_BERRY"
+      "Oran Berry"
     ],
     "gender_ratio": [
       50,
@@ -1398,8 +1398,8 @@
     "catch_rate": 190,
     "exp_yield": 84,
     "items": [
-      "ITEM_PECHA_BERRY",
-      "ITEM_CHOPLE_BERRY"
+      "Pecha Berry",
+      "Chople Berry"
     ],
     "gender_ratio": [
       50,
@@ -1438,8 +1438,8 @@
     "catch_rate": 60,
     "exp_yield": 178,
     "items": [
-      "ITEM_PECHA_BERRY",
-      "ITEM_CHOPLE_BERRY"
+      "Pecha Berry",
+      "Chople Berry"
     ],
     "gender_ratio": [
       50,
@@ -1478,8 +1478,8 @@
     "catch_rate": 255,
     "exp_yield": 65,
     "items": [
-      "ITEM_TINY_MUSHROOM",
-      "ITEM_KEBIA_BERRY"
+      "Tiny Mushroom",
+      "Kebia Berry"
     ],
     "gender_ratio": [
       50,
@@ -1518,8 +1518,8 @@
     "catch_rate": 90,
     "exp_yield": 165,
     "items": [
-      "ITEM_TINY_MUSHROOM",
-      "ITEM_KEBIA_BERRY"
+      "Tiny Mushroom",
+      "Kebia Berry"
     ],
     "gender_ratio": [
       50,
@@ -1636,8 +1636,8 @@
     "catch_rate": 255,
     "exp_yield": 68,
     "items": [
-      "ITEM_PECHA_BERRY",
-      "ITEM_POISON_BARB"
+      "Pecha Berry",
+      "Poison Barb"
     ],
     "gender_ratio": [
       50,
@@ -1675,8 +1675,8 @@
     "catch_rate": 120,
     "exp_yield": 126,
     "items": [
-      "ITEM_PECHA_BERRY",
-      "ITEM_POISON_BARB"
+      "Pecha Berry",
+      "Poison Barb"
     ],
     "gender_ratio": [
       50,
@@ -1714,8 +1714,8 @@
     "catch_rate": 45,
     "exp_yield": 184,
     "items": [
-      "ITEM_PECHA_BERRY",
-      "ITEM_POISON_BARB"
+      "Pecha Berry",
+      "Poison Barb"
     ],
     "gender_ratio": [
       50,
@@ -2066,8 +2066,8 @@
     "catch_rate": 255,
     "exp_yield": 73,
     "items": [
-      "ITEM_EVERSTONE",
-      "ITEM_HARD_STONE"
+      "Everstone",
+      "Hard Stone"
     ],
     "gender_ratio": [
       50,
@@ -2105,8 +2105,8 @@
     "catch_rate": 120,
     "exp_yield": 134,
     "items": [
-      "ITEM_EVERSTONE",
-      "ITEM_HARD_STONE"
+      "Everstone",
+      "Hard Stone"
     ],
     "gender_ratio": [
       50,
@@ -2144,8 +2144,8 @@
     "catch_rate": 45,
     "exp_yield": 177,
     "items": [
-      "ITEM_EVERSTONE",
-      "ITEM_HARD_STONE"
+      "Everstone",
+      "Hard Stone"
     ],
     "gender_ratio": [
       50,
@@ -2301,7 +2301,7 @@
     "exp_yield": 90,
     "items": [
       null,
-      "ITEM_DEEP_SEA_SCALE"
+      "Deep Sea Scale"
     ],
     "gender_ratio": [
       50,
@@ -2340,7 +2340,7 @@
     "exp_yield": 156,
     "items": [
       null,
-      "ITEM_DEEP_SEA_SCALE"
+      "Deep Sea Scale"
     ],
     "gender_ratio": [
       50,
@@ -2379,7 +2379,7 @@
     "exp_yield": 57,
     "items": [
       null,
-      "ITEM_PECHA_BERRY"
+      "Pecha Berry"
     ],
     "gender_ratio": [
       50,
@@ -2418,7 +2418,7 @@
     "exp_yield": 116,
     "items": [
       null,
-      "ITEM_PECHA_BERRY"
+      "Pecha Berry"
     ],
     "gender_ratio": [
       50,
@@ -2452,6 +2452,23 @@
       58,
       62,
       55
+    ],
+    "catch_rate": 45,
+    "exp_yield": 132,
+    "items": [
+      null,
+      null
+    ],
+    "gender_ratio": [
+      50,
+      50
+    ],
+    "egg_cycles": 20,
+    "friendship": 50,
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+      "Flying",
+      "Field"
     ]
   },
   {
@@ -2475,6 +2492,23 @@
       68,
       82,
       65
+    ],
+    "catch_rate": 45,
+    "exp_yield": 177,
+    "items": [
+      null,
+      "Leek"
+    ],
+    "gender_ratio": [
+      50,
+      50
+    ],
+    "egg_cycles": 20,
+    "friendship": 50,
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+      "Flying",
+      "Field"
     ]
   },
   {
@@ -2721,7 +2755,7 @@
     "exp_yield": 75,
     "items": [
       null,
-      "ITEM_HONEY"
+      "Honey"
     ],
     "gender_ratio": [
       50,
@@ -2761,7 +2795,7 @@
     "exp_yield": 138,
     "items": [
       null,
-      "ITEM_HONEY"
+      "Honey"
     ],
     "gender_ratio": [
       50,
@@ -2961,7 +2995,7 @@
     "exp_yield": 61,
     "items": [
       null,
-      "ITEM_STICKY_BARB"
+      "Sticky Barb"
     ],
     "gender_ratio": [
       50,
@@ -3001,7 +3035,7 @@
     "exp_yield": 171,
     "items": [
       null,
-      "ITEM_STICKY_BARB"
+      "Sticky Barb"
     ],
     "gender_ratio": [
       50,
@@ -3040,8 +3074,8 @@
     "catch_rate": 120,
     "exp_yield": 63,
     "items": [
-      "ITEM_HONEY",
-      "ITEM_HONEY"
+      "Honey",
+      "Honey"
     ],
     "gender_ratio": [
       87.5,
@@ -3080,7 +3114,7 @@
     "exp_yield": 188,
     "items": [
       null,
-      "ITEM_POISON_BARB"
+      "Poison Barb"
     ],
     "gender_ratio": [
       0,
@@ -3119,7 +3153,7 @@
     "exp_yield": 70,
     "items": [
       null,
-      "ITEM_SHED_SHELL"
+      "Shed Shell"
     ],
     "gender_ratio": [
       50,
@@ -3159,7 +3193,7 @@
     "exp_yield": 171,
     "items": [
       null,
-      "ITEM_SHED_SHELL"
+      "Shed Shell"
     ],
     "gender_ratio": [
       50,
@@ -3199,7 +3233,7 @@
     "exp_yield": 97,
     "items": [
       null,
-      "ITEM_STICKY_BARB"
+      "Sticky Barb"
     ],
     "gender_ratio": [
       50,
@@ -3239,7 +3273,7 @@
     "exp_yield": 177,
     "items": [
       null,
-      "ITEM_STICKY_BARB"
+      "Sticky Barb"
     ],
     "gender_ratio": [
       50,
@@ -3278,7 +3312,7 @@
     "catch_rate": 190,
     "exp_yield": 64,
     "items": [
-      "ITEM_PRETTY_WING",
+      "Pretty Wing",
       null
     ],
     "gender_ratio": [
@@ -3318,8 +3352,8 @@
     "catch_rate": 45,
     "exp_yield": 164,
     "items": [
-      "ITEM_PRETTY_WING",
-      "ITEM_LUCKY_EGG"
+      "Pretty Wing",
+      "Lucky Egg"
     ],
     "gender_ratio": [
       50,
@@ -3516,8 +3550,8 @@
     "catch_rate": 45,
     "exp_yield": 145,
     "items": [
-      "ITEM_MYSTIC_WATER",
-      "ITEM_MYSTIC_WATER"
+      "Mystic Water",
+      "Mystic Water"
     ],
     "gender_ratio": [
       50,
@@ -3557,7 +3591,7 @@
     "exp_yield": 73,
     "items": [
       null,
-      "ITEM_SOFT_SAND"
+      "Soft Sand"
     ],
     "gender_ratio": [
       50,
@@ -3677,7 +3711,7 @@
     "exp_yield": 58,
     "items": [
       null,
-      "ITEM_BLACK_GLASSES"
+      "Black Glasses"
     ],
     "gender_ratio": [
       50,
@@ -3716,7 +3750,7 @@
     "exp_yield": 123,
     "items": [
       null,
-      "ITEM_BLACK_GLASSES"
+      "Black Glasses"
     ],
     "gender_ratio": [
       50,
@@ -3754,7 +3788,7 @@
     "catch_rate": 45,
     "exp_yield": 229,
     "items": [
-      "ITEM_BLACK_GLASSES",
+      "Black Glasses",
       null
     ],
     "gender_ratio": [
@@ -4112,7 +4146,7 @@
     "exp_yield": 65,
     "items": [
       null,
-      "ITEM_SOFT_SAND"
+      "Soft Sand"
     ],
     "gender_ratio": [
       50,
@@ -4449,7 +4483,7 @@
     "exp_yield": 98,
     "items": [
       null,
-      "ITEM_WIDE_LENS"
+      "Wide Lens"
     ],
     "gender_ratio": [
       50,
@@ -4488,7 +4522,7 @@
     "exp_yield": 98,
     "items": [
       null,
-      "ITEM_IRON_BALL"
+      "Iron Ball"
     ],
     "gender_ratio": [
       50,
@@ -4527,8 +4561,8 @@
     "catch_rate": 190,
     "exp_yield": 80,
     "items": [
-      "ITEM_BERRY_JUICE",
-      "ITEM_BERRY_JUICE"
+      "Berry Juice",
+      "Berry Juice"
     ],
     "gender_ratio": [
       50,
@@ -4567,7 +4601,7 @@
     "exp_yield": 89,
     "items": [
       null,
-      "ITEM_RAZOR_CLAW"
+      "Razor Claw"
     ],
     "gender_ratio": [
       50,
@@ -4606,7 +4640,7 @@
     "exp_yield": 144,
     "items": [
       null,
-      "ITEM_RAZOR_CLAW"
+      "Razor Claw"
     ],
     "gender_ratio": [
       50,
@@ -4644,7 +4678,7 @@
     "catch_rate": 45,
     "exp_yield": 218,
     "items": [
-      "ITEM_RAZOR_CLAW",
+      "Razor Claw",
       null
     ],
     "gender_ratio": [
@@ -4683,7 +4717,7 @@
     "catch_rate": 120,
     "exp_yield": 61,
     "items": [
-      "ITEM_ASPEAR_BERRY",
+      "Aspear Berry",
       null
     ],
     "gender_ratio": [
@@ -4722,7 +4756,7 @@
     "catch_rate": 60,
     "exp_yield": 170,
     "items": [
-      "ITEM_ASPEAR_BERRY",
+      "Aspear Berry",
       null
     ],
     "gender_ratio": [
@@ -4761,7 +4795,7 @@
     "catch_rate": 225,
     "exp_yield": 78,
     "items": [
-      "ITEM_ASPEAR_BERRY",
+      "Aspear Berry",
       null
     ],
     "gender_ratio": [
@@ -4800,8 +4834,8 @@
     "catch_rate": 75,
     "exp_yield": 160,
     "items": [
-      "ITEM_ASPEAR_BERRY",
-      "ITEM_NEVER_MELT_ICE"
+      "Aspear Berry",
+      "Never-Melt Ice"
     ],
     "gender_ratio": [
       50,
@@ -4879,7 +4913,7 @@
     "exp_yield": 74,
     "items": [
       null,
-      "ITEM_SNOWBALL"
+      "Snowball"
     ],
     "gender_ratio": [
       50,
@@ -4919,7 +4953,7 @@
     "exp_yield": 187,
     "items": [
       null,
-      "ITEM_NEVER_MELT_ICE"
+      "Never-Melt Ice"
     ],
     "gender_ratio": [
       50,
@@ -4959,7 +4993,7 @@
     "exp_yield": 187,
     "items": [
       null,
-      "ITEM_BABIRI_BERRY"
+      "Babiri Berry"
     ],
     "gender_ratio": [
       0,
@@ -5158,8 +5192,8 @@
     "catch_rate": 200,
     "exp_yield": 132,
     "items": [
-      "ITEM_GRIP_CLAW",
-      "ITEM_QUICK_CLAW"
+      "Grip Claw",
+      "Quick Claw"
     ],
     "gender_ratio": [
       50,
@@ -5197,8 +5231,8 @@
     "catch_rate": 45,
     "exp_yield": 199,
     "items": [
-      "ITEM_GRIP_CLAW",
-      "ITEM_QUICK_CLAW"
+      "Grip Claw",
+      "Quick Claw"
     ],
     "gender_ratio": [
       50,
@@ -5237,7 +5271,7 @@
     "exp_yield": 37,
     "items": [
       null,
-      "ITEM_SNOWBALL"
+      "Snowball"
     ],
     "gender_ratio": [
       50,
@@ -5509,8 +5543,8 @@
     "catch_rate": 15,
     "exp_yield": 248,
     "items": [
-      "ITEM_SILVER_POWDER",
-      "ITEM_SILVER_POWDER"
+      "Silver Powder",
+      "Silver Powder"
     ],
     "gender_ratio": [
       50,
@@ -5689,7 +5723,7 @@
     "exp_yield": 168,
     "items": [
       null,
-      "ITEM_METAL_COAT"
+      "Metal Coat"
     ],
     "gender_ratio": [
       50,
@@ -5728,7 +5762,7 @@
     "exp_yield": 73,
     "items": [
       null,
-      "ITEM_SMOKE_BALL"
+      "Smoke Ball"
     ],
     "gender_ratio": [
       87.5,
@@ -5768,7 +5802,7 @@
     "exp_yield": 171,
     "items": [
       null,
-      "ITEM_SMOKE_BALL"
+      "Smoke Ball"
     ],
     "gender_ratio": [
       0,
@@ -5885,8 +5919,8 @@
     "catch_rate": 190,
     "exp_yield": 59,
     "items": [
-      "ITEM_TINY_MUSHROOM",
-      "ITEM_BIG_MUSHROOM"
+      "Tiny Mushroom",
+      "Big Mushroom"
     ],
     "gender_ratio": [
       50,
@@ -5924,8 +5958,8 @@
     "catch_rate": 75,
     "exp_yield": 162,
     "items": [
-      "ITEM_TINY_MUSHROOM",
-      "ITEM_BIG_MUSHROOM"
+      "Tiny Mushroom",
+      "Big Mushroom"
     ],
     "gender_ratio": [
       50,
@@ -6237,7 +6271,7 @@
     "exp_yield": 168,
     "items": [
       null,
-      "ITEM_CHARCOAL"
+      "Charcoal"
     ],
     "gender_ratio": [
       50,
@@ -6651,7 +6685,7 @@
     "exp_yield": 161,
     "items": [
       null,
-      "ITEM_CHARCOAL"
+      "Charcoal"
     ],
     "gender_ratio": [
       50,
@@ -6690,7 +6724,7 @@
     "exp_yield": 99,
     "items": [
       null,
-      "ITEM_BIG_ROOT"
+      "Big Root"
     ],
     "gender_ratio": [
       87.5,
@@ -6729,7 +6763,7 @@
     "exp_yield": 199,
     "items": [
       null,
-      "ITEM_BIG_ROOT"
+      "Big Root"
     ],
     "gender_ratio": [
       87.5,
@@ -6767,8 +6801,8 @@
     "catch_rate": 190,
     "exp_yield": 97,
     "items": [
-      "ITEM_PEARL",
-      "ITEM_BIG_PEARL"
+      "Pearl",
+      "Big Pearl"
     ],
     "gender_ratio": [
       50,
@@ -6806,8 +6840,8 @@
     "catch_rate": 60,
     "exp_yield": 203,
     "items": [
-      "ITEM_PEARL",
-      "ITEM_BIG_PEARL"
+      "Pearl",
+      "Big Pearl"
     ],
     "gender_ratio": [
       50,
@@ -6924,7 +6958,7 @@
     "exp_yield": 55,
     "items": [
       null,
-      "ITEM_ABSORB_BULB"
+      "Absorb Bulb"
     ],
     "gender_ratio": [
       50,
@@ -6964,7 +6998,7 @@
     "exp_yield": 128,
     "items": [
       null,
-      "ITEM_ABSORB_BULB"
+      "Absorb Bulb"
     ],
     "gender_ratio": [
       50,
@@ -7003,8 +7037,8 @@
     "catch_rate": 35,
     "exp_yield": 61,
     "items": [
-      "ITEM_QUICK_POWDER",
-      "ITEM_METAL_POWDER"
+      "Quick Powder",
+      "Metal Powder"
     ],
     "gender_ratio": [],
     "egg_cycles": 20,
@@ -7630,7 +7664,7 @@
     "exp_yield": 108,
     "items": [
       null,
-      "ITEM_LIGHT_CLAY"
+      "Light Clay"
     ],
     "gender_ratio": [
       50,
@@ -7669,7 +7703,7 @@
     "exp_yield": 196,
     "items": [
       null,
-      "ITEM_LIGHT_CLAY"
+      "Light Clay"
     ],
     "gender_ratio": [
       50,
@@ -7707,8 +7741,8 @@
     "catch_rate": 130,
     "exp_yield": 255,
     "items": [
-      "ITEM_OVAL_STONE",
-      "ITEM_LUCKY_EGG"
+      "Oval Stone",
+      "Lucky Egg"
     ],
     "gender_ratio": [
       0,
@@ -7746,8 +7780,8 @@
     "catch_rate": 30,
     "exp_yield": 255,
     "items": [
-      "ITEM_LUCKY_PUNCH",
-      "ITEM_LUCKY_EGG"
+      "Lucky Punch",
+      "Lucky Egg"
     ],
     "gender_ratio": [
       0,
@@ -7785,8 +7819,8 @@
     "catch_rate": 30,
     "exp_yield": 255,
     "items": [
-      "ITEM_LUCKY_EGG",
-      "ITEM_LUCKY_EGG"
+      "Lucky Egg",
+      "Lucky Egg"
     ],
     "gender_ratio": [
       0,
@@ -8062,7 +8096,7 @@
     "exp_yield": 67,
     "items": [
       null,
-      "ITEM_DRAGON_SCALE"
+      "Dragon Scale"
     ],
     "gender_ratio": [
       50,
@@ -8102,7 +8136,7 @@
     "exp_yield": 144,
     "items": [
       null,
-      "ITEM_DRAGON_SCALE"
+      "Dragon Scale"
     ],
     "gender_ratio": [
       50,
@@ -8142,7 +8176,7 @@
     "exp_yield": 218,
     "items": [
       null,
-      "ITEM_DRAGON_SCALE"
+      "Dragon Scale"
     ],
     "gender_ratio": [
       50,
@@ -8336,7 +8370,7 @@
     "exp_yield": 83,
     "items": [
       null,
-      "ITEM_DRAGON_SCALE"
+      "Dragon Scale"
     ],
     "gender_ratio": [
       50,
@@ -8376,7 +8410,7 @@
     "exp_yield": 155,
     "items": [
       null,
-      "ITEM_DRAGON_SCALE"
+      "Dragon Scale"
     ],
     "gender_ratio": [
       50,
@@ -8416,7 +8450,7 @@
     "exp_yield": 207,
     "items": [
       null,
-      "ITEM_DRAGON_SCALE"
+      "Dragon Scale"
     ],
     "gender_ratio": [
       50,
@@ -8456,7 +8490,7 @@
     "exp_yield": 83,
     "items": [
       null,
-      "ITEM_BLACK_SLUDGE"
+      "Black Sludge"
     ],
     "gender_ratio": [
       50,
@@ -8495,7 +8529,7 @@
     "exp_yield": 181,
     "items": [
       null,
-      "ITEM_BLACK_SLUDGE"
+      "Black Sludge"
     ],
     "gender_ratio": [
       50,
@@ -8534,7 +8568,7 @@
     "exp_yield": 60,
     "items": [
       null,
-      "ITEM_SHED_SHELL"
+      "Shed Shell"
     ],
     "gender_ratio": [
       50,
@@ -8573,7 +8607,7 @@
     "exp_yield": 158,
     "items": [
       null,
-      "ITEM_SHED_SHELL"
+      "Shed Shell"
     ],
     "gender_ratio": [
       50,
@@ -8731,7 +8765,7 @@
     "exp_yield": 173,
     "items": [
       null,
-      "ITEM_CHESTO_BERRY"
+      "Chesto Berry"
     ],
     "gender_ratio": [
       50,
@@ -8770,7 +8804,7 @@
     "exp_yield": 97,
     "items": [
       null,
-      "ITEM_SPELL_TAG"
+      "Spell Tag"
     ],
     "gender_ratio": [
       50,
@@ -8809,7 +8843,7 @@
     "exp_yield": 179,
     "items": [
       null,
-      "ITEM_SPELL_TAG"
+      "Spell Tag"
     ],
     "gender_ratio": [
       50,
@@ -8848,7 +8882,7 @@
     "exp_yield": 210,
     "items": [
       null,
-      "ITEM_SPELL_TAG"
+      "Spell Tag"
     ],
     "gender_ratio": [
       50,
@@ -8886,8 +8920,8 @@
     "catch_rate": 200,
     "exp_yield": 150,
     "items": [
-      "ITEM_CHERI_BERRY",
-      "ITEM_CHERI_BERRY"
+      "Cheri Berry",
+      "Cheri Berry"
     ],
     "gender_ratio": [
       50,
@@ -8926,7 +8960,7 @@
     "exp_yield": 88,
     "items": [
       null,
-      "ITEM_DEEP_SEA_TOOTH"
+      "Deep Sea Tooth"
     ],
     "gender_ratio": [
       50,
@@ -8965,7 +8999,7 @@
     "exp_yield": 175,
     "items": [
       null,
-      "ITEM_DEEP_SEA_TOOTH"
+      "Deep Sea Tooth"
     ],
     "gender_ratio": [
       50,
@@ -9043,7 +9077,7 @@
     "exp_yield": 61,
     "items": [
       null,
-      "ITEM_SPELL_TAG"
+      "Spell Tag"
     ],
     "gender_ratio": [
       50,
@@ -9083,7 +9117,7 @@
     "exp_yield": 169,
     "items": [
       null,
-      "ITEM_SPELL_TAG"
+      "Spell Tag"
     ],
     "gender_ratio": [
       50,
@@ -9319,7 +9353,7 @@
     "exp_yield": 147,
     "items": [
       null,
-      "ITEM_SPELL_TAG"
+      "Spell Tag"
     ],
     "gender_ratio": [
       50,
@@ -9475,7 +9509,7 @@
     "exp_yield": 67,
     "items": [
       null,
-      "ITEM_HABAN_BERRY"
+      "Haban Berry"
     ],
     "gender_ratio": [
       50,
@@ -9515,7 +9549,7 @@
     "exp_yield": 144,
     "items": [
       null,
-      "ITEM_HABAN_BERRY"
+      "Haban Berry"
     ],
     "gender_ratio": [
       50,
@@ -9555,7 +9589,7 @@
     "exp_yield": 218,
     "items": [
       null,
-      "ITEM_HABAN_BERRY"
+      "Haban Berry"
     ],
     "gender_ratio": [
       50,
@@ -9673,7 +9707,7 @@
     "exp_yield": 97,
     "items": [
       null,
-      "ITEM_POISON_BARB"
+      "Poison Barb"
     ],
     "gender_ratio": [
       50,
@@ -9712,7 +9746,7 @@
     "exp_yield": 203,
     "items": [
       null,
-      "ITEM_POISON_BARB"
+      "Poison Barb"
     ],
     "gender_ratio": [
       50,
@@ -9751,7 +9785,7 @@
     "exp_yield": 114,
     "items": [
       null,
-      "ITEM_SMOKE_BALL"
+      "Smoke Ball"
     ],
     "gender_ratio": [
       50,
@@ -9906,8 +9940,8 @@
     "catch_rate": 45,
     "exp_yield": 219,
     "items": [
-      "ITEM_MYSTIC_WATER",
-      "ITEM_MYSTIC_WATER"
+      "Mystic Water",
+      "Mystic Water"
     ],
     "gender_ratio": [
       50,
@@ -9947,7 +9981,7 @@
     "exp_yield": 114,
     "items": [
       null,
-      "ITEM_ASPEAR_BERRY"
+      "Aspear Berry"
     ],
     "gender_ratio": [
       50,
@@ -9986,7 +10020,7 @@
     "exp_yield": 173,
     "items": [
       null,
-      "ITEM_CHERI_BERRY"
+      "Cheri Berry"
     ],
     "gender_ratio": [
       50,
@@ -10105,7 +10139,7 @@
     "exp_yield": 73,
     "items": [
       null,
-      "ITEM_SPELL_TAG"
+      "Spell Tag"
     ],
     "gender_ratio": [
       50,
@@ -10144,7 +10178,7 @@
     "exp_yield": 171,
     "items": [
       null,
-      "ITEM_SPELL_TAG"
+      "Spell Tag"
     ],
     "gender_ratio": [
       50,
@@ -10183,7 +10217,7 @@
     "exp_yield": 99,
     "items": [
       null,
-      "ITEM_LAGGING_TAIL"
+      "Lagging Tail"
     ],
     "gender_ratio": [
       50,
@@ -10223,7 +10257,7 @@
     "exp_yield": 164,
     "items": [
       null,
-      "ITEM_KINGS_ROCK"
+      "King's Rock"
     ],
     "gender_ratio": [
       50,
@@ -10263,7 +10297,7 @@
     "exp_yield": 164,
     "items": [
       null,
-      "ITEM_KINGS_ROCK"
+      "King's Rock"
     ],
     "gender_ratio": [
       50,
@@ -10576,7 +10610,7 @@
     "exp_yield": 74,
     "items": [
       null,
-      "ITEM_PAYAPA_BERRY"
+      "Payapa Berry"
     ],
     "gender_ratio": [
       50,
@@ -10615,7 +10649,7 @@
     "exp_yield": 149,
     "items": [
       null,
-      "ITEM_PAYAPA_BERRY"
+      "Payapa Berry"
     ],
     "gender_ratio": [
       50,
@@ -10813,7 +10847,7 @@
     "exp_yield": 168,
     "items": [
       null,
-      "ITEM_MISTY_SEED"
+      "Misty Seed"
     ],
     "gender_ratio": [
       25,
@@ -10852,7 +10886,7 @@
     "exp_yield": 66,
     "items": [
       null,
-      "ITEM_LAGGING_TAIL"
+      "Lagging Tail"
     ],
     "gender_ratio": [
       50,
@@ -10892,7 +10926,7 @@
     "exp_yield": 175,
     "items": [
       null,
-      "ITEM_LAGGING_TAIL"
+      "Lagging Tail"
     ],
     "gender_ratio": [
       50,
@@ -11313,8 +11347,8 @@
     "catch_rate": 3,
     "exp_yield": 215,
     "items": [
-      "ITEM_STAR_PIECE",
-      "ITEM_STAR_PIECE"
+      "Star Piece",
+      "Star Piece"
     ],
     "gender_ratio": [],
     "egg_cycles": 120,
@@ -11349,8 +11383,8 @@
     "catch_rate": 45,
     "exp_yield": 215,
     "items": [
-      "ITEM_LUM_BERRY",
-      "ITEM_LUM_BERRY"
+      "Lum Berry",
+      "Lum Berry"
     ],
     "gender_ratio": [],
     "egg_cycles": 120,

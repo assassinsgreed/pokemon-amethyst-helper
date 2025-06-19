@@ -6,8 +6,25 @@ export default function PokedexModal({ pokemon, isOpen, onCloseAction }: { pokem
     return (
         <Modal isOpen={isOpen} onOpenChange={onCloseAction}>
             <ModalContent>
-                <ModalHeader>Pokemon Details</ModalHeader>
-                <ModalBody>{pokemon.name}</ModalBody>
+                <ModalHeader>#{pokemon.kulure_pokedex_number} - {pokemon.name} Details</ModalHeader>
+                <ModalBody>
+                    <img src={pokemon.full_image} alt={pokemon.name} width={192} height={192}></img>
+                    <p>{pokemon.type[0]}</p>
+                    <p>{pokemon.type[1] && ` / ${pokemon.type[1]}`}</p>
+                    <p>{pokemon.abilities[0]}</p>
+                    <p>{pokemon.abilities[1]}</p>
+                    <p>Hidden: {pokemon.abilities[2]}</p>
+                    <p>Base stats: {pokemon.base_stats}</p>
+                    <p>Catch Rate: {pokemon.catch_rate}</p>
+                    <p>Exp Yield: {pokemon.exp_yield}</p>
+                    {/* TODO later: get icon(s) using url like: https://img.pokemondb.net/sprites/items/ability-capsule.png */}
+                    <p>Items: {pokemon.items.join(", ")}</p>
+                    <p>Gender Ratio: {pokemon.gender_ratio[0]} Male {pokemon.gender_ratio[1]}</p>
+                    <p>Egg Groups: {pokemon.egg_groups}</p>
+                    <p>Egg Cycles: {pokemon.egg_cycles}</p>
+                    <p>Friendship: {pokemon.friendship}</p>
+                    <p>Growth Rate: {pokemon.growth_rate}</p>
+                </ModalBody>
                 <ModalFooter>Footer</ModalFooter>
             </ModalContent>
         </Modal>
