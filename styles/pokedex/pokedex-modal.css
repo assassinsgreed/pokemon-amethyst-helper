@@ -16,3 +16,9 @@
     .pokedex-ability-details:hover {
         color: mediumslateblue;
 }
+
+.pokedex-stat-bar {
+  height: 12px;
+  border-radius: 4px;
+  margin: 2px 0;
+}

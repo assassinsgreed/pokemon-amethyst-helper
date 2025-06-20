@@ -3,6 +3,8 @@ import { Modal, ModalBody, ModalContent, ModalFooter, ModalHeader } from "@herou
 import { Pokemon } from "../../types/pokemon";
 import PokedexTypeDetails from "./details/pokedex-type-details";
 import PokedexAbilityDetails from "./details/pokedex-ability-details";
+import PokedexBaseStatsDetails from "./details/pokedex-base-stats-details";
+import Image from "next/image";
 
 export default function PokedexModal({ pokemon, isOpen, onCloseAction }: { pokemon: Pokemon, isOpen: boolean, onCloseAction: () => void }) {
     return (
@@ -10,10 +12,17 @@ export default function PokedexModal({ pokemon, isOpen, onCloseAction }: { pokem
             <ModalContent>
                 <ModalHeader>#{pokemon.kulure_pokedex_number} - {pokemon.name} Details</ModalHeader>
                 <ModalBody>
-                    <img src={pokemon.full_image} alt={pokemon.name} width={192} height={192}></img>
+                    <Image
+                        src={pokemon.full_image}
+                        alt={pokemon.name}
+                        width={192}
+                        height={192}
+                        priority
+                        unoptimized
+                    />
                     <PokedexTypeDetails types={pokemon.type} typeColours={pokemon.type_colours} />
                     <PokedexAbilityDetails abilities={pokemon.abilities} />
-                    <p>Base stats: {pokemon.base_stats}</p>
+                    <PokedexBaseStatsDetails baseStats={pokemon.base_stats} />
                     <p>Catch Rate: {pokemon.catch_rate}</p>
                     <p>Exp Yield: {pokemon.exp_yield}</p>
                     {/* TODO later: get icon(s) using url like: https://img.pokemondb.net/sprites/items/ability-capsule.png */}
