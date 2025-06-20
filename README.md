@@ -22,3 +22,30 @@ The following free resources were used when developing this webpage:
 
 - [Pokedex favicon](https://www.iconfinder.com/icons/3151571/pokedex_video_game_icon) by [IconFinder](https://www.iconfinder.com/)
 - [Pokedex icons](https://projectpokemon.org/home/docs/spriteindex_148/switch-sv-style-sprites-for-home-r153/)
+- [Pokemon held item sprites](https://github.com/msikma/pokesprite)
+
+## Planned Features
+
+In pokedex modal:
+
+- Caught locations for pokemon (level range, day/night, grass/water)
+- Moves table (level, up, TM/HM, Tutor, Egg)
+- Evolution path with links in modal
+- Alternate forms in pokedex
+- Megas in pokedex
+- Previous/Next pokemon in pokedex modal
+
+In Pokedex:
+
+- Swarming pokemon data
+- Sticky search bar (remains at top of page while scrolling)
+- tile vs row view for pokedex
+- pokedex filters (by type, location ?)
+- pokedex sort (dex #, bst?)
+
+General:
+
+- link to GitHub in page footer
+- link to CFRU in page footer? Definitely don't want to make PSS public
+- About/Home landing page
+- Items data
