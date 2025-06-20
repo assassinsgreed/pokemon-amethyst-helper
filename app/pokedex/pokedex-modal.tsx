@@ -7,6 +7,8 @@ import PokedexAbilityDetails from "./details/pokedex-ability-details";
 import PokedexBaseStatsDetails from "./details/pokedex-base-stats-details";
 import PokedexItemDetails from "./details/pokedex-item-details";
 import PokedexGenderDetails from "./details/pokedex-gender-details";
+import PokedexTiledDetails from "./details/pokedex-tiled-details";
+import PokedexEggGroupDetails from "./details/pokedex-egg-groups-details";
 
 export default function PokedexModal({ pokemon, isOpen, onCloseAction }: { pokemon: Pokemon, isOpen: boolean, onCloseAction: () => void }) {
     return (
@@ -26,14 +28,14 @@ export default function PokedexModal({ pokemon, isOpen, onCloseAction }: { pokem
                     <PokedexAbilityDetails abilities={pokemon.abilities} />
                     <PokedexItemDetails items={pokemon.items} />
                     <PokedexGenderDetails genderRatios={pokemon.gender_ratio} />
+                    <PokedexEggGroupDetails eggGroups={pokemon.egg_groups} />
                     <PokedexBaseStatsDetails baseStats={pokemon.base_stats} />
-                    <p>Catch Rate: {pokemon.catch_rate}</p>
-                    <p>Exp Yield: {pokemon.exp_yield}</p>
-                    {/* TODO later: get icon(s) using url like: https://img.pokemondb.net/sprites/items/ability-capsule.png */}
-                    <p>Egg Groups: {pokemon.egg_groups}</p>
-                    <p>Egg Cycles: {pokemon.egg_cycles}</p>
-                    <p>Friendship: {pokemon.friendship}</p>
-                    <p>Growth Rate: {pokemon.growth_rate}</p>
+                    <div className="flex flex-wrap justify-center gap-4 mt-4">
+                        <PokedexTiledDetails label="Catch Rate" value={pokemon.catch_rate} url="https://bulbapedia.bulbagarden.net/wiki/Catch_rate" />
+                        <PokedexTiledDetails label="Exp. Yield" value={pokemon.exp_yield} url="https://bulbapedia.bulbagarden.net/wiki/Experience#Relation_to_level" />
+                        <PokedexTiledDetails label="Egg Cycles" value={pokemon.egg_cycles} url="https://bulbapedia.bulbagarden.net/wiki/Egg_cycle" />
+                        <PokedexTiledDetails label="Friendship" value={pokemon.friendship} url="https://bulbapedia.bulbagarden.net/wiki/Friendship" />
+                    </div>
                 </ModalBody>
                 <ModalFooter>Footer</ModalFooter>
             </ModalContent>
