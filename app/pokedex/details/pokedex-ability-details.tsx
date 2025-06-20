@@ -1,7 +1,6 @@
 "use client";
-import "../../../styles/pokedex/pokedex-type-details.css";
 
-export default function PokedexTypeDetails({ types, typeColours }: { types: string[], typeColours: string[] }) {
+export default function PokedexAbilityDetails({ types, typeColours }: { types: string[], typeColours: string[] }) {
     return (
         <div className="flex items-center">
             <h3>Types:</h3>
