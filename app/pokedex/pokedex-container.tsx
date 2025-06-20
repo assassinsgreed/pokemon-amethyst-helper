@@ -33,7 +33,7 @@ export default function PokedexContainer({ pokemonList, error }: { pokemonList: 
 
   return (
     <>
-      <PageHeader title="Pokedex" />
+      <PageHeader title="Pokédex" />
       <div className="flex flex-col items-center mx-auto max-w-5xl mb-10">
         <Search onChangeAction={handleSearchChange} />
       </div>

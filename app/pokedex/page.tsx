@@ -13,8 +13,7 @@ export default async function Pokedex() {
             ...pokemon,
             icon_url: getPokemonIconUrl(pokemon),
             full_image: getPokemonFullImageUrl(pokemon),
-            first_type_colour: `var(--type_${pokemon.type[0]})`,
-            second_type_colour: pokemon.type[1] ? `var(--type_${pokemon.type[1]})` : `var(--type_${pokemon.type[0]})`,
+            type_colours: [ `var(--type_${pokemon.type[0]})`, pokemon.type[1] ? `var(--type_${pokemon.type[1]})` : `var(--type_${pokemon.type[0]})` ],
         }));
     } catch (e) {
         console.error("Error fetching Pokemon data:", e);

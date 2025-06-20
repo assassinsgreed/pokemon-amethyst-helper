@@ -1,6 +1,7 @@
 "use client";
 import { Modal, ModalBody, ModalContent, ModalFooter, ModalHeader } from "@heroui/react";
 import { Pokemon } from "../../types/pokemon";
+import TypeDetails from "./details/pokedex-type-details";
 
 export default function PokedexModal({ pokemon, isOpen, onCloseAction }: { pokemon: Pokemon, isOpen: boolean, onCloseAction: () => void }) {
     return (
@@ -9,8 +10,7 @@ export default function PokedexModal({ pokemon, isOpen, onCloseAction }: { pokem
                 <ModalHeader>#{pokemon.kulure_pokedex_number} - {pokemon.name} Details</ModalHeader>
                 <ModalBody>
                     <img src={pokemon.full_image} alt={pokemon.name} width={192} height={192}></img>
-                    <p>{pokemon.type[0]}</p>
-                    <p>{pokemon.type[1] && ` / ${pokemon.type[1]}`}</p>
+                    <TypeDetails types={pokemon.type} typeColours={pokemon.type_colours} />
                     <p>{pokemon.abilities[0]}</p>
                     <p>{pokemon.abilities[1]}</p>
                     <p>Hidden: {pokemon.abilities[2]}</p>

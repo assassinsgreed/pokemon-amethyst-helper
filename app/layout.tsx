@@ -45,12 +45,12 @@ export default function RootLayout({
               }}>
               <NavbarBrand>
                 <Logo />
-                <p className="font-bold text-inherit">Pokemon Amethyst Helper</p>
+                <p className="font-bold text-inherit">Pokémon Amethyst Helper</p>
               </NavbarBrand>
               <NavbarContent className="hidden sm:flex gap-4" justify="center">
                 <NavbarItem isActive>
                   <Link href="/pokedex">
-                    Pokedex
+                    Pokédex
                   </Link>
                 </NavbarItem>
               </NavbarContent>
