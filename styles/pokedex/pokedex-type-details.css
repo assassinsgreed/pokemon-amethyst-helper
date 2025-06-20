@@ -1,0 +1,9 @@
+.pokedex-type-details {
+    border: white 2px solid;
+    border-radius: 50px;
+    padding: 5px 10px;
+    width: 100px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 10px;
+}

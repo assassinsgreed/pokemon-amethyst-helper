@@ -2,8 +2,7 @@ export interface Pokemon {
     // Presentation
     icon_url: string; // Programmatically constructed based on form (eg. "001" for Bulbasaur, or "026_01" for Alolan Raichu)
     full_image: string; // Programmatically constructed based on form (eg. "001.png" for Bulbasaur, or "026_01.png" for Alolan Raichu)  
-    first_type_colour: string; // CSS variable for the first type colour (eg. "var(--type_grass)")
-    second_type_colour: string; // CSS variable for the second type colour (eg. "var(--type_electric)")
+    type_colours: string[]; // CSS variables for type colours (eg. ["var(--type_grass)", "var(--type_electric)"])
 
     // Data
     national_pokedex_number: number;

@@ -13,15 +13,18 @@ export default async function Pokedex() {
             ...pokemon,
             icon_url: getPokemonIconUrl(pokemon),
             full_image: getPokemonFullImageUrl(pokemon),
-            first_type_colour: `var(--type_${pokemon.type[0]})`,
-            second_type_colour: pokemon.type[1] ? `var(--type_${pokemon.type[1]})` : `var(--type_${pokemon.type[0]})`,
+            type_colours: getTypeColours(pokemon.type),
         }));
     } catch (e) {
-        console.error("Error fetching Pokemon data:", e);
+        console.error("Error fetching Pokémon data:", e);
         error = "Failed to load Pokémon data. Please try again later.";
     }
 
     return (
         <PokedexContainer pokemonList={pokemonList} error={error} />
     );
+}
+
+function getTypeColours(types: string[]): string[] {
+    return types.filter(Boolean).map(type => `var(--type_${type})`);
 }
