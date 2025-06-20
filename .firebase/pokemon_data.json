@@ -285,7 +285,7 @@
     ],
     "abilities": [
       "Ball Fetch",
-      "None",
+      null,
       "Rattled"
     ],
     "base_stats": [
@@ -324,7 +324,7 @@
     ],
     "abilities": [
       "Strong Jaw",
-      "None",
+      null,
       "Competitive"
     ],
     "base_stats": [
