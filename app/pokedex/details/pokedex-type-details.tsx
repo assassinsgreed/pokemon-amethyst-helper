@@ -1,5 +1,5 @@
 "use client";
-import "../../../styles/pokedex/pokedex-type-details.css";
+import "../../../styles/pokedex/pokedex-modal.css";
 
 export default function PokedexTypeDetails({ types, typeColours }: { types: string[], typeColours: string[] }) {
     return (

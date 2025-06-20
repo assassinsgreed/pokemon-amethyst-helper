@@ -2,6 +2,7 @@
 import { Modal, ModalBody, ModalContent, ModalFooter, ModalHeader } from "@heroui/react";
 import { Pokemon } from "../../types/pokemon";
 import PokedexTypeDetails from "./details/pokedex-type-details";
+import PokedexAbilityDetails from "./details/pokedex-ability-details";
 
 export default function PokedexModal({ pokemon, isOpen, onCloseAction }: { pokemon: Pokemon, isOpen: boolean, onCloseAction: () => void }) {
     return (
@@ -11,9 +12,7 @@ export default function PokedexModal({ pokemon, isOpen, onCloseAction }: { pokem
                 <ModalBody>
                     <img src={pokemon.full_image} alt={pokemon.name} width={192} height={192}></img>
                     <PokedexTypeDetails types={pokemon.type} typeColours={pokemon.type_colours} />
-                    <p>{pokemon.abilities[0]}</p>
-                    <p>{pokemon.abilities[1]}</p>
-                    <p>Hidden: {pokemon.abilities[2]}</p>
+                    <PokedexAbilityDetails abilities={pokemon.abilities} />
                     <p>Base stats: {pokemon.base_stats}</p>
                     <p>Catch Rate: {pokemon.catch_rate}</p>
                     <p>Exp Yield: {pokemon.exp_yield}</p>
