@@ -2649,6 +2649,20 @@
       61,
       79,
       42
+    ],
+    "items": [
+      null,
+      null
+    ],
+    "gender_ratio": [
+      0,
+      100
+    ],
+    "egg_cycles": 20,
+    "friendship": 50,
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+      "Fairy"
     ]
   },
   {
@@ -5578,6 +5592,17 @@
       60,
       100,
       60
+    ],
+    "items": [
+      null,
+      "Star Piece"
+    ],
+    "gender_ratio": [],
+    "egg_cycles": 25,
+    "friendship": 50,
+    "growth_rate": "Medium Slow",
+    "egg_groups": [
+      "Mineral"
     ]
   },
   {
