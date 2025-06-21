@@ -11,6 +11,7 @@ export interface Pokemon {
     type: string[];
     abilities: string[];
     base_stats: number[]; // [hp, attack, defense, specialAttack, specialDefense, speed]
+    ev_yield: number[]; // [hp, attack, defense, specialAttack, specialDefense, speed]
     catch_rate: number;
     exp_yield: number;
     items: string[]; // First (if any) is 50%, second (if any) is 5%

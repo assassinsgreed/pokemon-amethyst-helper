@@ -28,7 +28,7 @@ The following free resources were used when developing this webpage:
 
 In pokedex modal:
 
-- EV Yield on defeat
+- Close button given focus immediately
 - Caught locations for pokemon (level range, day/night, grass/water)
 - Moves table (level, up, TM/HM, Tutor, Egg)
 - Evolution path with links in modal
@@ -38,6 +38,7 @@ In pokedex modal:
 
 In Pokedex:
 
+- Serach improved to handle accented e
 - Swarming pokemon data
 - Sticky search bar (remains at top of page while scrolling)
 - tile vs row view for pokedex
