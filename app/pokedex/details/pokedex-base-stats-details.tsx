@@ -15,7 +15,7 @@ export default function PokedexBaseStatsDetails({ baseStats }: { baseStats: numb
     return (
         <div className="flex flex-col">
             <h3 className="mr-1.5">Base Stats:</h3>
-            <Table hideHeader>
+            <Table hideHeader shadow="none">
                 <TableHeader>
                     <TableColumn>Stat Name</TableColumn>
                     <TableColumn>Value</TableColumn>
