@@ -8,13 +8,13 @@
     margin-left: 10px;
 }
 
-.pokedex-ability-details {
+.pokedex-url {
     text-decoration: underline;
     color: dodgerblue;
     cursor: pointer;
-    }
-    .pokedex-ability-details:hover {
+    & :hover {
         color: mediumslateblue;
+    }
 }
 
 .pokedex-stat-bar {

@@ -28,7 +28,7 @@ function GetAbilityAnchorTag(ability: string) {
         <a
             href={`https://bulbapedia.bulbagarden.net/wiki/${ability}_(Ability)`}
             target="_blank"
-            className="pokedex-ability-details"
+            className="pokedex-url"
         >
             {ability}
         </a>
