@@ -6,6 +6,7 @@ import PokedexTypeDetails from "./details/pokedex-type-details";
 import PokedexAbilityDetails from "./details/pokedex-ability-details";
 import PokedexBaseStatsDetails from "./details/pokedex-base-stats-details";
 import PokedexItemDetails from "./details/pokedex-item-details";
+import PokedexGenderDetails from "./details/pokedex-gender-details";
 
 export default function PokedexModal({ pokemon, isOpen, onCloseAction }: { pokemon: Pokemon, isOpen: boolean, onCloseAction: () => void }) {
     return (
@@ -24,7 +25,7 @@ export default function PokedexModal({ pokemon, isOpen, onCloseAction }: { pokem
                     <PokedexTypeDetails types={pokemon.type} typeColours={pokemon.type_colours} />
                     <PokedexAbilityDetails abilities={pokemon.abilities} />
                     <PokedexItemDetails items={pokemon.items} />
-                    <p>Gender Ratio: {pokemon.gender_ratio[0]} Male {pokemon.gender_ratio[1]}</p>
+                    <PokedexGenderDetails genderRatios={pokemon.gender_ratio} />
                     <PokedexBaseStatsDetails baseStats={pokemon.base_stats} />
                     <p>Catch Rate: {pokemon.catch_rate}</p>
                     <p>Exp Yield: {pokemon.exp_yield}</p>
