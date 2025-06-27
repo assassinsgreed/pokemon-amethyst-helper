@@ -37,6 +37,14 @@
     "egg_groups": [
       "Water 1",
       "Field"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -77,6 +85,14 @@
     "egg_groups": [
       "Water 1",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -116,6 +132,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -155,6 +179,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -194,6 +226,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      3,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -233,6 +273,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -272,6 +320,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -311,6 +367,14 @@
     "growth_rate": "Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -350,6 +414,14 @@
     "growth_rate": "Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -389,6 +461,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -429,6 +509,14 @@
     "egg_groups": [
       "Fairy",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -469,6 +557,14 @@
     "egg_groups": [
       "Fairy",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -508,6 +604,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -547,6 +651,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -586,6 +698,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -625,6 +745,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -664,6 +792,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -703,6 +839,14 @@
     "growth_rate": "Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -742,6 +886,14 @@
     "growth_rate": "Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
     ]
   },
   {
@@ -782,6 +934,14 @@
     "egg_groups": [
       "Monster",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -822,6 +982,14 @@
     "egg_groups": [
       "Monster",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -862,6 +1030,14 @@
     "egg_groups": [
       "Monster",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -901,6 +1077,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -940,6 +1124,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
     ]
   },
   {
@@ -979,6 +1171,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      3,
+      0
     ]
   },
   {
@@ -1018,6 +1218,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -1057,6 +1265,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -1096,6 +1312,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -1135,6 +1359,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -1174,6 +1406,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
     ]
   },
   {
@@ -1213,6 +1453,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -1252,6 +1500,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -1291,6 +1547,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -1331,6 +1595,14 @@
     "egg_groups": [
       "Field",
       "Fairy"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -1371,6 +1643,14 @@
     "egg_groups": [
       "Field",
       "Fairy"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
     ]
   },
   {
@@ -1411,6 +1691,14 @@
     "egg_groups": [
       "Field",
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -1451,6 +1739,14 @@
     "egg_groups": [
       "Field",
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -1491,6 +1787,14 @@
     "egg_groups": [
       "Fairy",
       "Grass"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -1531,6 +1835,14 @@
     "egg_groups": [
       "Fairy",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -1570,6 +1882,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -1609,6 +1929,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -1648,6 +1976,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -1687,6 +2023,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -1726,6 +2070,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
     ]
   },
   {
@@ -1765,6 +2117,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -1804,6 +2164,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -1843,6 +2211,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -1882,6 +2258,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -1921,6 +2305,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -1961,6 +2353,14 @@
     "egg_groups": [
       "Flying",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
     ]
   },
   {
@@ -2000,6 +2400,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -2039,6 +2447,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -2078,6 +2494,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -2117,6 +2541,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -2156,6 +2588,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -2195,6 +2635,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -2234,6 +2682,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -2273,6 +2729,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -2312,6 +2776,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Water 2"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -2351,6 +2823,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Water 2"
+    ],
+    "ev_yield": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -2390,6 +2870,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -2429,6 +2917,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -2469,6 +2965,14 @@
     "egg_groups": [
       "Flying",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -2509,6 +3013,14 @@
     "egg_groups": [
       "Flying",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -2548,6 +3060,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -2587,6 +3107,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -2626,6 +3154,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
     ]
   },
   {
@@ -2650,6 +3186,8 @@
       79,
       42
     ],
+    "catch_rate": 225,
+    "exp_yield": 61,
     "items": [
       null,
       null
@@ -2663,6 +3201,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Fairy"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -2702,6 +3248,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Fairy"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
     ]
   },
   {
@@ -2741,6 +3295,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Fairy"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      3,
+      0
     ]
   },
   {
@@ -2781,6 +3343,14 @@
     "egg_groups": [
       "Bug",
       "Fairy"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -2821,6 +3391,14 @@
     "egg_groups": [
       "Bug",
       "Fairy"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -2861,6 +3439,14 @@
     "egg_groups": [
       "Amorphous",
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -2901,6 +3487,14 @@
     "egg_groups": [
       "Amorphous",
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -2941,6 +3535,14 @@
     "egg_groups": [
       "Amorphous",
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -2981,6 +3583,14 @@
     "egg_groups": [
       "Amorphous",
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -3021,6 +3631,14 @@
     "egg_groups": [
       "Grass",
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -3061,6 +3679,14 @@
     "egg_groups": [
       "Grass",
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -3100,6 +3726,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -3139,6 +3773,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -3179,6 +3821,14 @@
     "egg_groups": [
       "Dragon",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -3219,6 +3869,14 @@
     "egg_groups": [
       "Dragon",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -3259,6 +3917,14 @@
     "egg_groups": [
       "Grass",
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -3299,6 +3965,14 @@
     "egg_groups": [
       "Grass",
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -3339,6 +4013,14 @@
     "egg_groups": [
       "Water 1",
       "Flying"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -3379,6 +4061,14 @@
     "egg_groups": [
       "Water 1",
       "Flying"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -3419,6 +4109,14 @@
     "egg_groups": [
       "Monster",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -3459,6 +4157,14 @@
     "egg_groups": [
       "Monster",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
     ]
   },
   {
@@ -3498,6 +4204,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -3537,6 +4251,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -3577,6 +4299,14 @@
     "egg_groups": [
       "Fairy",
       "Amorphous"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -3617,6 +4347,14 @@
     "egg_groups": [
       "Bug",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -3657,6 +4395,14 @@
     "egg_groups": [
       "Bug",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -3697,6 +4443,14 @@
     "egg_groups": [
       "Bug",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -3736,6 +4490,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -3775,6 +4537,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -3814,6 +4584,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -3853,6 +4631,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -3892,6 +4678,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -3932,6 +4726,14 @@
     "egg_groups": [
       "Water 1",
       "Water 3"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -3972,6 +4774,14 @@
     "egg_groups": [
       "Water 1",
       "Water 3"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4012,6 +4822,14 @@
     "egg_groups": [
       "Water 2",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -4052,6 +4870,14 @@
     "egg_groups": [
       "Water 2",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4092,6 +4918,14 @@
     "egg_groups": [
       "Water 1",
       "Water 2"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4132,6 +4966,14 @@
     "egg_groups": [
       "Water 1",
       "Water 2"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4171,6 +5013,14 @@
     "growth_rate": "Erratic",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4210,6 +5060,14 @@
     "growth_rate": "Erratic",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -4246,6 +5104,14 @@
     "growth_rate": "Erratic",
     "egg_groups": [
       "Mineral"
+    ],
+    "ev_yield": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4285,6 +5151,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4324,6 +5198,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Amorphous"
+    ],
+    "ev_yield": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4361,6 +5243,14 @@
     "egg_groups": [
       "Fairy",
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -4397,6 +5287,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4433,6 +5331,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4469,6 +5375,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      3,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4508,6 +5422,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4548,6 +5470,14 @@
     "egg_groups": [
       "Field",
       "Fairy"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4587,6 +5517,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -4626,6 +5564,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4665,6 +5611,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4704,6 +5658,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      3,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4743,6 +5705,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4782,6 +5752,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4821,6 +5799,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4860,6 +5846,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4899,6 +5893,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4939,6 +5941,14 @@
     "egg_groups": [
       "Fairy",
       "Mineral"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4979,6 +5989,14 @@
     "egg_groups": [
       "Fairy",
       "Mineral"
+    ],
+    "ev_yield": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -5019,6 +6037,14 @@
     "egg_groups": [
       "Fairy",
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -5059,6 +6085,14 @@
     "egg_groups": [
       "Flying",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -5099,6 +6133,14 @@
     "egg_groups": [
       "Flying",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -5139,6 +6181,14 @@
     "egg_groups": [
       "Monster",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -5179,6 +6229,14 @@
     "egg_groups": [
       "Monster",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -5218,6 +6276,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -5257,6 +6323,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -5296,6 +6370,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -5335,6 +6417,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -5374,6 +6464,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -5413,6 +6511,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -5452,6 +6558,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -5491,6 +6605,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -5530,6 +6652,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -5569,6 +6699,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -5593,6 +6731,8 @@
       100,
       60
     ],
+    "catch_rate": 30,
+    "exp_yield": 132,
     "items": [
       null,
       "Star Piece"
@@ -5603,6 +6743,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -5642,6 +6790,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -5681,6 +6837,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -5720,6 +6884,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      3,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -5759,6 +6931,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -5799,6 +6979,14 @@
     "egg_groups": [
       "Monster",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -5839,6 +7027,14 @@
     "egg_groups": [
       "Monster",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -5878,6 +7074,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -5917,6 +7121,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
     ]
   },
   {
@@ -5956,6 +7168,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Grass"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -5995,6 +7215,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Grass"
+    ],
+    "ev_yield": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -6034,6 +7262,14 @@
     "growth_rate": "Erratic",
     "egg_groups": [
       "Monster"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -6073,6 +7309,14 @@
     "growth_rate": "Erratic",
     "egg_groups": [
       "Monster"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -6112,6 +7356,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -6151,6 +7403,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -6190,6 +7450,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -6229,6 +7497,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Monster"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -6268,6 +7544,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Monster"
+    ],
+    "ev_yield": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -6308,6 +7592,14 @@
     "egg_groups": [
       "Monster",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -6331,6 +7623,30 @@
       70,
       90,
       60
+    ],
+    "catch_rate": 145,
+    "exp_yield": 78,
+    "items": [
+      null,
+      "Leppa Berry"
+    ],
+    "gender_ratio": [
+      50,
+      50
+    ],
+    "egg_cycles": 25,
+    "friendship": 50,
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+      "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -6370,6 +7686,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -6409,6 +7733,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -6448,6 +7780,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -6487,6 +7827,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -6526,6 +7874,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Fairy"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -6565,6 +7921,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Fairy"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -6604,6 +7968,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Fairy"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -6643,6 +8015,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
     ]
   },
   {
@@ -6682,6 +8062,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -6721,6 +8109,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -6760,6 +8156,14 @@
     "growth_rate": "Erratic",
     "egg_groups": [
       "Water 3"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -6799,6 +8203,14 @@
     "growth_rate": "Erratic",
     "egg_groups": [
       "Water 3"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
     ]
   },
   {
@@ -6838,6 +8250,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Water 3"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -6877,6 +8297,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Water 3"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -6916,6 +8344,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -6955,6 +8391,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -6995,6 +8439,14 @@
     "egg_groups": [
       "Fairy",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -7035,6 +8487,14 @@
     "egg_groups": [
       "Fairy",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -7071,6 +8531,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Ditto"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -7110,6 +8578,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -7149,6 +8625,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -7188,6 +8672,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -7227,6 +8719,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -7266,6 +8766,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -7305,6 +8813,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
     ]
   },
   {
@@ -7344,6 +8860,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -7383,6 +8907,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -7422,6 +8954,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Fairy"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
     ]
   },
   {
@@ -7462,6 +9002,14 @@
     "egg_groups": [
       "Monster",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -7502,6 +9050,14 @@
     "egg_groups": [
       "Monster",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -7542,6 +9098,14 @@
     "egg_groups": [
       "Monster",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -7581,6 +9145,14 @@
     "growth_rate": "Fast",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -7621,6 +9193,14 @@
     "egg_groups": [
       "Flying",
       "Fairy"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
     ]
   },
   {
@@ -7661,6 +9241,14 @@
     "egg_groups": [
       "Flying",
       "Fairy"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      1,
+      0
     ]
   },
   {
@@ -7700,6 +9288,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -7739,6 +9335,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -7778,6 +9382,14 @@
     "growth_rate": "Fast",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -7817,6 +9429,14 @@
     "growth_rate": "Fast",
     "egg_groups": [
       "Fairy"
+    ],
+    "ev_yield": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -7856,6 +9476,14 @@
     "growth_rate": "Fast",
     "egg_groups": [
       "Fairy"
+    ],
+    "ev_yield": [
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -7896,6 +9524,14 @@
     "egg_groups": [
       "Field",
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -7936,6 +9572,14 @@
     "egg_groups": [
       "Field",
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -7975,6 +9619,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -8014,6 +9666,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -8053,6 +9713,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -8093,6 +9761,14 @@
     "egg_groups": [
       "Field",
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -8133,6 +9809,14 @@
     "egg_groups": [
       "Water 1",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -8173,6 +9857,14 @@
     "egg_groups": [
       "Water 1",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -8213,6 +9905,14 @@
     "egg_groups": [
       "Water 1",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -8253,6 +9953,14 @@
     "egg_groups": [
       "Field",
       "Fairy"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -8289,6 +9997,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
     ]
   },
   {
@@ -8328,6 +10044,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -8367,6 +10091,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -8407,6 +10139,14 @@
     "egg_groups": [
       "Water 1",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -8447,6 +10187,14 @@
     "egg_groups": [
       "Water 1",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -8487,6 +10235,14 @@
     "egg_groups": [
       "Water 1",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0
     ]
   },
   {
@@ -8526,6 +10282,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -8565,6 +10329,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -8604,6 +10376,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -8643,6 +10423,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
     ]
   },
   {
@@ -8682,6 +10470,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      3,
+      0
     ]
   },
   {
@@ -8722,6 +10518,14 @@
     "egg_groups": [
       "Water 1",
       "Amorphous"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -8762,6 +10566,14 @@
     "egg_groups": [
       "Water 1",
       "Amorphous"
+    ],
+    "ev_yield": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -8801,6 +10613,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
     ]
   },
   {
@@ -8840,6 +10660,14 @@
     "growth_rate": "Fast",
     "egg_groups": [
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -8879,6 +10707,14 @@
     "growth_rate": "Fast",
     "egg_groups": [
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -8918,6 +10754,14 @@
     "growth_rate": "Fast",
     "egg_groups": [
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      2,
+      0
     ]
   },
   {
@@ -8957,6 +10801,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -8996,6 +10848,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Water 2"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9035,6 +10895,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Water 2"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9074,6 +10942,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9114,6 +10990,14 @@
     "egg_groups": [
       "Amorphous",
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9154,6 +11038,14 @@
     "egg_groups": [
       "Amorphous",
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9194,6 +11086,14 @@
     "egg_groups": [
       "Mineral",
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9230,6 +11130,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9270,6 +11178,14 @@
     "egg_groups": [
       "Water 1",
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9310,6 +11226,14 @@
     "egg_groups": [
       "Field",
       "Fairy"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -9350,6 +11274,14 @@
     "egg_groups": [
       "Water 1",
       "Amorphous"
+    ],
+    "ev_yield": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9389,6 +11321,14 @@
     "growth_rate": "Fast",
     "egg_groups": [
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -9428,6 +11368,14 @@
     "growth_rate": "Fast",
     "egg_groups": [
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      0
     ]
   },
   {
@@ -9467,6 +11415,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Amorphous"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9506,6 +11462,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Amorphous"
+    ],
+    "ev_yield": [
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9546,6 +11510,14 @@
     "egg_groups": [
       "Monster",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9586,6 +11558,14 @@
     "egg_groups": [
       "Monster",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9626,6 +11606,14 @@
     "egg_groups": [
       "Monster",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9665,6 +11653,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Water 3"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9704,6 +11700,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Water 3"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9743,6 +11747,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Water 1"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9782,6 +11794,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Water 1"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9821,6 +11841,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9860,6 +11888,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -9899,6 +11935,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -9938,6 +11982,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -9978,6 +12030,14 @@
     "egg_groups": [
       "Monster",
       "Water 1"
+    ],
+    "ev_yield": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -10017,6 +12077,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Water 3"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -10056,6 +12124,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Water 3"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -10096,6 +12172,14 @@
     "egg_groups": [
       "Grass",
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -10136,6 +12220,14 @@
     "egg_groups": [
       "Grass",
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -10175,6 +12267,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -10214,6 +12314,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Amorphous"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -10254,6 +12362,14 @@
     "egg_groups": [
       "Monster",
       "Water 1"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -10294,6 +12410,14 @@
     "egg_groups": [
       "Monster",
       "Water 1"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -10334,6 +12458,14 @@
     "egg_groups": [
       "Monster",
       "Water 1"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      3,
+      0
     ]
   },
   {
@@ -10374,6 +12506,14 @@
     "egg_groups": [
       "Water 1",
       "Water 3"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -10414,6 +12554,14 @@
     "egg_groups": [
       "Water 1",
       "Water 3"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -10451,6 +12599,14 @@
     "egg_groups": [
       "Fairy",
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -10490,6 +12646,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -10529,6 +12693,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -10568,6 +12740,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -10607,6 +12787,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -10646,6 +12834,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -10685,6 +12881,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -10725,6 +12929,14 @@
     "egg_groups": [
       "Monster",
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -10765,6 +12977,14 @@
     "egg_groups": [
       "Monster",
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -10804,6 +13024,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -10844,6 +13072,14 @@
     "egg_groups": [
       "Water 1",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -10883,6 +13119,14 @@
     "growth_rate": "Fast",
     "egg_groups": [
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
     ]
   },
   {
@@ -10923,6 +13167,14 @@
     "egg_groups": [
       "Field",
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -10963,6 +13215,14 @@
     "egg_groups": [
       "Field",
       "Mineral"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -11002,6 +13262,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -11041,6 +13309,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Bug"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -11080,6 +13356,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -11119,6 +13403,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -11158,6 +13450,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -11197,6 +13497,14 @@
     "growth_rate": "Medium Fast",
     "egg_groups": [
       "Monster"
+    ],
+    "ev_yield": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -11237,6 +13545,14 @@
     "egg_groups": [
       "Mineral",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -11273,6 +13589,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -11309,6 +13633,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -11345,6 +13677,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      3,
+      0
     ]
   },
   {
@@ -11381,6 +13721,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -11417,6 +13765,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -11453,6 +13809,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -11489,6 +13853,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -11525,6 +13897,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -11561,6 +13941,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
     ]
   },
   {
@@ -11597,6 +13985,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -11633,6 +14029,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -11669,6 +14073,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -11705,6 +14117,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -11745,6 +14165,14 @@
     "egg_groups": [
       "Monster",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -11785,6 +14213,14 @@
     "egg_groups": [
       "Monster",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      0
     ]
   },
   {
@@ -11825,6 +14261,14 @@
     "egg_groups": [
       "Monster",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      1,
+      0
     ]
   },
   {
@@ -11865,6 +14309,14 @@
     "egg_groups": [
       "Monster",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -11905,6 +14357,14 @@
     "egg_groups": [
       "Monster",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
     ]
   },
   {
@@ -11945,6 +14405,14 @@
     "egg_groups": [
       "Monster",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -11985,6 +14453,14 @@
     "egg_groups": [
       "Monster",
       "Water 1"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -12025,6 +14501,14 @@
     "egg_groups": [
       "Monster",
       "Water 1"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -12065,6 +14549,14 @@
     "egg_groups": [
       "Monster",
       "Water 1"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      3,
+      0
     ]
   },
   {
@@ -12105,6 +14597,14 @@
     "egg_groups": [
       "Monster",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -12145,6 +14645,14 @@
     "egg_groups": [
       "Monster",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -12185,6 +14693,14 @@
     "egg_groups": [
       "Monster",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      2,
+      0
     ]
   },
   {
@@ -12224,6 +14740,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -12263,6 +14787,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
     ]
   },
   {
@@ -12302,6 +14834,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -12342,6 +14882,14 @@
     "egg_groups": [
       "Monster",
       "Water 1"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -12382,6 +14930,14 @@
     "egg_groups": [
       "Monster",
       "Water 1"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -12422,6 +14978,14 @@
     "egg_groups": [
       "Monster",
       "Water 1"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -12462,6 +15026,14 @@
     "egg_groups": [
       "Monster",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -12502,6 +15074,14 @@
     "egg_groups": [
       "Monster",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -12542,6 +15122,14 @@
     "egg_groups": [
       "Monster",
       "Dragon"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
     ]
   },
   {
@@ -12581,6 +15169,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -12620,6 +15216,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -12659,6 +15263,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -12699,6 +15311,14 @@
     "egg_groups": [
       "Monster",
       "Water 1"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -12739,6 +15359,14 @@
     "egg_groups": [
       "Monster",
       "Water 1"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -12779,6 +15407,14 @@
     "egg_groups": [
       "Monster",
       "Water 1"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -12819,6 +15455,14 @@
     "egg_groups": [
       "Monster",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -12859,6 +15503,14 @@
     "egg_groups": [
       "Monster",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -12899,6 +15551,14 @@
     "egg_groups": [
       "Monster",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -12939,6 +15599,14 @@
     "egg_groups": [
       "Field",
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -12979,6 +15647,14 @@
     "egg_groups": [
       "Field",
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
     ]
   },
   {
@@ -13019,6 +15695,14 @@
     "egg_groups": [
       "Field",
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
     ]
   },
   {
@@ -13059,6 +15743,14 @@
     "egg_groups": [
       "Water 1",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -13099,6 +15791,14 @@
     "egg_groups": [
       "Water 1",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -13139,6 +15839,14 @@
     "egg_groups": [
       "Water 1",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -13179,6 +15887,14 @@
     "egg_groups": [
       "Field",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -13219,6 +15935,14 @@
     "egg_groups": [
       "Field",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -13259,6 +15983,14 @@
     "egg_groups": [
       "Field",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
     ]
   },
   {
@@ -13298,6 +16030,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -13337,6 +16077,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -13376,6 +16124,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -13415,6 +16171,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -13454,6 +16218,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -13493,6 +16265,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -13532,6 +16312,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -13571,6 +16359,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -13610,6 +16406,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      3,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -13649,6 +16453,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -13688,6 +16500,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -13727,6 +16547,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -13766,6 +16594,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Water 1"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -13805,6 +16641,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Water 1"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -13844,6 +16688,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Water 1"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
     ]
   },
   {
@@ -13883,6 +16735,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -13922,6 +16782,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -13961,6 +16829,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Flying"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -14000,6 +16876,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -14039,6 +16923,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -14078,6 +16970,14 @@
     "growth_rate": "Medium Slow",
     "egg_groups": [
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -14118,6 +17018,14 @@
     "egg_groups": [
       "Water 1",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -14158,6 +17066,14 @@
     "egg_groups": [
       "Monster",
       "Water 1"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -14198,6 +17114,14 @@
     "egg_groups": [
       "Water 1",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -14238,6 +17162,14 @@
     "egg_groups": [
       "Field",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -14278,6 +17210,14 @@
     "egg_groups": [
       "Field",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -14318,6 +17258,14 @@
     "egg_groups": [
       "Field",
       "Grass"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -14358,6 +17306,14 @@
     "egg_groups": [
       "Field",
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -14398,6 +17354,14 @@
     "egg_groups": [
       "Field",
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -14438,6 +17402,14 @@
     "egg_groups": [
       "Field",
       "Human Like"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
     ]
   },
   {
@@ -14478,6 +17450,14 @@
     "egg_groups": [
       "Water 1",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
     ]
   },
   {
@@ -14518,6 +17498,14 @@
     "egg_groups": [
       "Water 1",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -14558,6 +17546,14 @@
     "egg_groups": [
       "Water 1",
       "Field"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
     ]
   },
   {
@@ -14594,6 +17590,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -14630,6 +17634,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
     ]
   },
   {
@@ -14666,6 +17678,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -14702,6 +17722,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -14738,6 +17766,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      3,
+      0
     ]
   },
   {
@@ -14774,6 +17810,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      2,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -14810,6 +17854,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
     ]
   },
   {
@@ -14846,6 +17898,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -14882,6 +17942,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -14918,6 +17986,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -14954,6 +18030,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -14990,6 +18074,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      1,
+      0,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -15026,6 +18118,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -15062,6 +18162,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -15098,6 +18206,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      3,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -15134,6 +18250,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
     ]
   },
   {
@@ -15170,6 +18294,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -15206,6 +18338,14 @@
     "growth_rate": "Slow",
     "egg_groups": [
       "Undiscovered"
+    ],
+    "ev_yield": [
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   }
 ]
