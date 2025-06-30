@@ -1,9 +1,11 @@
 "use client";
 
-export default function PokedexLocationsBody({ pokemon }: { pokemon: any }) {
+import { Pokemon } from "../../../types/pokemon";
+
+export default function PokedexLocationsBody({ pokemon }: { pokemon: Pokemon }) {
     return (
         <>
-        Coming soon!
+        Coming soon! ({pokemon.name})
         </>
     )
 }
