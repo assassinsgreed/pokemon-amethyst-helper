@@ -1,0 +1,8523 @@
+{
+  "001-bidoof": [
+    {
+      "id": 1,
+      "name": "Route 1",
+      "grass": {
+        "levels": [2, 4],
+        "rate": 35
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 14",
+      "grass": {
+        "levels": [43, 46],
+        "rate": 10
+      }
+    }
+  ],
+  "002-bibarel": [
+    {
+      "id": 1,
+      "name": "Route 8",
+      "grass": {
+        "levels": [19, 23],
+        "rate": 20
+      }
+    }
+  ],
+  "003-rookidee": [
+    {
+      "id": 1,
+      "name": "Route 2",
+      "grass": {
+        "levels": [3, 5],
+        "rate": 15
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 3",
+      "grass": {
+        "levels": [6, 10],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 4",
+      "grass": {
+        "levels": [9, 13],
+        "rate": 25
+      }
+    }
+  ],
+  "004-corvisquire": [
+    {
+      "id": 1,
+      "name": "Route 10",
+      "grass": {
+        "levels": [25, 29],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Peradon Forest",
+      "grass": {
+        "levels": [34, 37],
+        "rate": 5,
+        "isDayOnly": true
+      }
+    },
+    {
+      "id": 3,
+      "name": "Calicin Bay",
+      "grass": {
+        "levels": [41, 43],
+        "rate": 10
+      }
+    }
+  ],
+  "005-corviknight": [
+    {
+      "id": 1,
+      "name": "Route 24",
+      "grass": {
+        "levels": [54, 57],
+        "rate": 10
+      }
+    }
+  ],
+  "006-sunkern": [
+    {
+      "id": 1,
+      "name": "Route 1",
+      "grass": {
+        "levels": [2, 3],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 23",
+      "grass": {
+        "levels": [47, 53],
+        "rate": 5
+      }
+    }
+  ],
+  "007-sunflora": [
+    {
+      "id": 1,
+      "name": "Route 15",
+      "grass": {
+        "levels": [44, 47],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 22",
+      "grass": {
+        "levels": [46, 51],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 23",
+      "grass": {
+        "levels": [46, 52],
+        "rate": 30
+      }
+    },
+    {
+      "id": 4,
+      "name": "Orichelle Garden",
+      "grass": {
+        "levels": [43, 46],
+        "rate": 10
+      }
+    }
+  ],
+  "008-yamper": [
+    {
+      "id": 1,
+      "name": "Route 1",
+      "grass": {
+        "levels": [2, 4],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 9",
+      "grass": {
+        "levels": [25, 28],
+        "rate": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Daimyn City",
+      "grass": {
+        "levels": [25, 27],
+        "rate": 20
+      }
+    }
+  ],
+  "009-boltund": [
+    {
+      "id": 1,
+      "name": "Route 24",
+      "grass": {
+        "levels": [54, 58],
+        "rate": 10
+        },
+        "isDayOnly": true
+    },
+    {
+      "id": 2,
+      "name": "Daimyn City",
+      "grass": {
+        "levels": [25, 28],
+        "rate": 10
+      }
+    }
+  ],
+  "010-budew": [
+    {
+      "id": 1,
+      "name": "Route 2",
+      "grass": {
+        "levels": [3, 5],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Varisi Forest",
+      "grass": {
+        "levels": [3, 7],
+        "rate": 5
+      }
+    }
+  ],
+  "010-roselia": [
+    {
+      "id": 1,
+      "name": "Route 6",
+      "grass": {
+        "levels": [14, 20],
+        "rate": 22
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 18",
+      "grass": {
+        "levels": [43, 46],
+        "rate": 20
+      }
+    }
+  ],
+  "012-roserade": [
+    {
+      "id": 1,
+      "name": "Orichelle Garden",
+      "grass": {
+        "levels": [42, 45],
+        "rate": 4
+      }
+    }
+  ],
+  "013-grubbin": [
+    {
+      "id": 1,
+      "name": "Route 2",
+      "grass": {
+        "levels": [2, 4],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 17",
+      "grass": {
+        "levels": [2, 4],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Daimyn City",
+      "grass": {
+        "levels": [24, 28],
+        "rate": 20
+      }
+    }
+  ],
+  "014-charjabug": [
+    {
+      "id": 1,
+      "name": "Daimyn City",
+      "grass": {
+        "levels": [24, 27],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Daimyn City Factory",
+      "grass": {
+        "levels": [26, 29],
+        "rate": 10
+      }
+    }
+  ],
+  "015-vikavolt": [],
+  "016-rockruff": [
+    {
+      "id": 1,
+      "name": "Route 2",
+      "grass": {
+        "levels": [2, 6],
+        "rate": 15
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 10",
+      "grass": {
+        "levels": [25, 29],
+        "rate": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 10 Cave",
+      "grass": {
+        "levels": [26, 29],
+        "rate": 30
+      }
+    },
+    {
+      "id": 3,
+      "name": "Heleo Ranch",
+      "grass": {
+        "levels": [15, 17],
+        "rate": 5
+      }
+    }
+  ],
+  "017-lycanroc": [
+    {
+      "id": 1,
+      "name": "Route 10 Cave",
+      "grass": {
+        "levels": [25, 28],
+        "rate": 10
+      },
+      "notes": "Midday form appears during the day, Midnight at night"
+    },
+    {
+      "id": 2,
+      "name": "Route 24",
+      "grass": {
+        "levels": [54, 57],
+        "rate": 4
+      },
+      "notes": "Midday form appears during the day, Midnight at night"
+    }
+  ],
+  "018-nickit": [
+    {
+      "id": 1,
+      "name": "Route 2",
+      "grass": {
+        "levels": [2, 6],
+        "rate": 15
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 3",
+      "grass": {
+        "levels": [6, 10],
+        "rate": 15
+      }
+    }
+  ],
+  "019-thievul": [
+    {
+      "id": 1,
+      "name": "Route 11",
+      "grass": {
+        "levels": [30, 33],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 23",
+      "grass": {
+        "levels": [47, 52],
+        "rate": 20
+      }
+    }
+  ],
+  "020-nidoran-m": [
+    {
+      "id": 1,
+      "name": "Route 2",
+      "grass": {
+        "levels": [3, 6],
+        "rate": 15
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 5",
+      "grass": {
+        "levels": [11, 15],
+        "rate": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 7",
+      "grass": {
+        "levels": [6, 9],
+        "rate": 20
+      }
+    }
+  ],
+  "021-nidorino": [
+    {
+      "id": 1,
+      "name": "Route 6",
+      "grass": {
+        "levels": [16, 19],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 9",
+      "grass": {
+        "levels": [25, 28],
+        "rate": 10
+      }
+    }
+  ],
+  "022-nidoking": [],
+  "023-blipbug": [
+    {
+      "id": 1,
+      "name": "Route 6",
+      "grass": {
+        "levels": [15, 19],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Varisi Forest",
+      "grass": {
+        "levels": [3, 6],
+        "rate": 20
+      }
+    }
+  ],
+  "024-dottler": [
+    {
+      "id": 1,
+      "name": "Route 6",
+      "grass": {
+        "levels": [16, 20],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Lake Laplaz",
+      "grass": {
+        "levels": [37, 41],
+        "rate": 20
+      }
+    },
+    {
+      "id": 3,
+      "name": "Uteyan Ruins Exterior",
+      "grass": {
+        "levels": [53, 56],
+        "rate": 20
+      }
+    }
+  ],
+  "025-orbeetle": [
+    {
+      "id": 1,
+      "name": "Uteyan Ruins Exterior",
+      "grass": {
+        "levels": [53, 57],
+        "rate": 10
+      }
+    }
+  ],
+  "026-pikipek": [
+    {
+      "id": 1,
+      "name": "Varisi Forest",
+      "grass": {
+        "levels": [3, 6],
+        "rate": 20
+      },
+      "isDayOnly": true
+    }
+  ],
+  "027-trumbeak": [
+    {
+      "id": 1,
+      "name": "Route 14",
+      "grass": {
+        "levels": [42, 46],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 15",
+      "grass": {
+        "levels": [44, 47],
+        "rate": 20
+      }
+    },
+    {
+      "id": 3,
+      "name": "Peradon Forest",
+      "grass": {
+        "levels": [35, 37],
+        "rate": 10
+      }
+    },
+    {
+      "id": 4,
+      "name": "Seppire Cove Exterior",
+      "grass": {
+        "levels": [50, 53],
+        "rate": 5
+      }
+    }
+  ],
+  "028-toucannon": [
+    {
+      "id": 1,
+      "name": "Route 14",
+      "grass": {
+        "levels": [42, 46],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 15",
+      "grass": {
+        "levels": [44, 47],
+        "rate": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Mimmett Jungle",
+      "grass": {
+        "levels": [47, 51],
+        "rate": 8
+      }
+    },
+    {
+      "id": 4,
+      "name": "Seppire Cove Exterior",
+      "grass": {
+        "levels": [49, 52],
+        "rate": 5
+      }
+    }
+  ],
+  "029-morelull": [
+    {
+      "id": 1,
+      "name": "Route 18",
+      "grass": {
+        "levels": [42, 45],
+        "rate": 15
+      }
+    },
+    {
+      "id": 2,
+      "name": "Varisi Forest",
+      "grass": {
+        "levels": [3, 7],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Lake Laplaz",
+      "grass": {
+        "levels": [36, 40],
+        "rate": 20
+      },
+      "isNightOnly": true
+    }
+  ],
+  "030-shiinotic": [
+    {
+      "id": 1,
+      "name": "Peradon Forest",
+      "grass": {
+        "levels": [34, 35],
+        "rate": 10
+      },
+      "isNightOnly": true
+    },
+    {
+      "id": 2,
+      "name": "Lake Laplaz",
+      "grass": {
+        "levels": [37, 40],
+        "rate": 5
+      },
+      "isNightOnly": true
+    },
+    {
+      "id": 3,
+      "name": "Orichelle Garden",
+      "grass": {
+        "levels": [44, 46],
+        "rate": 10
+      }
+    }
+  ],
+  "031-hoothoot": [
+    {
+      "id": 1,
+      "name": "Varisi Forest",
+      "grass": {
+        "levels": [3, 6],
+        "rate": 20
+      },
+      "isNightOnly": true
+    }
+  ],
+  "032-noctowl": [
+    {
+      "id": 1,
+      "name": "Peradon Forest",
+      "grass": {
+        "levels": [34, 37],
+        "rate": 5
+      },
+      "isNightOnly": true
+    }
+  ],
+  "033-pichu": [
+    {
+      "id": 1,
+      "name": "Varisi Forest",
+      "grass": {
+        "levels": [2, 6],
+        "rate": 10
+      }
+    }
+  ],
+  "034-pikachu": [
+    {
+      "id": 1,
+      "name": "Heleo Ranch",
+      "grass": {
+        "levels": [16, 18],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Daimyn City",
+      "grass": {
+        "levels": [30, 30],
+        "rate": 100
+      },
+      "notes": "Received as a gift, wearing Original Cap"
+    }
+  ],
+  "035-raichu": [
+    {
+      "id": 1,
+      "name": "Route 14",
+      "grass": {
+        "levels": [42, 46],
+        "rate": 50
+      },
+      "notes": "Only appears during swarms, in Alolan form"
+    }
+  ],
+  "036-buneary": [
+    {
+      "id": 1,
+      "name": "Route 14",
+      "grass": {
+        "levels": [44, 46],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Varisi Forest",
+      "grass": {
+        "levels": [3, 6],
+        "rate": 10
+      }
+    }
+  ],
+  "037-lopunny": [
+    {
+      "id": 1,
+      "name": "Peradon Forest",
+      "grass": {
+        "levels": [34, 36],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Orichelle Garden",
+      "grass": {
+        "levels": [43, 46],
+        "rate": 5
+      }
+    }
+  ],
+  "038-shroomish": [
+    {
+      "id": 1,
+      "name": "Route 18",
+      "grass": {
+        "levels": [42, 45],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 22",
+      "grass": {
+        "levels": [45, 51],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Varisi Forest",
+      "grass": {
+        "levels": [3, 7],
+        "rate": 10
+      }
+    }
+  ],
+  "039-breloom": [
+    {
+      "id": 1,
+      "name": "Route 18",
+      "grass": {
+        "levels": [43, 46],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 22",
+      "grass": {
+        "levels": [47, 52],
+        "rate": 2
+      }
+    },
+    {
+      "id": 3,
+      "name": "Orichelle Garden",
+      "grass": {
+        "levels": [43, 46],
+        "rate": 4
+      }
+    }
+  ],
+  "040-bonsly": [
+    {
+      "id": 1,
+      "name": "Route 7",
+      "grass": {
+        "levels": [6, 9],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 13",
+      "rocks": {
+        "levels": [18, 25],
+        "rate": 90
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 17 Cave 1F",
+      "grass": {
+        "levels": [3, 4],
+        "rate": 10
+      }
+    },
+    {
+      "id": 4,
+      "name": "Varisi Forest",
+      "grass": {
+        "levels": [4, 7],
+        "rate": 5
+      }
+    }
+  ],
+  "041-sudowoodo": [
+    {
+      "id": 1,
+      "name": "Route 17",
+      "grass": {
+        "levels": [43, 45],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 24",
+      "grass": {
+        "levels": [54, 57],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Peradon Forest",
+      "grass": {
+        "levels": [34, 36],
+        "rate": 5
+      }
+    }
+  ],
+  "042-venipede": [
+    {
+      "id": 1,
+      "name": "Varisi Forest",
+      "grass": {
+        "levels": [3, 7],
+        "rate": 8
+      }
+    }
+  ],
+  "043-whirlipede": [
+    {
+      "id": 1,
+      "name": "Route 11",
+      "grass": {
+        "levels": [30, 33],
+        "rate": 20
+      }
+    }
+  ],
+  "044-scolipede": [],
+  "045-slakoth": [
+    {
+      "id": 1,
+      "name": "Varisi Forest",
+      "grass": {
+        "levels": [4, 7],
+        "rate": 2
+      }
+    }
+  ],
+  "046-vigoroth": [
+    {
+      "id": 1,
+      "name": "Route 15",
+      "grass": {
+        "levels": [43, 46],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Peradon Forest",
+      "grass": {
+        "levels": [46, 49],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Mimmett Jungle",
+      "grass": {
+        "levels": [44, 46],
+        "rate": 10
+      }
+    }
+  ],
+  "047-slaking": [
+    {
+      "id": 1,
+      "name": "Mimmett Jungle",
+      "grass": {
+        "levels": [48,51],
+        "rate": 2
+      }
+    }
+  ],
+  "048-zubat": [
+    {
+      "id": 1,
+      "name": "Route 10 Cave",
+      "grass": {
+        "levels": [25, 29],
+        "rate": 40
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 13 Cave 1F",
+      "grass": {
+        "levels": [42, 46],
+        "rate": 14
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 17 Cave 1F",
+      "grass": {
+        "levels": [2, 4],
+        "rate": 30
+      }
+    },
+    {
+      "id": 4,
+      "name": "Rubarr Desert Cave 1F",
+      "grass": {
+        "levels": [21, 23],
+        "rate": 30
+      }
+    },
+    {
+      "id": 5,
+      "name": "Torma Cave 1F",
+      "grass": {
+        "levels": [11, 14],
+        "rate": 10
+      }
+    },
+    {
+      "id": 6,
+      "name": "Scalding Spa",
+      "grass": {
+        "levels": [36, 38],
+        "rate": 10
+      }
+    },
+    {
+      "id": 7,
+      "name": "Pluto HQ",
+      "static": {
+        "levels": [40]
+      },
+      "rate": 33,
+      "notes": "Only when getting caught in an active statue's gaze"
+    }
+  ],
+  "049-golbat": [
+    {
+      "id": 1,
+      "name": "Route 10 Cave",
+      "grass": {
+        "levels": [25, 29],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 13 Cave 1F",
+      "grass": {
+        "levels": [42, 46],
+        "rate": 25
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 17 Cave 1F Back Room and BF1",
+      "grass": {
+        "levels": [42, 47],
+        "rate": 35
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 20 Cave",
+      "grass": {
+        "levels": [45, 49],
+        "rate": 25
+      }
+    },
+    {
+      "id": 5,
+      "name": "Route 23 Cave",
+      "grass": {
+        "levels": [48, 51],
+        "rate": 10
+      }
+    },
+    {
+      "id": 6,
+      "name": "Rubarr Desert Cave 1F",
+      "grass": {
+        "levels": [22, 25],
+        "rate": 5
+      }
+    },
+    {
+      "id": 7,
+      "name": "Rubarr Desert Cave BF1 and BF2",
+      "grass": {
+        "levels": [49, 54],
+        "rate": 30
+      }
+    },
+    {
+      "id": 8,
+      "name": "Scalding Spa",
+      "grass": {
+        "levels": [36, 39],
+        "rate": 5
+      }
+    },
+    {
+      "id": 9,
+      "name": "Seppire Cove Interior",
+      "grass": {
+        "levels": [51, 56],
+        "rate": 20
+      }
+    },
+    {
+      "id": 10,
+      "name": "Uteyan Ruins Cave",
+      "grass": {
+        "levels": [53, 56],
+        "rate": 20
+      }
+    },
+    {
+      "id": 11,
+      "name": "Victory Road Interior",
+      "grass": {
+        "levels": [54, 57],
+        "rate": 20
+      }
+    }
+  ],
+  "050-crobat": [
+    {
+      "id": 1,
+      "name": "Uteyan Ruins Cave",
+      "grass": {
+        "levels": [54, 58],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Victory Road Interior",
+      "grass": {
+        "levels": [55, 58],
+        "rate": 4
+      }
+    }
+  ],
+  "051-drilbur": [
+    {
+      "id": 1,
+      "name": "Route 17 Cave 1F",
+      "grass": {
+        "levels": [3, 4],
+        "rate": 40
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 17 Cave 1F Back Room and BF1",
+      "grass": {
+        "levels": [43, 45],
+        "rate": 20
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 23 Cave",
+      "grass": {
+        "levels": [47, 51],
+        "rate": 20
+      }
+    },
+    {
+      "id": 4,
+      "name": "Torma Cave 1F",
+      "grass": {
+        "levels": [9, 13],
+        "rate": 20
+      }
+    },
+    {
+      "id": 5,
+      "name": "Forgotten Manse Cave",
+      "grass": {
+        "levels": [18, 24],
+        "rate": 35
+      }
+    },
+    {
+      "id": 6,
+      "name": "Uteyan Ruins Cave",
+      "grass": {
+        "levels": [54, 57],
+        "rate": 20
+      }
+    }
+  ],
+  "052-excadrill": [
+    {
+      "id": 1,
+      "name": "Route 13 Cave",
+      "grass": {
+        "levels": [42, 446],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 17 Cave 1F Back Room and BF1",
+      "grass": {
+        "levels": [43, 46],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 23",
+      "grass": {
+        "levels": [48, 53],
+        "rate": 5
+      }
+    },
+    {
+      "id": 4,
+      "name": "Rubarr Desert Cave BF1 and BF2",
+      "grass": {
+        "levels": [49, 54],
+        "rate": 10
+      }
+    },
+    {
+      "id": 5,
+      "name": "Uteyan Ruins Cave",
+      "grass": {
+        "levels": [54, 57],
+        "rate": 10
+      }
+    }
+  ],
+  "053-roggenrola": [
+    {
+      "id": 1,
+      "name": "Route 3",
+      "rocks": {
+        "levels": [10, 15],
+        "rate": 65
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 4",
+      "rocks": {
+        "levels": [10, 15],
+        "rate": 65
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 6",
+      "rocks": {
+        "levels": [15, 25],
+        "rate": 60
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 8",
+      "rocks": {
+        "levels": [19, 24],
+        "rate": 30
+      }
+    },
+    {
+      "id": 5,
+      "name": "Route 13",
+      "grass": {
+        "levels": [10, 13],
+        "rate": 5
+      }
+    },
+    {
+      "id": 6,
+      "name": "Route 17 Cave 1F",
+      "grass": {
+        "levels": [2, 4],
+        "rate": 15
+      },
+      "rocks": {
+        "levels": [35, 45],
+        "rate": 40
+      }
+    },
+    {
+      "id": 7,
+      "name": "Route 17 Cave 1F Back Room and BF1",
+      "rocks": {
+        "levels": [38, 48],
+        "rate": 35
+      }
+    },
+    {
+      "id": 8,
+      "name": "Torma Cave 1F",
+      "rocks": {
+        "levels": [10, 15],
+        "rate": 65
+      }
+    },
+    {
+      "id": 9,
+      "name": "Route 17 Cave 1F Back Room and BF1",
+      "rocks": {
+        "levels": [10, 15],
+        "rate": 65
+      }
+    }
+  ],
+  "054-boldore": [
+    {
+      "id": 1,
+      "name": "Route 6",
+      "rocks": {
+        "levels": [25, 27],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 8",
+      "rocks": {
+        "levels": [25, 27],
+        "rate": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 10 Cave",
+      "rocks": {
+        "levels": [25, 30],
+        "rate": 10
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 12 East",
+      "rocks": {
+        "levels": [35, 40],
+        "rate": 30
+      }
+    },
+    {
+      "id": 5,
+      "name": "Route 12 West",
+      "rocks": {
+        "levels": [40, 45],
+        "rate": 30
+      }
+    },
+    {
+      "id": 6,
+      "name": "Route 17 Cave 1F",
+      "rocks": {
+        "levels": [35, 45],
+        "rate": 60
+      }
+    },
+    {
+      "id": 7,
+      "name": "Route 17 Cave 1F Back Room and BF1",
+      "grass": {
+        "levels": [42, 46],
+        "rate": 10
+      },
+      "rocks": {
+        "levels": [38, 48],
+        "rate": 60
+      }
+    },
+    {
+      "id": 8,
+      "name": "Route 20 Cave",
+      "rocks": {
+        "levels": [45, 50],
+        "rate": 10
+      }
+    },
+    {
+      "id": 9,
+      "name": "Route 21 / Secret Trail",
+      "rocks": {
+        "levels": [50, 55],
+        "rate": 35
+      }
+    },
+    {
+      "id": 10,
+      "name": "Route 24",
+      "rocks": {
+        "levels": [55, 60],
+        "rate": 60
+      }
+    },
+    {
+      "id": 11,
+      "name": "Rubarr Desert Cave 1F",
+      "rocks": {
+        "levels": [25, 38],
+        "rate": 66
+      }
+    },
+    {
+      "id": 12,
+      "name": "Rubarr Desert Cave BF1 and BF2",
+      "rocks": {
+        "levels": [50, 55],
+        "rate": 60
+      }
+    },
+    {
+      "id": 13,
+      "name": "Daimyn City Factory Exterior",
+      "rocks": {
+        "levels": [25, 30],
+        "rate": 60
+      }
+    },
+    {
+      "id": 14,
+      "name": "Hesson Pass 1F and BF1",
+      "rocks": {
+        "levels": [30, 35],
+        "rate": 60
+      }
+    },
+    {
+      "id": 15,
+      "name": "Hesson Pass 2F",
+      "grass": {
+        "levels": [51, 54],
+        "rate": 4
+      },
+      "rocks": {
+        "levels": [50, 55],
+        "rate": 60
+      }
+    },
+    {
+      "id": 16,
+      "name": "Seppire Cove Interior",
+      "grass": {
+        "levels": [52, 57],
+        "rate": 20
+      },
+      "rocks": {
+        "levels": [50, 55],
+        "rate": 40
+      }
+    },
+    {
+      "id": 17,
+      "name": "Carnelidge Volcano Exterior",
+      "grass": {
+        "levels": [49, 53],
+        "rate": 24
+      },
+      "rocks": {
+        "levels": [48, 53],
+        "rate": 60
+      }
+    },
+    {
+      "id": 18,
+      "name": "Uteyan Ruins Exterior",
+      "rocks": {
+        "levels": [55, 60],
+        "rate": 60
+      }
+    },
+    {
+      "id": 19,
+      "name": "Uteyan Ruins Cave",
+      "rocks": {
+        "levels": [55, 60],
+        "rate": 60
+      }
+    },
+    {
+      "id": 20,
+      "name": "Victory Road Interior",
+      "rocks": {
+        "levels": [54, 57],
+        "rate": 20
+      }
+    },
+    {
+      "id": 21,
+      "name": "Scalding Spa",
+      "static": {
+        "levels": [30, 100],
+        "rate": 100
+      },
+      "notes": "Randomly received when trading with rival"
+    }
+  ],
+  "055-gigalith": [
+    {
+      "id": 1,
+      "name": "Route 17",
+      "rocks": {
+        "levels": [38, 48],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 21 / Secret Trail",
+      "rocks": {
+        "levels": [50, 55],
+        "rate": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 24",
+      "rocks": {
+        "levels": [55, 60],
+        "rate": 30
+      }
+    },
+    {
+      "id": 4,
+      "name": "Rubarr Desert Cave BF1 and BF2",
+      "rocks": {
+        "levels": [50, 55],
+        "rate": 1
+      }
+    },
+    {
+      "id": 5,
+      "name": "Hesson Pass 2F",
+      "rocks": {
+        "levels": [50, 55],
+        "rate": 5
+      }
+    },
+    {
+      "id": 6,
+      "name": "Carnelidge Volcano Exterior",
+      "rocks": {
+        "levels": [48, 53],
+        "rate": 5
+      }
+    },
+    {
+      "id": 5,
+      "name": "Carnelidge Volcano Interior",
+      "grass": {
+        "levels": [50, 53],
+        "rate": 4
+      }
+    },
+    {
+      "id": 6,
+      "name": "Uteyan Ruins Exterior",
+      "rocks": {
+        "levels": [55, 60],
+        "rate": 30
+      }
+    },
+    {
+      "id": 7,
+      "name": "Uteyan Ruins Cave",
+      "rocks": {
+        "levels": [55, 60],
+        "rate": 30
+      }
+    }
+  ],
+  "056-lillipup": [
+    {
+      "id": 1,
+      "name": "Route 7",
+      "grass": {
+        "levels": [6, 9],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Heleo Ranch",
+      "grass": {
+        "levels": [15, 18],
+        "rate": 20
+      },
+      "isNightOnly": true
+    }
+  ],
+  "057-herdier": [
+    {
+      "id": 1,
+      "name": "Route 12",
+      "grass": {
+        "levels": [35, 38],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Heleo Ranch",
+      "grass": {
+        "levels": [16, 18],
+        "rate": 10
+      }
+    }
+  ],
+  "058-stoutland": [
+    {
+      "id": 1,
+      "name": "Route 24",
+      "grass": {
+        "levels": [54, 57],
+        "rate": 10
+      }
+    }
+  ],
+  "059-chinchou": [
+    {
+      "id": 1,
+      "name": "Route 8",
+      "fish_old": {
+        "levels": [5, 20],
+        "rate": 30
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 10",
+      "water": {
+        "levels": [32, 38],
+        "rate": 65
+      },
+      "fish_old": {
+        "levels": [5, 20],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [20, 25],
+        "rate": 40
+      },
+      "fish_super": {
+        "levels": [30, 40],
+        "rate": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 13 Cave 1F",
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 30
+      },
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 15
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 17",
+      "water": {
+        "levels": [5, 30],
+        "rate": 95
+      }
+    },
+    {
+      "id": 5,
+      "name": "Route 17 Cave 1F",
+      "water": {
+        "levels": [5, 30],
+        "rate": 95
+      }
+    },
+    {
+      "id": 6,
+      "name": "Route 24",
+      "water": {
+        "levels": [52, 57],
+        "rate": 90
+      },
+      "fish_good": {
+        "levels": [30, 40],
+        "rate": 20
+      }
+    },
+    {
+      "id": 7,
+      "name": "Rhodanzi City",
+      "water": {
+        "levels": [5, 30],
+        "rate": 95
+      }
+    },
+    {
+      "id": 8,
+      "name": "Ferrox Village",
+      "static": {
+        "levels": [1, 100],
+        "rate": 100
+      },
+      "notes": "Trade for a Snom"
+    },
+    {
+      "id": 9,
+      "name": "Heleo Ranch",
+      "water": {
+        "levels": [10, 30],
+        "rate": 1
+      }
+    },
+    {
+      "id": 10,
+      "name": "Laplaz Town",
+      "fish_old": {
+        "levels": [5, 10],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [25, 30],
+        "rate": 20
+      }
+    },
+    {
+      "id": 11,
+      "name": "Lake Laplaz",
+      "water": {
+        "levels": [40, 45],
+        "rate": 60
+      }
+    },
+    {
+      "id": 12,
+      "name": "Calicin Bay",
+      "fish_good": {
+        "levels": [25, 48],
+        "rate": 20
+      }
+    }
+  ],
+  "060-lanturn": [
+    {
+      "id": 1,
+      "name": "Route 8",
+      "fish_super": {
+        "levels": [34, 37],
+        "rate": 40
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 10",
+      "fish_super": {
+        "levels": [30, 40],
+        "rate": 30
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 13 Cave 1F",
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 40
+      },
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 30
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 17",
+      "water": {
+        "levels": [20, 35],
+        "rate": 5
+      }
+    },
+    {
+      "id": 5,
+      "name": "Route 17 Cave 1F",
+      "water": {
+        "levels": [20, 35],
+        "rate": 5
+      }
+    },
+    {
+      "id": 6,
+      "name": "Route 22",
+      "water": {
+        "levels": [48, 51],
+        "rate": 30
+      }
+    },
+    {
+      "id": 7,
+      "name": "Route 24",
+      "water": {
+        "levels": [55, 59],
+        "rate": 10
+      },
+      "fish_super": {
+        "levels": [50, 60],
+        "rate": 25
+      }
+    },
+    {
+      "id": 8,
+      "name": "Rhodanzi City",
+      "water": {
+        "levels": [20, 35],
+        "rate": 5
+      }
+    },
+    {
+      "id": 9,
+      "name": "Laplaz Town",
+      "fish_good": {
+        "levels": [30, 35],
+        "rate": 20
+      },
+      "fish_super": {
+        "levels": [40, 45],
+        "rate": 45
+      }
+    },
+    {
+      "id": 10,
+      "name": "Lake Laplaz",
+      "water": {
+        "levels": [40, 45],
+        "rate": 10
+      }
+    },
+    {
+      "id": 11,
+      "name": "Calicin Bay",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 15
+      }
+    },
+    {
+      "id": 12,
+      "name": "Victory Road Exterior",
+      "water": {
+        "levels": [54, 59],
+        "rate": 60
+      }
+    }
+  ],
+  "061-rattata-a": [
+    {
+      "id": 1,
+      "name": "Route 3",
+      "grass": {
+        "levels": [6, 9],
+        "rate": 30
+      },
+      "notes": "May appear in Kantonian form during swarms"
+    },
+    {
+      "id": 2,
+      "name": "Route 4",
+      "grass": {
+        "levels": [9, 13],
+        "rate": 15
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 5",
+      "grass": {
+        "levels": [11, 14],
+        "rate": 10
+      }
+    },
+    {
+      "id": 4,
+      "name": "Forgotten Manse Exterior",
+      "grass": {
+        "levels": [19, 24],
+        "rate": 10
+      }
+    },
+    {
+      "id": 5,
+      "name": "Pluto HQ",
+      "static": {
+        "levels": [40, 40],
+        "rate": 20
+      },
+      "notes": "Only when getting caught in an active statue's gaze"
+    }
+  ],
+  "062-raticate-a": [
+    {
+      "id": 1,
+      "name": "Route 16",
+      "grass": {
+        "levels": [42, 45],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 23",
+      "grass": {
+        "levels": [46, 53],
+        "rate": 15
+      }
+    },
+    {
+      "id": 3,
+      "name": "Forgotten Manse Exterior",
+      "grass": {
+        "levels": [20, 25],
+        "rate": 5
+      },
+      "notes": "May appear in Kantonian form during swarms"
+    },
+    {
+      "id": 4,
+      "name": "Forgotten Manse Interior",
+      "grass": {
+        "levels": [21, 24],
+        "rate": 5
+      },
+      "notes": "May appear in Kantonian form during swarms"
+    }
+  ],
+  "063-farfetchd-g": [
+    {
+      "id": 1,
+      "name": "Route 6",
+      "grass": {
+        "levels": [15, 19],
+        "rate": 8
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 7",
+      "grass": {
+        "levels": [6, 9],
+        "rate": 20
+      },
+      "notes": "May appear in Kantonian form during swarms"
+    }
+  ],
+  "064-sirfetchd": [],
+  "065-fletchling": [
+    {
+      "id": 1,
+      "name": "Route 7",
+      "grass": {
+        "levels": [6, 8],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 13",
+      "grass": {
+        "levels": [10, 12],
+        "rate": 20
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 17",
+      "grass": {
+        "levels": [2, 4],
+        "rate": 30
+      }
+    }
+  ],
+  "066-fletchinder": [
+    {
+      "id": 1,
+      "name": "Route 6",
+      "grass": {
+        "levels": [17, 18],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 13",
+      "grass": {
+        "levels": [15, 15],
+        "rate": 4
+      }
+    },
+    {
+      "id": 3,
+      "name": "Carnelidge Volcano Exterior",
+      "grass": {
+        "levels": [49, 52],
+        "rate": 10
+      }
+    }
+  ],
+  "067-talonflame": [
+    {
+      "id": 1,
+      "name": "Carnelidge Volcano Exterior",
+      "grass": {
+        "levels": [49, 52],
+        "rate": 1
+      }
+    }
+  ],
+  "068-flabebe": [
+    {
+      "id": 1,
+      "name": "Route 17",
+      "grass": {
+        "levels": [2, 4],
+        "rate": 25
+      },
+      "notes": "Appears in red (20%), blue (4%), and yellow (1%)"
+    },
+    {
+      "id": 2,
+      "name": "Route 18",
+      "grass": {
+        "levels": [43, 46],
+        "rate": 5
+      },
+      "notes": "Appears in orange (4%) and white (1%)"
+    }
+  ],
+  "069-floette": [
+    {
+      "id": 1,
+      "name": "Route 11 North",
+      "grass": {
+        "levels": [29, 33],
+        "rate": 10
+      },
+      "notes": "Appears in white"
+    },
+    {
+      "id": 2,
+      "name": "Route 15",
+      "grass": {
+        "levels": [43, 46],
+        "rate": 10
+      },
+      "notes": "Appears in blue"
+    },
+    {
+      "id": 3,
+      "name": "Route 18",
+      "grass": {
+        "levels": [43, 46],
+        "rate": 10
+      },
+      "notes": "Appears in yellow"
+    }
+  ],
+  "070-florges": [
+    {
+      "id": 1,
+      "name": "Orichelle Garden",
+      "grass": {
+        "levels": [43, 46],
+        "rate": 10
+      },
+      "notes": "Appears in orange"
+    }
+  ],
+  "071-cutiefly": [
+    {
+      "id": 1,
+      "name": "Route 17",
+      "grass": {
+        "levels": [2, 4],
+        "rate": 15
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 18",
+      "grass": {
+        "levels": [48, 46],
+        "rate": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Heleo Ranch",
+      "grass": {
+        "levels": [15, 18],
+        "rate": 4
+      }
+    }
+  ],
+  "072-ribombee": [
+    {
+      "id": 1,
+      "name": "Route 18",
+      "grass": {
+        "levels": [44, 46],
+        "rate": 10
+      }
+    }
+  ],
+  "073-ralts": [
+    {
+      "id": 1,
+      "name": "Route 3",
+      "grass": {
+        "levels": [7, 9],
+        "rate": 15
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 4",
+      "grass": {
+        "levels": [10, 12],
+        "rate": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 17",
+      "grass": {
+        "levels": [2, 4],
+        "rate": 20
+      }
+    }
+  ],
+  "074-kirlia": [
+    {
+      "id": 1,
+      "name": "Route 10",
+      "grass": {
+        "levels": [26, 29],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 24",
+      "grass": {
+        "levels": [53, 56],
+        "rate": 20
+      },
+      "isDayOnly": true
+    }
+  ],
+  "075-gardevoir": [
+    {
+      "id": 1,
+      "name": "Orichelle Garden",
+      "grass": {
+        "levels": [42, 45],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Uteyan Ruins Exterior",
+      "grass": {
+        "levels": [57, 58],
+        "rate": 8
+      },
+      "isDayOnly": true
+    }
+  ],
+  "076-gallade": [],
+  "077-ferroseed": [
+    {
+      "id": 1,
+      "name": "Route 7",
+      "grass": {
+        "levels": [6, 9],
+        "rate": 15
+      }
+    },
+    {
+      "id": 2,
+      "name": "Peradon Forest",
+      "grass": {
+        "levels": [34, 35],
+        "rate": 10
+      },
+      "isDayOnly": true
+    }
+  ],
+  "078-ferrothorn": [
+    {
+      "id": 1,
+      "name": "Route 20",
+      "grass": {
+        "levels": [45, 48],
+        "rate": 4
+      }
+    }
+  ],
+  "079-combee": [
+    {
+      "id": 1,
+      "name": "Route 3",
+      "grass": {
+        "levels": [6, 9],
+        "rate": 30
+      }
+    },
+    {
+      "id": 2,
+      "name": "Orichelle Garden",
+      "grass": {
+        "levels": [43, 46],
+        "rate": 20
+      }
+    }
+  ],
+  "080-vespiquen": [
+    {
+      "id": 1,
+      "name": "Orichelle Garden",
+      "grass": {
+        "levels": [42, 45],
+        "rate": 10
+      }
+    }
+  ],
+  "081-scraggy": [
+    {
+      "id": 1,
+      "name": "Route 5",
+      "static": {
+        "levels": [1, 1],
+        "rate": 33
+      },
+      "notes": "Egg from rival event may hatch into this"
+    },
+    {
+      "id": 2,
+      "name": "Route 11 South",
+      "grass": {
+        "levels": [26, 29],
+        "rate": 20
+      }
+    }
+  ],
+  "082-scrafty": [
+    {
+      "id": 1,
+      "name": "Hesson Pass 2F",
+      "grass": {
+        "levels": [52, 54],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Victory Road Interior",
+      "grass": {
+        "levels": [55, 58],
+        "rate": 10
+      }
+    }
+  ],
+  "083-cacnea": [
+    {
+      "id": 1,
+      "name": "Rubarr Desert",
+      "grass": {
+        "levels": [8, 10],
+        "rate": 20
+      }
+    }
+  ],
+  "084-cacturne": [],
+  "085-wingull": [
+    {
+      "id": 1,
+      "name": "Route 1",
+      "grass": {
+        "levels": [2, 4],
+        "rate": 35
+      },
+      "water": {
+        "levels": [43, 46],
+        "rate": 60
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 8",
+      "water": {
+        "levels": [43, 46],
+        "rate": 60
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 14",
+      "water": {
+        "levels": [41, 44],
+        "rate": 60
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 16",
+      "water": {
+        "levels": [42, 45],
+        "rate": 30
+      }
+    },
+    {
+      "id": 5,
+      "name": "Route 19",
+      "grass": {
+        "levels": [44, 48],
+        "rate": 10
+      }
+    }
+  ],
+  "086-pelipper": [
+    {
+      "id": 1,
+      "name": "Route 14",
+      "water": {
+        "levels": [42, 46],
+        "rate": 5
+      }
+    }
+  ],
+  "087-helioptile": [
+    {
+      "id": 1,
+      "name": "Rubarr Desert",
+      "grass": {
+        "levels": [8, 11],
+        "rate": 34
+      },
+      "isDayOnly": true
+    }
+  ],
+  "088-heliolisk": [
+    {
+      "id": 1,
+      "name": "Route 21 / Secret Trail",
+      "grass": {
+        "levels": [49, 52],
+        "rate": 5
+      },
+      "isDayOnly": true
+    },
+    {
+      "id": 2,
+      "name": "Rubarr Desert",
+      "grass": {
+        "levels": [10, 13],
+        "rate": 2
+      },
+      "isDayOnly": true
+    },
+    {
+      "id": 3,
+      "name": "Victory Road Exterior",
+      "grass": {
+        "levels": [54, 58],
+        "rate": 15
+      },
+      "isDayOnly": true
+    }
+  ],
+  "089-vullaby": [
+    {
+      "id": 1,
+      "name": "Rubarr Desert",
+      "grass": {
+        "levels": [8, 11],
+        "rate": 34
+      }
+    }
+  ],
+  "090-mandibuzz": [
+    {
+      "id": 1,
+      "name": "Route 21 / Secret Trail",
+      "grass": {
+        "levels": [49, 52],
+        "rate": 5
+      },
+      "isNightOnly": true
+    },
+    {
+      "id": 2,
+      "name": "Route 24",
+      "grass": {
+        "levels": [54, 58],
+        "rate": 5
+      },
+      "isNightOnly": true
+    },
+    {
+      "id": 3,
+      "name": "Rubarr Desert",
+      "grass": {
+        "levels": [10, 13],
+        "rate": 2
+      },
+      "isNightOnly": true
+    },
+    {
+      "id": 4,
+      "name": "Victory Road Exterior",
+      "grass": {
+        "levels": [54, 58],
+        "rate": 15
+      },
+      "isNightOnly": true
+    }
+  ],
+  "091-castform": [
+    {
+      "id": 1,
+      "name": "Route 8",
+      "grass": {
+        "levels": [19, 23],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 12 West",
+      "grass": {
+        "levels": [40, 42],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Rubarr Desert",
+      "grass": {
+        "levels": [10, 12],
+        "rate": 10
+      }
+    }
+  ],
+  "092-trapinch": [
+    {
+      "id": 1,
+      "name": "Route 16",
+      "grass": {
+        "levels": [42, 46],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Rubarr Desert",
+      "grass": {
+        "levels": [8, 12],
+        "rate": 15
+      }
+    },
+    {
+      "id": 3,
+      "name": "Rubarr Desert Cave 1F",
+      "grass": {
+        "levels": [20, 26],
+        "rate": 36
+      }
+    },
+    {
+      "id": 4,
+      "name": "Rubarr Desert Cave BF1",
+      "grass": {
+        "levels": [49, 54],
+        "rate": 20
+      }
+    }
+  ],
+  "093-vibrava": [
+    {
+      "id": 1,
+      "name": "Route 21 / Secret Trail",
+      "grass": {
+        "levels": [48, 51],
+        "rate": 15
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 7",
+      "grass": {
+        "levels": [6, 8],
+        "rate": 20
+      }
+    },
+    {
+      "id": 3,
+      "name": "Rubarr Desert Cave BF1",
+      "grass": {
+        "levels": [49, 56],
+        "rate": 9
+      }
+    },
+    {
+      "id": 4,
+      "name": "Rubarr Desert Cave BF2",
+      "grass": {
+        "levels": [49, 56],
+        "rate": 29
+      }
+    }
+  ],
+  "094-flygon": [
+    {
+      "id": 1,
+      "name": "Rubarr Desert Cave BF1 and BF2",
+      "grass": {
+        "levels": [49, 54],
+        "rate": 5
+      }
+    }
+  ],
+  "095-sandile": [
+    {
+      "id": 1,
+      "name": "Rubarr Desert",
+      "grass": {
+        "levels": [8, 12],
+        "rate": 15
+      }
+    },
+    {
+      "id": 2,
+      "name": "Rubarr Desert Cave 1F",
+      "grass": {
+        "levels": [19, 24],
+        "rate": 29
+      }
+    }
+  ],
+  "096-krokorok": [
+    {
+      "id": 1,
+      "name": "Route 23",
+      "grass": {
+        "levels": [47, 52],
+        "rate": 20
+      }
+    },
+    {
+      "id": 1,
+      "name": "Rubarr Desert Cave BF1 and BF2",
+      "grass": {
+        "levels": [50, 55],
+        "rate": 10
+      }
+    }
+  ],
+  "097-krookodile": [
+    {
+      "id": 1,
+      "name": "Rubarr Desert Cave BF1 and BF2",
+      "grass": {
+        "levels": [50, 56],
+        "rate": 5
+      }
+    }
+  ],
+  "098-hippopotas": [
+    {
+      "id": 1,
+      "name": "Route 11 South",
+      "grass": {
+        "levels": [27, 30],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Rubarr Desert",
+      "grass": {
+        "levels": [10, 13],
+        "rate": 4
+      },
+      "water": {
+        "levels": [15, 30],
+        "rate": 70
+      }
+    }
+  ],
+  "099-hippowdon": [
+    {
+      "id": 1,
+      "name": "Route 20",
+      "grass": {
+        "levels": [45, 48],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Rubarr Desert",
+      "water": {
+        "levels": [25, 30],
+        "rate": 30
+      }
+    }
+  ],
+  "100-corphish": [
+    {
+      "id": 1,
+      "name": "Route 2",
+      "water": {
+        "levels": [35, 45],
+        "rate": 60
+      },
+      "fish_good": {
+        "levels": [20, 35],
+        "rate": 40
+      },
+      "fish_super": {
+        "levels": [40, 50],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 6",
+      "fish_old": {
+        "levels": [5, 20],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [20, 26],
+        "rate": 40
+      },
+      "fish_super": {
+        "levels": [32, 36],
+        "rate": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 13",
+      "water": {
+        "levels": [27, 35],
+        "rate": 95
+      },
+      "fish_good": {
+        "levels": [20, 25],
+        "rate": 60
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 17",
+      "fish_old": {
+        "levels": [4, 8],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [20, 25],
+        "rate": 60
+      }
+    },
+    {
+      "id": 5,
+      "name": "Route 22",
+      "water": {
+        "levels": [47, 50],
+        "rate": 60
+      },
+      "fish_old": {
+        "levels": [5, 20],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 60
+      },
+      "fish_super": {
+        "levels": [45, 50],
+        "rate": 15
+      }
+    },
+    {
+      "id": 6,
+      "name": "Route 24",
+      "fish_old": {
+        "levels": [5, 20],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [30, 40],
+        "rate": 60
+      }
+    },
+    {
+      "id": 7,
+      "name": "Rhodanzi City",
+      "fish_old": {
+        "levels": [4, 8],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [20, 25],
+        "rate": 60
+      }
+    },
+    {
+      "id": 8,
+      "name": "Rubarr Desert",
+      "fish_old": {
+        "levels": [4, 8],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [20, 25],
+        "rate": 60
+      },
+      "fish_super": {
+        "levels": [35, 42],
+        "rate": 25
+      }
+    },
+    {
+      "id": 9,
+      "name": "Heleo Ranch",
+      "water": {
+        "levels": [5, 30],
+        "rate": 94
+      },
+      "fish_old": {
+        "levels": [4, 8],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [20, 25],
+        "rate": 60
+      }
+    },
+    {
+      "id": 9,
+      "name": "Laplaz Town",
+      "fish_old": {
+        "levels": [4, 8],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [25, 30],
+        "rate": 60
+      }
+    },
+    {
+      "id": 10,
+      "name": "Peradon Forest",
+      "water": {
+        "levels": [5, 35],
+        "rate": 40
+      },
+      "fish_old": {
+        "levels": [30, 35],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [33, 37],
+        "rate": 40
+      },
+      "fish_super": {
+        "levels": [40, 45],
+        "rate": 40
+      }
+    }
+  ],
+  "101-crawdaunt": [
+    {
+      "id": 1,
+      "name": "Route 2",
+      "water": {
+        "levels": [35, 45],
+        "rate": 9
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 6",
+      "fish_super": {
+        "levels": [33, 35],
+        "rate": 30
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 13",
+      "water": {
+        "levels": [33, 36],
+        "rate": 5
+      },
+      "fish_super": {
+        "levels": [36, 42],
+        "rate": 40
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 17",
+      "fish_super": {
+        "levels": [33, 41],
+        "rate": 30
+      }
+    },
+    {
+      "id": 5,
+      "name": "Route 22",
+      "water": {
+        "levels": [47, 52],
+        "rate": 10
+      },
+      "fish_super": {
+        "levels": [45, 50],
+        "rate": 30
+      }
+    },
+    {
+      "id": 6,
+      "name": "Route 24",
+      "fish_super": {
+        "levels": [50, 60],
+        "rate": 30
+      }
+    },
+    {
+      "id": 7,
+      "name": "Rhodanzi City",
+      "fish_super": {
+        "levels": [33, 41],
+        "rate": 30
+      }
+    },
+    {
+      "id": 8,
+      "name": "Rubarr Desert",
+      "fish_super": {
+        "levels": [33, 44],
+        "rate": 75
+      }
+    },
+    {
+      "id": 9,
+      "name": "Heleo Ranch",
+      "water": {
+        "levels": [30, 35],
+        "rate": 5
+      },
+      "fish_super": {
+        "levels": [33, 41],
+        "rate": 30
+      }
+    },
+    {
+      "id": 10,
+      "name": "Laplaz Town",
+      "fish_super": {
+        "levels": [40, 45],
+        "rate": 55
+      }
+    },
+    {
+      "id": 11,
+      "name": "Peradon Forest",
+      "fish_super": {
+        "levels": [40, 45],
+        "rate": 45
+      }
+    }
+  ],
+  "102-magikarp": [
+    {
+      "id": 1,
+      "name": "Route 1",
+      "fish_old": {
+        "levels": [5, 10],
+        "rate": 70
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 2",
+      "water": {
+        "levels": [35, 45],
+        "rate": 30
+      },
+      "fish_old": {
+        "levels": [8, 11],
+        "rate": 100
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 6",
+      "fish_old": {
+        "levels": [5, 20],
+        "rate": 70
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 8",
+      "fish_old": {
+        "levels": [5, 20],
+        "rate": 70
+      }
+    },
+    {
+      "id": 5,
+      "name": "Route 10",
+      "water": {
+        "levels": [30, 35],
+        "rate": 30
+      },
+      "fish_old": {
+        "levels": [5, 20],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [20, 25],
+        "rate": 60
+      },
+      "fish_super": {
+        "levels": [30, 40],
+        "rate": 25
+      }
+    },
+    {
+      "id": 6,
+      "name": "Route 12 West",
+      "fish_old": {
+        "levels": [35, 40],
+        "rate": 70
+      }
+    },
+    {
+      "id": 7,
+      "name": "Route 13",
+      "fish_old": {
+        "levels": [8, 15],
+        "rate": 100
+      },
+      "fish_good": {
+        "levels": [18, 25],
+        "rate": 40
+      },
+      "fish_super": {
+        "levels": [1, 70],
+        "rate": 5
+      }
+    },
+    {
+      "id": 8,
+      "name": "Route 13 Cave 1F",
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 60
+      },
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 15
+      }
+    },
+    {
+      "id": 9,
+      "name": "Route 14",
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 60
+      },
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 40
+      }
+    },
+    {
+      "id": 10,
+      "name": "Route 15",
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 60
+      }
+    },
+    {
+      "id": 11,
+      "name": "Route 16",
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 70
+      }
+    },
+    {
+      "id": 12,
+      "name": "Route 17",
+      "fish_old": {
+        "levels": [3, 7],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [19, 26],
+        "rate": 40
+      }
+    },
+    {
+      "id": 13,
+      "name": "Route 17 Cave 1F",
+      "fish_old": {
+        "levels": [3, 7],
+        "rate": 70
+      },
+      "fish_super": {
+        "levels": [40, 50],
+        "rate": 40
+      }
+    },
+    {
+      "id": 14,
+      "name": "Route 18",
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 20
+      },
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 15
+      }
+    },
+    {
+      "id": 15,
+      "name": "Route 19",
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 60
+      },
+      "fish_super": {
+        "levels": [40, 50],
+        "rate": 30
+      }
+    },
+    {
+      "id": 16,
+      "name": "Route 22",
+      "fish_old": {
+        "levels": [5, 20],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 40
+      },
+      "fish_super": {
+        "levels": [45, 50],
+        "rate": 45
+      }
+    },
+    {
+      "id": 17,
+      "name": "Route 23",
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 60
+      },
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 30
+      }
+    },
+    {
+      "id": 18,
+      "name": "Route 23 Cave",
+      "fish_old": {
+        "levels": [5, 30],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [25, 35],
+        "rate": 40
+      }
+    },
+    {
+      "id": 19,
+      "name": "Route 24",
+      "fish_old": {
+        "levels": [5, 20],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [30, 40],
+        "rate": 20
+      }
+    },
+    {
+      "id": 20,
+      "name": "Rhodanzi City",
+      "fish_old": {
+        "levels": [3, 7],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [19, 26],
+        "rate": 40
+      }
+    },
+    {
+      "id": 21,
+      "name": "Rubarr Desert",
+      "fish_old": {
+        "levels": [3, 7],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [19, 26],
+        "rate": 40
+      }
+    },
+    {
+      "id": 22,
+      "name": "Torma Cave 1F",
+      "fish_old": {
+        "levels": [3, 7],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [19, 26],
+        "rate": 40
+      }
+    },
+    {
+      "id": 23,
+      "name": "Heleo Ranch",
+      "fish_old": {
+        "levels": [3, 7],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [19, 26],
+        "rate": 40
+      }
+    },
+    {
+      "id": 24,
+      "name": "Forgotten Manse Cave",
+      "fish_old": {
+        "levels": [5, 15],
+        "rate": 100
+      },
+      "fish_good": {
+        "levels": [18, 24],
+        "rate": 20
+      }
+    },
+    {
+      "id": 25,
+      "name": "Peradon Forest",
+      "water": {
+        "levels": [5, 20],
+        "rate": 60
+      },
+      "fish_old": {
+        "levels": [30, 35],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [33, 37],
+        "rate": 60
+      },
+      "fish_super": {
+        "levels": [40, 45],
+        "rate": 15
+      }
+    },
+    {
+      "id": 26,
+      "name": "Lake Laplaz",
+      "fish_old": {
+        "levels": [5, 20],
+        "rate": 70
+      },
+      "fish_super": {
+        "levels": [45, 49],
+        "rate": 15
+      }
+    },
+    {
+      "id": 27,
+      "name": "Seppire Cove Exterior",
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 60
+      }
+    },
+    {
+      "id": 28,
+      "name": "Uteyan Ruins Cave",
+      "fish_old": {
+        "levels": [5, 20],
+        "rate": 100
+      },
+      "fish_good": {
+        "levels": [30, 40],
+        "rate": 60
+      },
+      "fish_super": {
+        "levels": [50, 60],
+        "rate": 5
+      }
+    }
+  ],
+  "103-gyarados": [
+    {
+      "id": 1,
+      "name": "Route 2",
+      "water": {
+        "levels": [35, 45],
+        "rate": 1
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 10",
+      "fish_super": {
+        "levels": [30, 40],
+        "rate": 40
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 13",
+      "fish_super": {
+        "levels": [34, 44],
+        "rate": 55
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 13 Cave 1F",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 40
+      }
+    },
+    {
+      "id": 5,
+      "name": "Route 14",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 10
+      }
+    },
+    {
+      "id": 6,
+      "name": "Route 15",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 10
+      }
+    },
+    {
+      "id": 7,
+      "name": "Route 16",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 35
+      }
+    },
+    {
+      "id": 8,
+      "name": "Route 17",
+      "fish_super": {
+        "levels": [35, 40],
+        "rate": 40
+      }
+    },
+    {
+      "id": 9,
+      "name": "Route 18",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 40
+      }
+    },
+    {
+      "id": 10,
+      "name": "Route 19",
+      "fish_super": {
+        "levels": [40, 50],
+        "rate": 10
+      }
+    },
+    {
+      "id": 11,
+      "name": "Route 22",
+      "fish_super": {
+        "levels": [45, 50],
+        "rate": 10
+      }
+    },
+    {
+      "id": 12,
+      "name": "Route 23",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 10
+      }
+    },
+    {
+      "id": 13,
+      "name": "Route 24",
+      "fish_super": {
+        "levels": [50, 60],
+        "rate": 40
+      }
+    },
+    {
+      "id": 14,
+      "name": "Rhodanzi City",
+      "fish_super": {
+        "levels": [50, 60],
+        "rate": 40
+      }
+    },
+    {
+      "id": 15,
+      "name": "Heleo Ranch",
+      "fish_super": {
+        "levels": [35, 40],
+        "rate": 40
+      }
+    },
+    {
+      "id": 16,
+      "name": "Lake Laplaz",
+      "fish_super": {
+        "levels": [46, 50],
+        "rate": 30
+      }
+    },
+    {
+      "id": 17,
+      "name": "Seppire Cove Exterior",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 10
+      }
+    },
+    {
+      "id": 18,
+      "name": "Uteyan Ruins Cave",
+      "fish_super": {
+        "levels": [50, 60],
+        "rate": 30
+      }
+    }
+  ],
+  "104-inkay": [
+    {
+      "id": 1,
+      "name": "Route 4",
+      "grass": {
+        "levels": [9, 11],
+        "rate": 30
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 12",
+      "grass": {
+        "levels": [36, 37],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Hesson Pass 1F and BF1",
+      "grass": {
+        "levels": [31, 34],
+        "rate": 20
+      }
+    }
+  ],
+  "105-malamar": [
+    {
+      "id": 1,
+      "name": "Hesson Pass 2F",
+      "grass": {
+        "levels": [51, 53],
+        "rate": 10
+      }
+    }
+  ],
+  "106-nincada": [
+    {
+      "id": 1,
+      "name": "Route 4",
+      "grass": {
+        "levels": [8, 11],
+        "rate": 20
+      }
+    }
+  ],
+  "107-ninjask": [],
+  "108-shedinja": [
+    {
+      "id": 1,
+      "name": "Forgotten Manse Exterior",
+      "grass": {
+        "levels": [20, 24],
+        "rate": 5
+      }
+    }
+  ],
+  "109-wynaut": [
+    {
+      "id": 1,
+      "name": "Route 4",
+      "grass": {
+        "levels": [9, 12],
+        "rate": 5
+      }
+    }
+  ],
+  "110-wobbuffet": [
+    {
+      "id": 1,
+      "name": "Hesson Pass 1F and BF1",
+      "grass": {
+        "levels": [29, 35],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Hesson Pass 2F",
+      "grass": {
+        "levels": [51, 53],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Uteyan Ruins Sealed Chambers",
+      "grass": {
+        "levels": [54, 58],
+        "rate": 30
+      }
+    }
+  ],
+  "111-carbink": [
+    {
+      "id": 1,
+      "name": "Route 3",
+      "rocks": {
+        "levels": [10, 15],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 4",
+      "rocks": {
+        "levels": [10, 15],
+        "rate": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 10 Cave",
+      "rocks": {
+        "levels": [21, 27],
+        "rate": 30
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 12 West",
+      "rocks": {
+        "levels": [40, 45],
+        "rate": 70
+      }
+    },
+    {
+      "id": 5,
+      "name": "Route 13 Cave BF1 and BF2",
+      "rocks": {
+        "levels": [40, 50],
+        "rate": 30
+      }
+    },
+    {
+      "id": 6,
+      "name": "Route 18 Cave",
+      "rocks": {
+        "levels": [35, 48],
+        "rate": 10
+      }
+    },
+    {
+      "id": 7,
+      "name": "Route 21 / Secret Trail",
+      "rocks": {
+        "levels": [50, 55],
+        "rate": 60
+      }
+    },
+    {
+      "id": 8,
+      "name": "Route 23",
+      "rocks": {
+        "levels": [47, 52],
+        "rate": 10
+      }
+    },
+    {
+      "id": 9,
+      "name": "Rubarr Desert Cave 1F",
+      "rocks": {
+        "levels": [30, 37],
+        "rate": 4
+      }
+    },
+    {
+      "id": 10,
+      "name": "Torma Cave 1F",
+      "grass": {
+        "levels": [8, 13],
+        "rate": 10
+      },
+      "rocks": {
+        "levels": [10, 15],
+        "rate": 5
+      }
+    },
+    {
+      "id": 11,
+      "name": "Torma Cave BF1",
+      "rocks": {
+        "levels": [10, 15],
+        "rate": 5
+      }
+    },
+    {
+      "id": 12,
+      "name": "Hesson Pass 1F and BF1",
+      "rocks": {
+        "levels": [30, 35],
+        "rate": 30
+      }
+    },
+    {
+      "id": 13,
+      "name": "Seppire Cove Interior",
+      "rocks": {
+        "levels": [50, 55],
+        "rate": 60
+      }
+    },
+    {
+      "id": 14,
+      "name": "Carnelidge Volcano Interior",
+      "rocks": {
+        "levels": [48, 53],
+        "rate": 35
+      }
+    },
+    {
+      "id": 15,
+      "name": "Uteyan Ruins Sealed Chambers",
+      "rocks": {
+        "levels": [54, 58],
+        "rate": 5
+      }
+    }
+  ],
+  "112-klink": [
+    {
+      "id": 1,
+      "name": "Route 24",
+      "grass": {
+        "levels": [47, 53],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Torma Cave 1F",
+      "grass": {
+        "levels": [10, 12],
+        "rate": 20
+      }
+    },
+    {
+      "id": 3,
+      "name": "Daimyn City",
+      "grass": {
+        "levels": [24, 28],
+        "rate": 10
+      },
+      "isDayOnly": true
+    },
+    {
+      "id": 4,
+      "name": "Hesson Pass 1F and BF1",
+      "rocks": {
+        "levels": [30, 35],
+        "rate": 10
+      }
+    },
+    {
+      "id": 5,
+      "name": "Daimyn City Factory Exterior",
+      "grass": {
+        "levels": [26, 30],
+        "rate": 20
+      },
+      "rocks": {
+        "levels": [24, 29],
+        "rate": 35
+      }
+    },
+    {
+      "id": 6,
+      "name": "Daimyn City Factory Interior",
+      "grass": {
+        "levels": [51, 56],
+        "rate": 20
+      }
+    }
+  ],
+  "113-klang": [
+    {
+      "id": 1,
+      "name": "Route 23 Cave",
+      "grass": {
+        "levels": [47, 52],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Hesson Pass 2F",
+      "grass": {
+        "levels": [52, 55],
+        "rate": 20
+      },
+      "rocks": {
+        "levels": [50, 55],
+        "rate": 35
+      }
+    },
+    {
+      "id": 3,
+      "name": "Daimyn City Factory Interior",
+      "grass": {
+        "levels": [52, 57],
+        "rate": 10
+      }
+    },
+    {
+      "id": 4,
+      "name": "Uteyan Ruins Cave",
+      "grass": {
+        "levels": [53, 57],
+        "rate": 10
+      }
+    }
+  ],
+  "114-klinklang": [
+    {
+      "id": 1,
+      "name": "Daimyn City Factory Interior",
+      "grass": {
+        "levels": [52, 58],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Uteyan Ruins Exterior",
+      "grass": {
+        "levels": [55, 60],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Uteyan Ruins Cave",
+      "rocks": {
+        "levels": [55, 60],
+        "rate": 10
+      }
+    },
+    {
+      "id": 4,
+      "name": "Victory Road Interior",
+      "grass": {
+        "levels": [54, 57],
+        "rate": 5
+      }
+    }
+  ],
+  "115-sableye": [
+    {
+      "id": 1,
+      "name": "Route 23",
+      "grass": {
+        "levels": [46, 52],
+        "rate": 15
+      }
+    },
+    {
+      "id": 2,
+      "name": "Torma Cave 1F",
+      "grass": {
+        "levels": [9, 14],
+        "rate": 15
+      }
+    },
+    {
+      "id": 3,
+      "name": "Forgotten Manse Interior",
+      "grass": {
+        "levels": [22, 26],
+        "rate": 5
+      }
+    }
+  ],
+  "116-mawile": [
+    {
+      "id": 1,
+      "name": "Route 23 Cave",
+      "grass": {
+        "levels": [46, 52],
+        "rate": 15
+      }
+    },
+    {
+      "id": 2,
+      "name": "Torma Cave 1F",
+      "grass": {
+        "levels": [9, 14],
+        "rate": 15
+      }
+    },
+    {
+      "id": 3,
+      "name": "Daimyn City Factory Exterior",
+      "grass": {
+        "levels": [26, 30],
+        "rate": 10
+      }
+    },
+    {
+      "id": 4,
+      "name": "Daimyn City Factory Interior",
+      "grass": {
+        "levels": [52, 57],
+        "rate": 10
+      }
+    }
+  ],
+  "117-shuckle": [
+    {
+      "id": 1,
+      "name": "Route 6",
+      "rocks": {
+        "levels": [20, 25],
+        "rate": 30
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 8",
+      "rocks": {
+        "levels": [15, 25],
+        "rate": 65
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 10 Cave",
+      "rocks": {
+        "levels": [22, 28],
+        "rate": 60
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 12 East",
+      "rocks": {
+        "levels": [35, 40],
+        "rate": 5
+      }
+    },
+    {
+      "id": 5,
+      "name": "Route 13",
+      "rocks": {
+        "levels": [18, 25],
+        "rate": 10
+      }
+    },
+    {
+      "id": 6,
+      "name": "Route 13 Cave BF1 and BF2",
+      "rocks": {
+        "levels": [40, 50],
+        "rate": 60
+      }
+    },
+    {
+      "id": 7,
+      "name": "Route 20",
+      "rocks": {
+        "levels": [45, 50],
+        "rate": 30
+      }
+    },
+    {
+      "id": 8,
+      "name": "Route 24",
+      "rocks": {
+        "levels": [55, 60],
+        "rate": 10
+      }
+    },
+    {
+      "id": 9,
+      "name": "Rubarr Desert Cave BF1 and BF2",
+      "rocks": {
+        "levels": [50, 55],
+        "rate": 5
+      }
+    },
+    {
+      "id": 10,
+      "name": "Hesson Pass 1F and BF1",
+      "rocks": {
+        "levels": [30, 34],
+        "rate": 10
+      }
+    },
+    {
+      "id": 11,
+      "name": "Damiyn City Factory Exterior",
+      "rocks": {
+        "levels": [25, 30],
+        "rate": 5
+      }
+    }
+  ],
+  "118-jangmo-o": [
+    {
+      "id": 1,
+      "name": "Route 5",
+      "grass": {
+        "levels": [11, 15],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 11 South",
+      "grass": {
+        "levels": [27, 30],
+        "rate": 1
+      }
+    }
+  ],
+  "119-hakamo-o": [
+    {
+      "id": 1,
+      "name": "Uteyan Ruins Cave",
+      "grass": {
+        "levels": [54, 58],
+        "rate": 10
+      }
+    }
+  ],
+  "120-kommo-o": [
+    {
+      "id": 1,
+      "name": "Victory Road Exterior",
+      "grass": {
+        "levels": [55, 59],
+        "rate": 5
+      }
+    }
+  ],
+  "121-cubchoo": [
+    {
+      "id": 1,
+      "name": "Route 12 West",
+      "grass": {
+        "levels": [39, 41],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 13 Cave BF1 and BF2",
+      "grass": {
+        "levels": [43, 46],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Torma Cave BF1",
+      "grass": {
+        "levels": [9, 13],
+        "rate": 20
+      }
+    }
+  ],
+  "122-beartic": [
+    {
+      "id": 1,
+      "name": "Route 12 West",
+      "grass": {
+        "levels": [39, 43],
+        "rate": 5
+      }
+    },
+    {
+      "id": 1,
+      "name": "Route 13 Cave BF1 and BF2",
+      "grass": {
+        "levels": [42, 46],
+        "rate": 20
+      }
+    }
+  ],
+  "123-swinub": [
+    {
+      "id": 1,
+      "name": "Route 12 East",
+      "grass": {
+        "levels": [35, 39],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Torma Cave BF1",
+      "grass": {
+        "levels": [8, 14],
+        "rate": 25
+      }
+    }
+  ],
+  "124-piloswine": [
+    {
+      "id": 1,
+      "name": "Route 12 West",
+      "grass": {
+        "levels": [41, 43],
+        "rate": 5
+      },
+      "isDayOnly": true
+    }
+  ],
+  "125-mamoswine": [
+    {
+      "id": 1,
+      "name": "Calicin Bay",
+      "grass": {
+        "levels": [42, 44],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Victory Road Interior",
+      "grass": {
+        "levels": [55, 59],
+        "rate": 4
+      }
+    }
+  ],
+  "126-snornut": [
+    {
+      "id": 1,
+      "name": "Route 12 East",
+      "grass": {
+        "levels": [35, 39],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 13 Cave BF1 and BF2",
+      "grass": {
+        "levels": [43, 46],
+        "rate": 20
+      }
+    },
+    {
+      "id": 3,
+      "name": "Torma Cave BF1",
+      "grass": {
+        "levels": [10, 14],
+        "rate": 25
+      }
+    }
+  ],
+  "127-glalie": [
+    {
+      "id": 1,
+      "name": "Route 12 West",
+      "grass": {
+        "levels": [41, 43],
+        "rate": 5
+      },
+      "isDayOnly": true
+    },
+    {
+      "id": 2,
+      "name": "Route 13 Cave BF1 and BF2",
+      "grass": {
+        "levels": [42, 46],
+        "rate": 40
+      }
+    }
+  ],
+  "128-froslass": [
+    {
+      "id": 1,
+      "name": "Route 12 West",
+      "grass": {
+        "levels": [41, 43],
+        "rate": 5
+      },
+      "isNightOnly": true
+    }
+  ],
+  "129-noibat": [
+    {
+      "id": 1,
+      "name": "Route 13 Cave 1F",
+      "grass": {
+        "levels": [42, 46],
+        "rate": 30
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 17 Cave 1F",
+      "grass": {
+        "levels": [3, 4],
+        "rate": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 17 Cave 1F Back Room and BF1",
+      "grass": {
+        "levels": [45, 48],
+        "rate": 13
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 20 Cave",
+      "grass": {
+        "levels": [45, 49],
+        "rate": 13
+      }
+    },
+    {
+      "id": 5,
+      "name": "Rubarr Desert Cave BF1",
+      "grass": {
+        "levels": [50, 56],
+        "rate": 11
+      }
+    },
+    {
+      "id": 6,
+      "name": "Rubarr Desert Cave BF2",
+      "grass": {
+        "levels": [50, 55],
+        "rate": 10
+      }
+    },
+    {
+      "id": 7,
+      "name": "Torma Cave 1F",
+      "grass": {
+        "levels": [11, 14],
+        "rate": 2
+      }
+    },
+    {
+      "id": 8,
+      "name": "Forgotten Manse Cave",
+      "grass": {
+        "levels": [18, 24],
+        "rate": 35
+      }
+    },
+    {
+      "id": 9,
+      "name": "Daimyn City",
+      "static": {
+        "levels": [1, 100],
+        "rate": 100
+      },
+      "notes": "Trade for Lillipup, based on starter choices"
+    },
+    {
+      "id": 10,
+      "name": "Hesson Pass 2F",
+      "grass": {
+        "levels": [50, 55],
+        "rate": 5
+      }
+    },
+    {
+      "id": 11,
+      "name": "Uteyan Ruins Cave",
+      "grass": {
+        "levels": [53, 56],
+        "rate": 20
+      }
+    }
+  ],
+  "130-noivern": [
+    {
+      "id": 1,
+      "name": "Route 13 Cave 1F",
+      "grass": {
+        "levels": [44, 46],
+        "rate": 1
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 17 Cave 1F Back Room and BF1",
+      "grass": {
+        "levels": [48, 50],
+        "rate": 2
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 20 Cave",
+      "grass": {
+        "levels": [44, 49],
+        "rate": 2
+      }
+    },
+    {
+      "id": 4,
+      "name": "Rubarr Desert Cave BF2",
+      "grass": {
+        "levels": [50, 56],
+        "rate": 1
+      }
+    },
+    {
+      "id": 5,
+      "name": "Hesson Pass 2F",
+      "grass": {
+        "levels": [52, 55],
+        "rate": 1
+      }
+    },
+    {
+      "id": 6,
+      "name": "Uteyan Ruins Cave",
+      "grass": {
+        "levels": [54, 58],
+        "rate": 5
+      }
+    },
+    {
+      "id": 7,
+      "name": "Victory Road Interior",
+      "grass": {
+        "levels": [55, 58],
+        "rate": 5
+      }
+    }
+  ],
+  "131-tyrunt": [
+    {
+      "id": 1,
+      "name": "Route 18 Cave",
+      "grass": {
+        "levels": [40, 47],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Torma Cave 1F",
+      "grass": {
+        "levels": [9, 13],
+        "rate": 4
+      }
+    },
+    {
+      "id": 3,
+      "name": "Hesson Pass 1F and BF1",
+      "grass": {
+        "levels": [31, 34],
+        "rate": 1
+      }
+    }
+  ],
+  "132-tyrantrum": [
+    {
+      "id": 1,
+      "name": "Hesson Pass 2F",
+      "grass": {
+        "levels": [51, 53],
+        "rate": 5
+      }
+    }
+  ],
+  "133-sneasel": [
+    {
+      "id": 1,
+      "name": "Route 12 East",
+      "grass": {
+        "levels": [36, 39],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Torma Cave BF1",
+      "grass": {
+        "levels": [10, 13],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Calicin Bay",
+      "grass": {
+        "levels": [40, 44],
+        "rate": 25
+      },
+      "notes": "Rate is 20% at night"
+    }
+  ],
+  "134-weavile": [
+    {
+      "id": 1,
+      "name": "Calicin Bay",
+      "grass": {
+        "levels": [42, 44],
+        "rate": 5
+      },
+      "isNightOnly": true
+    }
+  ],
+  "135-snom": [
+    {
+      "id": 1,
+      "name": "Route 9",
+      "grass": {
+        "levels": [25, 29],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Torma Cave BF1",
+      "grass": {
+        "levels": [9, 14],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Calicin Bay",
+      "grass": {
+        "levels": [41, 44],
+        "rate": 10
+      }
+    }
+  ],
+  "136-frosmoth": [
+    {
+      "id": 1,
+      "name": "Route 12 West",
+      "grass": {
+        "levels": [41, 43],
+        "rate": 5
+      },
+      "isNightOnly": true
+    }
+  ],
+  "137-darumaka-g": [
+    {
+      "id": 1,
+      "name": "Route 12 West",
+      "grass": {
+        "levels": [39, 41],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Torma Cave BF1",
+      "grass": {
+        "levels": [9, 14],
+        "rate": 10
+      },
+      "notes": "May appear in Unovan form during swarms"
+    }
+  ],
+  "138-darmanitan-g": [
+    {
+      "id": 1,
+      "name": "Route 12 West",
+      "grass": {
+        "levels": [39, 43],
+        "rate": 5
+      },
+      "notes": "May appear in Unovan form during swarms"
+    }
+  ],
+  "139-houndour": [
+    {
+      "id": 1,
+      "name": "Route 11 South",
+      "grass": {
+        "levels": [27, 31],
+        "rate": 8
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 13",
+      "grass": {
+        "levels": [9, 15],
+        "rate": 24
+      }
+    }
+  ],
+  "140-houndoom": [
+    {
+      "id": 1,
+      "name": "Victory Road Interior",
+      "grass": {
+        "levels": [55, 59],
+        "rate": 10
+      }
+    }
+  ],
+  "141-larvesta": [
+    {
+      "id": 1,
+      "name": "Route 5",
+      "static": {
+        "levels": [1, 1],
+        "rate": 100
+      },
+      "notes": "Received egg from daycare"
+    },
+    {
+      "id": 2,
+      "name": "Route 13",
+      "grass": {
+        "levels": [13, 16],
+        "rate": 2
+      }
+    }
+  ],
+  "142-volcarona": [
+    {
+      "id": 1,
+      "name": "Carnelidge Volcano Interior",
+      "grass": {
+        "levels": [50, 53],
+        "rate": 2
+      }
+    }
+  ],
+  "143-minior": [
+    {
+      "id": 1,
+      "name": "Route 13 Cave BF1 and BF2",
+      "rocks": {
+        "levels": [40, 50],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 21 / Secret Trail",
+      "grass": {
+        "levels": [47, 50],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Scalding Spa",
+      "rocks": {
+        "levels": [35, 40],
+        "rate": 100
+      }
+    },
+    {
+      "id": 4,
+      "name": "Carnelidge Volcano Exterior",
+      "grass": {
+        "levels": [49, 53],
+        "rate": 15
+      },
+      "rocks": {
+        "levels": [48, 53],
+        "rate": 35
+      }
+    },
+    {
+      "id": 5,
+      "name": "Daimyn City",
+      "static": {
+        "levels": [20, 20],
+        "rate": 100
+      },
+      "notes": "Daimyn City Game Corner prize, for 1000 coins"
+    }
+  ],
+  "144-rolycoly": [
+    {
+      "id": 1,
+      "name": "Route 3",
+      "rocks": {
+        "levels": [10, 15],
+        "rate": 30
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 4",
+      "rocks": {
+        "levels": [10, 15],
+        "rate": 30
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 13",
+      "grass": {
+        "levels": [9, 14],
+        "rate": 15
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 18 Cave",
+      "rocks": {
+        "levels": [35, 48],
+        "rate": 60
+      }
+    },
+    {
+      "id": 5,
+      "name": "Torma Cave 1F",
+      "rocks": {
+        "levels": [10, 15],
+        "rate": 30
+      }
+    },
+    {
+      "id": 6,
+      "name": "Torma Cave BF1",
+      "grass": {
+        "levels": [10, 15],
+        "rate": 30
+      }
+    }
+  ],
+  "145-carkol": [
+    {
+      "id": 1,
+      "name": "Route 11 South",
+      "rocks": {
+        "levels": [25, 30],
+        "rate": 60
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 12 East",
+      "rocks": {
+        "levels": [35, 40],
+        "rate": 65
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 18 Cave",
+      "rocks": {
+        "levels": [35, 48],
+        "rate": 30
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 20 Cave",
+      "grass": {
+        "levels": [45, 50],
+        "rate": 60
+      }
+    },
+    {
+      "id": 5,
+      "name": "Rubarr Desert Cave 1F",
+      "rocks": {
+        "levels": [23, 35],
+        "rate": 30
+      }
+    },
+    {
+      "id": 6,
+      "name": "Rubarr Desert Cave BF1 and BF2",
+      "rocks": {
+        "levels": [50, 55],
+        "rate": 30
+      }
+    },
+    {
+      "id": 7,
+      "name": "Scalding Spa",
+      "grass": {
+        "levels": [35, 38],
+        "rate": 20
+      }
+    },
+    {
+      "id": 8,
+      "name": "Carnelidge Volcano Interior",
+      "grass": {
+        "levels": [49, 53],
+        "rate": 30
+      },
+      "rocks": {
+        "levels": [48, 53],
+        "rate": 60
+      }
+    }
+  ],
+  "146-coalossal": [
+    {
+      "id": 1,
+      "name": "Rubarr Desert Cave BF1 and BF2",
+      "grass": {
+        "levels": [50, 55],
+        "rate": 4
+      }
+    },
+    {
+      "id": 2,
+      "name": "Carnelidge Volcano Interior",
+      "grass": {
+        "levels": [49, 52],
+        "rate": 10
+      },
+      "rocks": {
+        "levels": [48, 53],
+        "rate": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Victory Road Interior",
+      "grass": {
+        "levels": [55, 58],
+        "rate": 10
+      }
+    }
+  ],
+  "147-skarmory": [
+    {
+      "id": 1,
+      "name": "Carnelidge Volcano Exterior",
+      "grass": {
+        "levels": [49, 52],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Victory Road Exterior",
+      "grass": {
+        "levels": [54, 57],
+        "rate": 20
+      }
+    }
+  ],
+  "148-salandit": [
+    {
+      "id": 1,
+      "name": "Route 13",
+      "grass": {
+        "levels": [9, 14],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Scalding Spa",
+      "grass": {
+        "levels": [35, 39],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Carnelidge Volcano Exterior",
+      "grass": {
+        "levels": [49, 52],
+        "rate": 2
+      }
+    }
+  ],
+  "149-salazzle": [
+    {
+      "id": 1,
+      "name": "Scalding Spa",
+      "grass": {
+        "levels": [35, 38],
+        "rate": 5
+      }
+    }
+  ],
+  "150-frillish": [
+    {
+      "id": 1,
+      "name": "Route 1",
+      "fish_old": {
+        "levels": [5, 10],
+        "rate": 30
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 12 West",
+      "fish_old": {
+        "levels": [35, 45],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [40, 45],
+        "rate": 60
+      },
+      "fish_super": {
+        "levels": [50, 55],
+        "rate": 40
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 16",
+      "water": {
+        "levels": [41, 44],
+        "rate": 60
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 18",
+      "water": {
+        "levels": [44, 48],
+        "rate": 65
+      }
+    },
+    {
+      "id": 5,
+      "name": "Route 19",
+      "water": {
+        "levels": [45, 47],
+        "rate": 30
+      }
+    },
+    {
+      "id": 6,
+      "name": "Route 23",
+      "grass": {
+        "levels": [48, 50],
+        "rate": 30
+      }
+    },
+    {
+      "id": 7,
+      "name": "Daimyn City",
+      "static": {
+        "levels": [1, 100],
+        "rate": 100
+      },
+      "notes": "Trade for Magikarp, based on starter choices"
+    }
+  ],
+  "151-jellicent": [
+    {
+      "id": 1,
+      "name": "Route 1",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 40
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 12 West",
+      "fish_super": {
+        "levels": [50, 57],
+        "rate": 15
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 16",
+      "water": {
+        "levels": [42, 46],
+        "rate": 5
+      }
+    }
+  ],
+  "152-foongus": [
+    {
+      "id": 1,
+      "name": "Varisi Forest",
+      "static": {
+        "levels": [7, 7],
+        "rate": 100
+      },
+      "notes": "Daily trap encounter"
+    },
+    {
+      "id": 2,
+      "name": "Peradon Forest",
+      "grass": {
+        "levels": [34, 37],
+        "rate": 20
+      },
+      "isDayOnly": true
+    },
+    {
+      "id": 3,
+      "name": "Peradon Forest",
+      "static": {
+        "levels": [38, 38],
+        "rate": 2
+      },
+      "notes": "Daily trap encounter"
+    },
+    {
+      "id": 4,
+      "name": "Lake Laplaz",
+      "grass": {
+        "levels": [36, 40],
+        "rate": 20
+      },
+      "isDayOnly": true
+    }
+  ],
+  "153-amoonguss": [
+    {
+      "id": 1,
+      "name": "Route 20",
+      "grass": {
+        "levels": [45, 49],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Peradon Forest",
+      "static": {
+        "levels": [40, 40],
+        "rate": 100
+      },
+      "notes": "Daily trap encounter"
+    },
+    {
+      "id": 3,
+      "name": "Lake Laplaz",
+      "grass": {
+        "levels": [37, 40],
+        "rate": 5
+      },
+      "isDayOnly": true
+    }
+  ],
+  "154-shieldon": [
+    {
+      "id": 1,
+      "name": "Route 18 Cave",
+      "grass": {
+        "levels": [40, 47],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Hesson Pass 1F and BF1",
+      "grass": {
+        "levels": [29, 35],
+        "rate": 20
+      }
+    }
+  ],
+  "155-bastiodon": [
+    {
+      "id": 1,
+      "name": "Hesson Pass 2F",
+      "grass": {
+        "levels": [50, 53],
+        "rate": 5
+      }
+    }
+  ],
+  "156-timburr": [
+    {
+      "id": 1,
+      "name": "Route 5",
+      "grass": {
+        "levels": [11, 15],
+        "rate": 30
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 11 North",
+      "grass": {
+        "levels": [29, 33],
+        "rate": 10
+      }
+    }
+  ],
+  "157-gurdurr": [
+    {
+      "id": 1,
+      "name": "Route 11 North",
+      "grass": {
+        "levels": [29, 33],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 22",
+      "grass": {
+        "levels": [47, 50],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Daimyn City",
+      "grass": {
+        "levels": [25, 28],
+        "rate": 10
+      }
+    },
+    {
+      "id": 4,
+      "name": "Daimyn City Factory Exterior",
+      "grass": {
+        "levels": [26, 30],
+        "rate": 10
+      }
+    },
+    {
+      "id": 5,
+      "name": "Scalding Spa",
+      "static": {
+        "levels": [30, 100],
+        "rate": 100
+      },
+      "notes": "Randomly received when trading with rival"
+    }
+  ],
+  "158-conkeldurr": [
+    {
+      "id": 1,
+      "name": "Route 24",
+      "grass": {
+        "levels": [54, 58],
+        "rate": 1
+      }
+    }
+  ],
+  "159-amaura": [
+    {
+      "id": 1,
+      "name": "Route 12 West",
+      "grass": {
+        "levels": [40, 42],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 13 Cave BF1 and BF2",
+      "grass": {
+        "levels": [42, 46],
+        "rate": 8
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 18 Cave",
+      "grass": {
+        "levels": [40, 47],
+        "rate": 20
+      }
+    },
+    {
+      "id": 4,
+      "name": "Calicin Bay",
+      "grass": {
+        "levels": [41, 44],
+        "rate": 10
+      }
+    }
+  ],
+  "160-aurorus": [
+    {
+      "id": 1,
+      "name": "Route 13 Cave BF1 and BF2",
+      "grass": {
+        "levels": [44, 46],
+        "rate": 2
+      }
+    },
+    {
+      "id": 2,
+      "name": "Calicin Bay",
+      "grass": {
+        "levels": [42, 44],
+        "rate": 5
+      }
+    }
+  ],
+  "161-turtonator": [
+    {
+      "id": 1,
+      "name": "Scalding Spa",
+      "grass": {
+        "levels": [35, 39],
+        "rate": 2
+      }
+    },
+    {
+      "id": 2,
+      "name": "Carnelidge Volcano Interior",
+      "grass": {
+        "levels": [50, 53],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Daimyn City",
+      "static": {
+        "levels": [20, 20],
+        "rate": 100
+      },
+      "notes": "Daimyn City Game Corner prize, for 2000 coins"
+    }
+  ],
+  "162-mime-jr": [
+    {
+      "id": 1,
+      "name": "Route 6",
+      "grass": {
+        "levels": [15, 18],
+        "rate": 10
+      },
+      "notes": "May appear in Regular form during swarms"
+    }
+  ],
+  "163-mr-mime-g": [
+    {
+      "id": 1,
+      "name": "Route 9",
+      "grass": {
+        "levels": [25, 29],
+        "rate": 30
+      },
+      "notes": "May appear in Kantonian form during swarms"
+    },
+    {
+      "id": 2,
+      "name": "Daimyn City",
+      "static": {
+        "levels": [1, 100],
+        "rate": 100
+      },
+      "notes": "Trade for Galarian Farfetch'd, based on starter choices"
+    }
+  ],
+  "164-mr-rime": [],
+  "165-slugma": [
+    {
+      "id": 1,
+      "name": "Scalding Spa",
+      "grass": {
+        "levels": [36, 39],
+        "rate": 24
+      }
+    },
+    {
+      "id": 2,
+      "name": "Carnelidge Volcano Exterior",
+      "grass": {
+        "levels": [49, 53],
+        "rate": 25
+      }
+    },
+    {
+      "id": 3,
+      "name": "Carnelidge Volcano Interior",
+      "water": {
+        "levels": [49, 53],
+        "rate": 90
+      }
+    }
+  ],
+  "166-magcargo": [
+    {
+      "id": 1,
+      "name": "Carnelidge Volcano Interior",
+      "grass": {
+        "levels": [50, 53],
+        "rate": 10
+      },
+      "water": {
+        "levels": [50, 55],
+        "rate": 10
+      }
+    }
+  ],
+  "167-hatenna": [
+    {
+      "id": 1,
+      "name": "Route 11 North",
+      "grass": {
+        "levels": [29, 33],
+        "rate": 5
+      },
+      "isDayOnly": true
+    },
+    {
+      "id": 2,
+      "name": "Forgotten Manse Exterior",
+      "grass": {
+        "levels": [19, 25],
+        "rate": 30
+      }
+    },
+    {
+      "id": 3,
+      "name": "Daimyn City",
+      "static": {
+        "levels": [1, 100],
+        "rate": 100
+      },
+      "notes": "Trade for Cacnea, based on starter choices"
+    }
+  ],
+  "168-hattrem": [
+    {
+      "id": 1,
+      "name": "Route 11 North",
+      "grass": {
+        "levels": [32, 33],
+        "rate": 10
+      },
+      "isDayOnly": true
+    },
+    {
+      "id": 2,
+      "name": "Uteyan Ruins Exterior",
+      "grass": {
+        "levels": [54, 58],
+        "rate": 20
+      },
+      "isDayOnly": true
+    }
+  ],
+  "169-hatterene": [
+    {
+      "id": 1,
+      "name": "Uteyan Ruins Exterior",
+      "grass": {
+        "levels": [54, 58],
+        "rate": 2
+      },
+      "isDayOnly": true
+    },
+    {
+      "id": 2,
+      "name": "Victory Road Exterior",
+      "grass": {
+        "levels": [55, 59],
+        "rate": 5
+      },
+      "isDayOnly": true
+    }
+  ],
+  "170-oranguru": [
+    {
+      "id": 1,
+      "name": "Mimmett Jungle",
+      "grass": {
+        "levels": [47, 50],
+        "rate": 5
+      }
+    }
+  ],
+  "171-passimian": [
+    {
+      "id": 1,
+      "name": "Mimmett Jungle",
+      "grass": {
+        "levels": [46, 49],
+        "rate": 5
+      }
+    }
+  ],
+  "172-torkoal": [
+    {
+      "id": 1,
+      "name": "Scalding Spa",
+      "grass": {
+        "levels": [36, 37],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Carnelidge Volcano Exterior",
+      "grass": {
+        "levels": [50, 53],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Carnelidge Volcano Interior",
+      "grass": {
+        "levels": [49, 52],
+        "rate": 30
+      }
+    }
+  ],
+  "173-lileep": [
+    {
+      "id": 1,
+      "name": "Route 11 South",
+      "rocks": {
+        "levels": [25, 30],
+        "rate": 40
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 18 Cave",
+      "grass": {
+        "levels": [40, 47],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Hesson Pass 1F and BF1",
+      "grass": {
+        "levels": [30, 34],
+        "rate": 9
+      }
+    }
+  ],
+  "174-cradily": [],
+  "175-shellder": [
+    {
+      "id": 1,
+      "name": "Route 1",
+      "water": {
+        "levels": [42, 48],
+        "rate": 10
+      },
+      "fish_good": {
+        "levels": [20, 25],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 8",
+      "water": {
+        "levels": [42, 48],
+        "rate": 10
+      },
+      "fish_good": {
+        "levels": [20, 25],
+        "rate": 20
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 12 West",
+      "water": {
+        "levels": [42, 47],
+        "rate": 70
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 15",
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 40
+      },
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 40
+      }
+    },
+    {
+      "id": 5,
+      "name": "Calicin Bay",
+      "water": {
+        "levels": [44, 48],
+        "rate": 60
+      },
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 60
+      }
+    },
+    {
+      "id": 6,
+      "name": "Seppire Cove Exterior",
+      "water": {
+        "levels": [5, 40],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 40
+      },
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 40
+      }
+    }
+  ],
+  "176-cloyster": [
+    {
+      "id": 1,
+      "name": "Route 12 West",
+      "water": {
+        "levels": [42, 47],
+        "rate": 30
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 15",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 20
+      }
+    },
+    {
+      "id": 3,
+      "name": "Calicin Bay",
+      "water": {
+        "levels": [45, 49],
+        "rate": 30
+      },
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 50
+      }
+    },
+    {
+      "id": 4,
+      "name": "Seppire Cove Exterior",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 20
+      }
+    }
+  ],
+  "177-sizzlipede": [
+    {
+      "id": 1,
+      "name": "Route 13",
+      "grass": {
+        "levels": [9, 14],
+        "rate": 20
+      }
+    }
+  ],
+  "178-centiskorch": [
+    {
+      "id": 1,
+      "name": "Carnelidge Volcano Interior",
+      "grass": {
+        "levels": [49, 52],
+        "rate": 4
+      }
+    }
+  ],
+  "179-cottonee": [
+    {
+      "id": 1,
+      "name": "Route 5",
+      "grass": {
+        "levels": [10, 14],
+        "rate": 25
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 12 East",
+      "grass": {
+        "levels": [36, 39],
+        "rate": 20
+      }
+    },
+    {
+      "id": 3,
+      "name": "Lake Laplaz",
+      "grass": {
+        "levels": [36, 39],
+        "rate": 10
+      },
+      "isDayOnly": true
+    }
+  ],
+  "180-whimsicott": [
+    {
+      "id": 1,
+      "name": "Orichelle Garden",
+      "grass": {
+        "levels": [44, 46],
+        "rate": 2
+      }
+    }
+  ],
+  "181-ditto": [
+    {
+      "id": 1,
+      "name": "Route 6",
+      "grass": {
+        "levels": [16, 19],
+        "rate": 5
+      }
+    }
+  ],
+  "182-eevee": [
+    {
+      "id": 1,
+      "name": "Route 12 East",
+      "grass": {
+        "levels": [35, 39],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Heleo Ranch",
+      "grass": {
+        "levels": [16, 19],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Daimyn City",
+      "static": {
+        "levels": [1, 100],
+        "rate": 100
+      },
+      "notes": "Trade for Riolu, based on starter choices"
+    }
+  ],
+  "183-vaporeon": [],
+  "184-jolteon": [],
+  "185-flareon": [],
+  "186-espeon": [],
+  "187-umbreon": [],
+  "188-leafeon": [],
+  "189-glaceon": [],
+  "190-sylveon": [],
+  "191-mareep": [
+    {
+      "id": 1,
+      "name": "Heleo Ranch",
+      "grass": {
+        "levels": [15, 18],
+        "rate": 20
+      },
+      "isDayOnly": true
+    }
+  ],
+  "192-flaaffy": [
+    {
+      "id": 1,
+      "name": "Heleo Ranch",
+      "grass": {
+        "levels": [15, 18],
+        "rate": 4
+      },
+      "isDayOnly": true
+    }
+  ],
+  "193-ampharos": [
+    {
+      "id": 1,
+      "name": "Heleo Ranch",
+      "static": {
+        "levels": [30, 30],
+        "rate": 100
+      },
+      "notes": "Single-time encounter"
+    }
+  ],
+  "194-togepi": [
+    {
+      "id": 1,
+      "name": "Heleo Ranch",
+      "grass": {
+        "levels": [13, 18],
+        "rate": 5
+      },
+      "notes": "Encounter rate is 9% at night"
+    }
+  ],
+  "195-togetic": [
+    {
+      "id": 1,
+      "name": "Route 24",
+      "grass": {
+        "levels": [53, 57],
+        "rate": 10
+      },
+      "isDayOnly": true
+    }
+  ],
+  "196-togekiss": [],
+  "197-mudbray": [
+    {
+      "id": 1,
+      "name": "Route 11 South",
+      "grass": {
+        "levels": [27, 30],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Daimyn City",
+      "static": {
+        "levels": [20, 20],
+        "rate": 100
+      },
+      "notes": "Daimyn City Game Corner prize, for 500 coins"
+    }
+  ],
+  "198-mudsdale": [
+    {
+      "id": 1,
+      "name": "Route 20",
+      "grass": {
+        "levels": [46, 49],
+        "rate": 10
+      }
+    }
+  ],
+  "199-happiny": [
+    {
+      "id": 1,
+      "name": "Heleo Ranch",
+      "grass": {
+        "levels": [15, 19],
+        "rate": 2
+      }
+    }
+  ],
+  "200-chansey": [
+    {
+      "id": 1,
+      "name": "Lake Laplaz",
+      "grass": {
+        "levels": [36, 41],
+        "rate": 2
+      }
+    }
+  ],
+  "201-blissey": [
+    {
+      "id": 1,
+      "name": "Route 20",
+      "grass": {
+        "levels": [44, 48],
+        "rate": 1
+      }
+    }
+  ],
+  "202-mienfoo": [
+    {
+      "id": 1,
+      "name": "Route 9",
+      "grass": {
+        "levels": [26, 29],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 10",
+      "grass": {
+        "levels": [25, 29],
+        "rate": 25
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 22",
+      "grass": {
+        "levels": [47, 51],
+        "rate": 20
+      }
+    }
+  ],
+  "203-mienshao": [
+    {
+      "id": 1,
+      "name": "Route 22",
+      "grass": {
+        "levels": [45, 51],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Victory Road Exterior",
+      "grass": {
+        "levels": [54, 57],
+        "rate": 20
+      }
+    }
+  ],
+  "204-skiddo": [
+    {
+      "id": 1,
+      "name": "Heleo Ranch",
+      "grass": {
+        "levels": [15, 18],
+        "rate": 20
+      }
+    }
+  ],
+  "205-gogoat": [
+    {
+      "id": 1,
+      "name": "Route 11 South",
+      "grass": {
+        "levels": [28, 31],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 21 / Secret Trail",
+      "grass": {
+        "levels": [47, 51],
+        "rate": 20
+      }
+    }
+  ],
+  "206-riolu": [
+    {
+      "id": 1,
+      "name": "Heleo Ranch",
+      "grass": {
+        "levels": [16, 18],
+        "rate": 10
+      }
+    }
+  ],
+  "207-lucario": [
+    {
+      "id": 1,
+      "name": "Route 24",
+      "grass": {
+        "levels": [54, 58],
+        "rate": 5
+      },
+      "isDayOnly": true
+    }
+  ],
+  "208-dratini": [
+    {
+      "id": 1,
+      "name": "Route 24",
+      "fish_super": {
+        "levels": [50, 60],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Victory Road Exterior",
+      "fish_good": {
+        "levels": [25, 50],
+        "rate": 20
+      },
+      "fish_super": {
+        "levels": [55, 60],
+        "rate": 40
+      }
+    },
+    {
+      "id": 3,
+      "name": "Victory Road Interior",
+      "fish_good": {
+        "levels": [25, 50],
+        "rate": 20
+      },
+      "fish_super": {
+        "levels": [55, 60],
+        "rate": 40
+      }
+    },
+    {
+      "id": 4,
+      "name": "Daimyn City",
+      "static": {
+        "levels": [20, 20],
+        "rate": 100
+      },
+      "notes": "Daimyn City Game Corner prize, for 3000 coins"
+    },
+    {
+      "id": 5,
+      "name": "Daimyn City",
+      "static": {
+        "levels": [1, 100],
+        "rate": 100
+      },
+      "notes": "Trade for Bonsly, based on starter choices"
+    }
+  ],
+  "209-dragonair": [
+    {
+      "id": 1,
+      "name": "Victory Road Exterior",
+      "fish_super": {
+        "levels": [55, 60],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Victory Road Interior",
+      "fish_super": {
+        "levels": [55, 60],
+        "rate": 15
+      }
+    }
+  ],
+  "210-dragonite": [
+    {
+      "id": 1,
+      "name": "Victory Road Exterior",
+      "fish_super": {
+        "levels": [55, 60],
+        "rate": 5
+      }
+    }
+  ],
+  "211-pachirisu": [
+    {
+      "id": 1,
+      "name": "Route 5",
+      "grass": {
+        "levels": [12, 15],
+        "rate": 20
+      }
+    }
+  ],
+  "212-rotom": [
+    {
+      "id": 1,
+      "name": "Forgotten Manse Interior",
+      "grass": {
+        "levels": [22, 25],
+        "rate": 5
+      }
+    }
+  ],
+  "213-toxel": [
+    {
+      "id": 1,
+      "name": "Daimyn City Factory Exterior",
+      "grass": {
+        "levels": [27, 29],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Daimyn City Factory Interior",
+      "grass": {
+        "levels": [51, 56],
+        "rate": 20
+      }
+    }
+  ],
+  "214-toxtricity": [
+    {
+      "id": 1,
+      "name": "Daimyn City Factory Interior",
+      "grass": {
+        "levels": [52, 58],
+        "rate": 5
+      }
+    }
+  ],
+  "215-horsea": [
+    {
+      "id": 1,
+      "name": "Route 1",
+      "fish_good": {
+        "levels": [20, 24],
+        "rate": 60
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 2",
+      "fish_good": {
+        "levels": [20, 35],
+        "rate": 60
+      },
+      "fish_super": {
+        "levels": [40, 50],
+        "rate": 25
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 6",
+      "water": {
+        "levels": [27, 36],
+        "rate": 35
+      },
+      "fish_good": {
+        "levels": [20, 25],
+        "rate": 60
+      },
+      "fish_super": {
+        "levels": [30, 37],
+        "rate": 25
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 8",
+      "fish_good": {
+        "levels": [20, 24],
+        "rate": 60
+      }
+    },
+    {
+      "id": 5,
+      "name": "Route 10",
+      "water": {
+        "levels": [33, 38],
+        "rate": 5
+      }
+    },
+    {
+      "id": 6,
+      "name": "Route 13 Cave 1F",
+      "water": {
+        "levels": [44, 48],
+        "rate": 65
+      }
+    },
+    {
+      "id": 7,
+      "name": "Route 14",
+      "water": {
+        "levels": [42, 45],
+        "rate": 30
+      }
+    },
+    {
+      "id": 8,
+      "name": "Route 17",
+      "fish_good": {
+        "levels": [25, 35],
+        "rate": 80
+      }
+    },
+    {
+      "id": 9,
+      "name": "Route 18",
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 60
+      },
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 15
+      }
+    },
+    {
+      "id": 10,
+      "name": "Route 19",
+      "water": {
+        "levels": [44, 47],
+        "rate": 60
+      },
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 40
+      }
+    },
+    {
+      "id": 11,
+      "name": "Route 23",
+      "water": {
+        "levels": [47, 51],
+        "rate": 60
+      },
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 40
+      }
+    },
+    {
+      "id": 12,
+      "name": "Route 23 Cave",
+      "fish_old": {
+        "levels": [5, 30],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [25, 35],
+        "rate": 60
+      },
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 25
+      }
+    },
+    {
+      "id": 13,
+      "name": "Torma Cave 1F",
+      "fish_old": {
+        "levels": [4, 8],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [20, 25],
+        "rate": 60
+      },
+      "fish_super": {
+        "levels": [35, 42],
+        "rate": 25
+      }
+    },
+    {
+      "id": 14,
+      "name": "Lake Laplaz",
+      "water": {
+        "levels": [40, 45],
+        "rate": 30
+      },
+      "fish_old": {
+        "levels": [5, 20],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [25, 35],
+        "rate": 40
+      }
+    },
+    {
+      "id": 15,
+      "name": "Seppire Cove Interior",
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 70
+      }
+    }
+  ],
+  "216-seadra": [
+    {
+      "id": 1,
+      "name": "Route 1",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 40
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 2",
+      "fish_super": {
+        "levels": [40, 45],
+        "rate": 40
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 6",
+      "fish_super": {
+        "levels": [30, 36],
+        "rate": 40
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 8",
+      "fish_super": {
+        "levels": [32, 37],
+        "rate": 40
+      }
+    },
+    {
+      "id": 5,
+      "name": "Route 13 Cave 1F",
+      "water": {
+        "levels": [44, 49],
+        "rate": 35
+      }
+    },
+    {
+      "id": 6,
+      "name": "Route 15",
+      "water": {
+        "levels": [43, 46],
+        "rate": 30
+      }
+    },
+    {
+      "id": 7,
+      "name": "Route 17",
+      "fish_super": {
+        "levels": [40, 50],
+        "rate": 15
+      }
+    },
+    {
+      "id": 8,
+      "name": "Route 18",
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 20
+      },
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 30
+      }
+    },
+    {
+      "id": 9,
+      "name": "Route 19",
+      "fish_super": {
+        "levels": [40, 50],
+        "rate": 40
+      }
+    },
+    {
+      "id": 10,
+      "name": "Route 23",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 40
+      }
+    },
+    {
+      "id": 11,
+      "name": "Route 23 Cave",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 75
+      }
+    },
+    {
+      "id": 12,
+      "name": "Torma Cave 1F",
+      "fish_super": {
+        "levels": [35, 44],
+        "rate": 75
+      }
+    },
+    {
+      "id": 13,
+      "name": "Lake Laplaz",
+      "fish_super": {
+        "levels": [45, 48],
+        "rate": 10
+      }
+    },
+    {
+      "id": 14,
+      "name": "Seppire Cove Exterior",
+      "water": {
+        "levels": [46, 49],
+        "rate": 30
+      }
+    },
+    {
+      "id": 15,
+      "name": "Seppire Cove Interior",
+      "water": {
+        "levels": [51, 56],
+        "rate": 60
+      },
+      "fish_good": {
+        "levels": [25, 45],
+        "rate": 60
+      },
+      "fish_super": {
+        "levels": [50, 60],
+        "rate": 40
+      }
+    },
+    {
+      "id": 16,
+      "name": "Victory Road Exterior",
+      "water": {
+        "levels": [55, 60],
+        "rate": 35
+      }
+    }
+  ],
+  "217-kingdra": [
+    {
+      "id": 1,
+      "name": "Seppire Cove Interior",
+      "water": {
+        "levels": [55, 60],
+        "rate": 1
+      },
+      "fish_super": {
+        "levels": [50, 60],
+        "rate": 5
+      }
+    }
+  ],
+  "218-croagunk": [
+    {
+      "id": 1,
+      "name": "Route 8",
+      "grass": {
+        "levels": [18, 22],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Mimmett Jungle",
+      "grass": {
+        "levels": [46, 49],
+        "rate": 20
+      }
+    }
+  ],
+  "219-toxicroak": [
+    {
+      "id": 1,
+      "name": "Mimmett Jungle",
+      "grass": {
+        "levels": [47, 50],
+        "rate": 10
+      }
+    }
+  ],
+  "220-goomy": [
+    {
+      "id": 1,
+      "name": "Route 8",
+      "grass": {
+        "levels": [19, 23],
+        "rate": 10
+      }
+    }
+  ],
+  "221-sliggoo": [
+    {
+      "id": 1,
+      "name": "Route 8",
+      "grass": {
+        "levels": [20, 25],
+        "rate": 5
+      }
+    }
+  ],
+  "222-goodra": [],
+  "223-shellos": [
+    {
+      "id": 1,
+      "name": "Route 5",
+      "static": {
+        "levels": [1, 1],
+        "rate": 33
+      },
+      "notes": "Egg from rival event may hatch into this"
+    },
+    {
+      "id": 2,
+      "name": "Route 8",
+      "grass": {
+        "levels": [18, 23],
+        "rate": 20
+      },
+      "notes": "East form"
+    },
+    {
+      "id": 3,
+      "name": "Route 14",
+      "grass": {
+        "levels": [42, 46],
+        "rate": 40
+      },
+      "notes": "20% West form, 20% East form"
+    },
+    {
+      "id": 4,
+      "name": "Route 19",
+      "grass": {
+        "levels": [45, 48],
+        "rate": 20
+      },
+      "notes": "West form"
+    },
+    {
+      "id": 5,
+      "name": "Route 23 Cave",
+      "water": {
+        "levels": [46, 51],
+        "rate": 35
+      },
+      "notes": "West form"
+    },
+    {
+      "id": 6,
+      "name": "Torma Cave 1F",
+      "water": {
+        "levels": [20, 30],
+        "rate": 35
+      },
+      "notes": "East form"
+    }
+  ],
+  "224-gastrodon": [
+    {
+      "id": 1,
+      "name": "Route 8",
+      "grass": {
+        "levels": [22, 25],
+        "rate": 5
+      },
+      "notes": "East form"
+    },
+    {
+      "id": 2,
+      "name": "Route 14",
+      "grass": {
+        "levels": [42, 46],
+        "rate": 10
+      },
+      "notes": "5% West form, 5% East form"
+    },
+    {
+      "id": 3,
+      "name": "Route 19",
+      "grass": {
+        "levels": [46, 48],
+        "rate": 10
+      },
+      "notes": "West form"
+    },
+    {
+      "id": 4,
+      "name": "Route 23",
+      "grass": {
+        "levels": [47, 52],
+        "rate": 10
+      },
+      "notes": "West form"
+    }
+  ],
+  "225-mimikyu": [
+    {
+      "id": 1,
+      "name": "Route 24",
+      "grass": {
+        "levels": [53, 57],
+        "rate": 10
+      },
+      "isNightOnly": true
+    },
+    {
+      "id": 2,
+      "name": "Forgotten Manse Interior",
+      "grass": {
+        "levels": [22, 26],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Daimyn City",
+      "grass": {
+        "levels": [24, 28],
+        "rate": 10
+      },
+      "isNightOnly": true
+    },
+    {
+      "id": 4,
+      "name": "Uteyan Ruins Sealed Chambers",
+      "grass": {
+        "levels": [53, 57],
+        "rate": 15
+      }
+    }
+  ],
+  "226-duskull": [
+    {
+      "id": 1,
+      "name": "Forgotten Manse Exterior",
+      "grass": {
+        "levels": [19, 25],
+        "rate": 30
+      },
+      "isNightOnly": true
+    },
+    {
+      "id": 2,
+      "name": "Forgotten Manse Interior",
+      "grass": {
+        "levels": [21, 26],
+        "rate": 30
+      }
+    }
+  ],
+  "227-dusclops": [
+    {
+      "id": 1,
+      "name": "Uteyan Ruins Exterior",
+      "grass": {
+        "levels": [54, 58],
+        "rate": 8
+      },
+      "isNightOnly": true
+    }
+  ],
+  "228-dusknoir": [],
+  "229-emolga": [
+    {
+      "id": 1,
+      "name": "Route 9",
+      "grass": {
+        "levels": [25, 28],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 15",
+      "grass": {
+        "levels": [43, 47],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Daimyn City",
+      "static": {
+        "levels": [1, 100],
+        "rate": 100
+      },
+      "notes": "Trade for Boldore, based on starter choices"
+    }
+  ],
+  "230-carvanha": [
+    {
+      "id": 1,
+      "name": "Route 15",
+      "water": {
+        "levels": [42, 45],
+        "rate": 60
+      }
+    },
+    {
+      "id": 2,
+      "name": "Daimyn City",
+      "static": {
+        "levels": [25, 25],
+        "rate": 100
+      },
+      "notes": "Can be bought at Daimyn Mall once for $2,000"
+    },
+    {
+      "id": 3,
+      "name": "Seppire Cove Exterior",
+      "water": {
+        "levels": [45, 48],
+        "rate": 60
+      }
+    }
+  ],
+  "231-sharpedo": [
+    {
+      "id": 1,
+      "name": "Route 15",
+      "water": {
+        "levels": [43, 47],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Seppire Cove Exterior",
+      "water": {
+        "levels": [46, 50],
+        "rate": 5
+      }
+    }
+  ],
+  "232-heracross": [
+    {
+      "id": 1,
+      "name": "Peradon Forest",
+      "grass": {
+        "levels": [34, 37],
+        "rate": 5
+      }
+    }
+  ],
+  "233-yamask-g": [
+    {
+      "id": 1,
+      "name": "Route 18 Cave",
+      "grass": {
+        "levels": [40, 47],
+        "rate": 20
+      },
+      "notes": "Galarian form"
+    },
+    {
+      "id": 2,
+      "name": "Route 20",
+      "grass": {
+        "levels": [45, 49],
+        "rate": 5
+      },
+      "notes": "Galarian form"
+    },
+    {
+      "id": 3,
+      "name": "Forgotten Manse Exterior",
+      "grass": {
+        "levels": [19, 24],
+        "rate": 25
+      },
+      "notes": "Unovan form"
+    },
+    {
+      "id": 4,
+      "name": "Forgotten Manse Interior",
+      "grass": {
+        "levels": [21, 25],
+        "rate": 5
+      },
+      "notes": "Unovan form"
+    },
+    {
+      "id": 5,
+      "name": "Lake Laplaz",
+      "grass": {
+        "levels": [36, 40],
+        "rate": 10
+      },
+      "notes": "Unovan form"
+    },
+    {
+      "id": 6,
+      "name": "Uteyan Ruins Sealed Chambers",
+      "grass": {
+        "levels": [53, 56],
+        "rate": 40
+      },
+      "notes": "Galarian form"
+    }
+  ],
+  "234-cofagrigus": [],
+  "235-runerigus": [
+    {
+      "id": 1,
+      "name": "Uteyan Ruins Exterior",
+      "grass": {
+        "levels": [54, 57],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Uteyan Ruins Sealed Chambers",
+      "grass": {
+        "levels": [54, 58],
+        "rate": 10
+      }
+    }
+  ],
+  "236-dhelmise": [
+    {
+      "id": 1,
+      "name": "Route 15",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 30
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 16",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 40
+      }
+    },
+    {
+      "id": 3,
+      "name": "Seppire Cove Exterior",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 30
+      }
+    },
+    {
+      "id": 4,
+      "name": "Victory Road Interior",
+      "water": {
+        "levels": [55,60],
+        "rate": 5
+      }
+    }
+  ],
+  "237-pincurchin": [
+    {
+      "id": 1,
+      "name": "Route 19",
+      "grass": {
+        "levels": [45, 48],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Seppire Cove Exterior",
+      "grass": {
+        "levels": [49, 53],
+        "rate": 30
+      }
+    }
+  ],
+  "238-morpeko": [
+    {
+      "id": 1,
+      "name": "Route 6",
+      "grass": {
+        "levels": [15, 18],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Lake Laplaz",
+      "grass": {
+        "levels": [35, 39],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Victory Road Exterior",
+      "grass": {
+        "levels": [55, 59],
+        "rate": 10
+      }
+    }
+  ],
+  "239-stunfisk-g": [
+    {
+      "id": 1,
+      "name": "Route 11 South",
+      "grass": {
+        "levels": [29, 34],
+        "rate": 50
+      },
+      "notes": "Only appears during swarms, in Unovan form"
+    },
+    {
+      "id": 2,
+      "name": "Route 11 North",
+      "grass": {
+        "levels": [29, 34],
+        "rate": 25
+      }
+    },
+    {
+      "id": 3,
+      "name": "Torma Cave 1F",
+      "static": {
+        "levels": [15, 15],
+        "rate": 100
+      },
+      "notes": "Daily trap encounter"
+    }
+  ],    
+  "240-misdreavus": [
+    {
+      "id": 1,
+      "name": "Forgotten Manse Cave",
+      "grass": {
+        "levels": [18, 24],
+        "rate": 30
+      }
+    },
+    {
+      "id": 2,
+      "name": "Forgotten Manse Interior",
+      "grass": {
+        "levels": [21, 26],
+        "rate": 30
+      }
+    },
+    {
+      "id": 3,
+      "name": "Hesson Pass 1F and BF1",
+      "grass": {
+        "levels": [30, 33],
+        "rate": 10
+      }
+    },
+    {
+      "id": 4,
+      "name": "Lake Laplaz",
+      "grass": {
+        "levels": [36, 39],
+        "rate": 10
+      },
+      "isNightOnly": true
+    },
+    {
+      "id": 5,
+      "name": "Seppire Cove Interior",
+      "grass": {
+        "levels": [51, 56],
+        "rate": 15
+      }
+    },
+    {
+      "id": 6,
+      "name": "Uteyan Ruins Exterior",
+      "grass": {
+        "levels": [54, 58],
+        "rate": 20
+      }
+    }
+  ],
+  "241-mismagius": [
+    {
+      "id": 1,
+      "name": "Hesson Pass 2F",
+      "grass": {
+        "levels": [51, 54],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Seppire Cove Interior",
+      "grass": {
+        "levels": [52, 58],
+        "rate": 8
+      }
+    },
+    {
+      "id": 3,
+      "name": "Uteyan Ruins Exterior",
+      "grass": {
+        "levels": [54, 58],
+        "rate": 2
+      }
+    }
+  ],
+  "242-grimer-a": [
+    {
+      "id": 1,
+      "name": "Route 9",
+      "grass": {
+        "levels": [25, 29],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 24",
+      "grass": {
+        "levels": [53, 56],
+        "rate": 20
+      },
+      "isNightOnly": true
+    },
+    {
+      "id": 3,
+      "name": "Daimyn City",
+      "grass": {
+        "levels": [25, 28],
+        "rate": 10
+      },
+      "notes": "May appear in Kantonian form during swarms"
+    },
+    {
+      "id": 4,
+      "name": "Daimyn City Factory Exterior",
+      "grass": {
+        "levels": [27, 30],
+        "rate": 10
+      }
+    },
+    {
+      "id": 5,
+      "name": "Daimyn City Factory Interior",
+      "grass": {
+        "levels": [51, 56],
+        "rate": 5
+      }
+    }
+  ],
+  "243-muk-a": [
+    {
+      "id": 1,
+      "name": "Route 24",
+      "grass": {
+        "levels": [54, 58],
+        "rate": 10
+      },
+      "isNightOnly": true,
+      "notes": "May appear in Kantonian form during swarms"
+    }
+  ],
+  "244-gible": [
+    {
+      "id": 1,
+      "name": "Route 5",
+      "grass": {
+        "levels": [10, 15],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 11 South",
+      "grass": {
+        "levels": [28, 31],
+        "rate": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Torma Cave 1F",
+      "grass": {
+        "levels": [10, 12],
+        "rate": 4
+      }
+    }
+  ],
+  "245-gabite": [
+    {
+      "id": 1,
+      "name": "Route 11 South",
+      "grass": {
+        "levels": [28, 31],
+        "rate": 1
+      }
+    }
+  ],
+  "246-garchomp": [
+    {
+      "id": 1,
+      "name": "Victory Road Interior",
+      "grass": {
+        "levels": [55, 59],
+        "rate": 2
+      },
+      "notes": "Not in 1F back room"
+    }
+  ],
+  "247-binacle": [
+    {
+      "id": 1,
+      "name": "Route 1",
+      "water": {
+        "levels": [48, 48],
+        "rate": 2
+      },
+      "fish_good": {
+        "levels": [21, 25],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 6",
+      "water": {
+        "levels": [25, 35],
+        "rate": 65
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 8",
+      "water": {
+        "levels": [42, 48],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [21, 25],
+        "rate": 20
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 12 West",
+      "fish_good": {
+        "levels": [40, 45],
+        "rate": 40
+      },
+      "fish_super": {
+        "levels": [50, 55],
+        "rate": 30
+      }
+    },
+    {
+      "id": 5,
+      "name": "Route 15",
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 40
+      },
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 30
+      }
+    },
+    {
+      "id": 6,
+      "name": "Route 17 Cave 1F",
+      "fish_good": {
+        "levels": [25, 35],
+        "rate": 20
+      },
+      "fish_super": {
+        "levels": [40, 50],
+        "rate": 45
+      }
+    },
+    {
+      "id": 7,
+      "name": "Calicin Bay",
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 70
+      },
+      "fish_good": {
+        "levels": [25, 48],
+        "rate": 20
+      }
+    },
+    {
+      "id": 8,
+      "name": "Seppire Cove Interior",
+      "water": {
+        "levels": [51, 56],
+        "rate": 30
+      },
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 30
+      },
+      "fish_good": {
+        "levels": [25, 45],
+        "rate": 40
+      }
+    },
+    {
+      "id": 9,
+      "name": "Uteyan Ruins Cave",
+      "fish_good": {
+        "levels": [30, 40],
+        "rate": 40
+      },
+      "fish_super": {
+        "levels": [50, 60],
+        "rate": 25
+      }
+    }
+  ],
+  "248-barbaracle": [
+    {
+      "id": 1,
+      "name": "Route 1",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 8",
+      "fish_super": {
+        "levels": [34, 38],
+        "rate": 20
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 12 West",
+      "fish_super": {
+        "levels": [50, 57],
+        "rate": 15
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 14",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 20
+      }
+    },
+    {
+      "id": 5,
+      "name": "Calicin Bay",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 35
+      }
+    },
+    {
+      "id": 6,
+      "name": "Seppire Cove Interior",
+      "fish_super": {
+        "levels": [50, 60],
+        "rate": 30
+      }
+    },
+    {
+      "id": 7,
+      "name": "Uteyan Ruins Cave",
+      "fish_super": {
+        "levels": [50, 60],
+        "rate": 40
+      }
+    }
+  ],
+  "249-mareanie": [
+    {
+      "id": 1,
+      "name": "Route 14",
+      "water": {
+        "levels": [41, 44],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 16",
+      "fish_old": {
+        "levels": [5, 40],
+        "rate": 30
+      },
+      "fish_super": {
+        "levels": [25, 40],
+        "rate": 40
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 18",
+      "water": {
+        "levels": [45, 49],
+        "rate": 30
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 19",
+      "water": {
+        "levels": [44, 49],
+        "rate": 10
+      },
+      "fish_super": {
+        "levels": [40, 50],
+        "rate": 15
+      }
+    },
+    {
+      "id": 5,
+      "name": "Route 23",
+      "water": {
+        "levels": [46, 52],
+        "rate": 10
+      },
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 15
+      }
+    },
+    {
+      "id": 6,
+      "name": "Uteyan Ruins Cave",
+      "water": {
+        "levels": [52, 56],
+        "rate": 60
+      }
+    },
+    {
+      "id": 7,
+      "name": "Victory Road Interior",
+      "water": {
+        "levels": [54, 59],
+        "rate": 60
+      }
+    }
+  ],
+  "250-toxapex": [
+    {
+      "id": 1,
+      "name": "Route 18",
+      "water": {
+        "levels": [44, 48],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 19",
+      "fish_super": {
+        "levels": [40, 50],
+        "rate": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 23",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 5
+      }
+    },
+    {
+      "id": 4,
+      "name": "Uteyan Ruins Cave",
+      "water": {
+        "levels": [55, 57],
+        "rate": 5
+      }
+    },
+    {
+      "id": 5,
+      "name": "Victory Road Interior",
+      "water": {
+        "levels": [55, 60],
+        "rate": 35
+      }
+    }
+  ],
+  "251-koffing": [
+    {
+      "id": 1,
+      "name": "Daimyn City",
+      "grass": {
+        "levels": [24, 28],
+        "rate": 10
+      },
+      "notes": "May appear in Kantonian form during swarms"
+    },
+    {
+      "id": 2,
+      "name": "Daimyn City Factory Exterior",
+      "grass": {
+        "levels": [26, 30],
+        "rate": 20
+      }
+    },
+    {
+      "id": 3,
+      "name": "Daimyn City Factory Interior",
+      "grass": {
+        "levels": [51, 57],
+        "rate": 20
+      }
+    },
+    {
+      "id": 4,
+      "name": "Scalding Spa",
+      "grass": {
+        "levels": [35, 39],
+        "rate": 14
+      }
+    },
+    {
+      "id": 5,
+      "name": "Pluto HQ",
+      "static": {
+        "levels": [40, 40],
+        "rate": 100
+      },
+      "notes": "Only when getting caught in an active statue's gaze"
+    }
+  ],
+  "252-weezing-g": [
+    {
+      "id": 1,
+      "name": "Daimyn City Factory Interior",
+      "grass": {
+        "levels": [51, 56],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Victory Road Exterior",
+      "grass": {
+        "levels": [55, 58],
+        "rate": 10
+      },
+      "notes": "May appear in Kantonian form during swarms"
+    }
+  ],
+  "253-zorua": [
+    {
+      "id": 1,
+      "name": "Lake Laplaz",
+      "grass": {
+        "levels": [36, 40],
+        "rate": 15
+      }
+    }
+  ],
+  "254-zoroark": [
+    {
+      "id": 1,
+      "name": "Lake Laplaz",
+      "grass": {
+        "levels": [35, 41],
+        "rate": 8
+      }
+    }
+  ],
+  "255-lapras": [
+    {
+      "id": 1,
+      "name": "Route 15",
+      "water": {
+        "levels": [42, 45],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 16",
+      "water": {
+        "levels": [41, 44],
+        "rate": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Calicin Bay",
+      "water": {
+        "levels": [44, 48],
+        "rate": 10
+      }
+    },
+    {
+      "id": 4,
+      "name": "Seppire Cove Exterior",
+      "water": {
+        "levels": [45, 48],
+        "rate": 5
+      }
+    },
+    {
+      "id": 5,
+      "name": "Victory Road Exterior",
+      "water": {
+        "levels": [56, 60],
+        "rate": 5
+      }
+    }
+  ],
+  "256-crabrawler": [
+    {
+      "id": 1,
+      "name": "Route 9",
+      "grass": {
+        "levels": [26, 29],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 10",
+      "grass": {
+        "levels": [26, 29],
+        "rate": 20
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 19",
+      "grass": {
+        "levels": [44, 48],
+        "rate": 10
+      }
+    }
+  ],
+  "257-crabominable": [
+    {
+      "id": 1,
+      "name": "Calicin Bay",
+      "grass": {
+        "levels": [41, 43],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Victory Road Exterior",
+      "grass": {
+        "levels": [55, 58],
+        "rate": 5
+      }
+    }
+  ],
+  "258-phantump": [
+    {
+      "id": 1,
+      "name": "Route 11 North",
+      "grass": {
+        "levels": [29, 33],
+        "rate": 15
+      },
+      "isNightOnly": true
+    },
+    {
+      "id": 2,
+      "name": "Forgotten Manse Exterior",
+      "grass": {
+        "levels": [19, 24],
+        "rate": 25
+      }
+    },
+    {
+      "id": 3,
+      "name": "Peradon Forest",
+      "grass": {
+        "levels": [34, 37],
+        "rate": 20
+      },
+      "isNightOnly": true
+    },
+    {
+      "id": 4,
+      "name": "Scalding Spa",
+      "static": {
+        "levels": [30, 100],
+        "rate": 100
+      },
+      "notes": "Randomly received when trading with rival"
+    }
+  ],
+  "259-trevenant": [
+    {
+      "id": 1,
+      "name": "Victory Road Exterior",
+      "grass": {
+        "levels": [55, 59],
+        "rate": 5
+      }
+    }
+  ],
+  "260-sandygast": [
+    {
+      "id": 1,
+      "name": "Route 1",
+      "static": {
+        "levels": [5, 5],
+        "rate": 100
+      },
+      "notes": "Daily trap encounter"
+    },
+    {
+      "id": 2,
+      "name": "Route 8",
+      "static": {
+        "levels": [25, 25],
+        "rate": 100
+      },
+      "notes": "Daily trap encounter"
+    },
+    {
+      "id": 3,
+      "name": "Route 16",
+      "grass": {
+        "levels": [43, 46],
+        "rate": 30
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 19",
+      "grass": {
+        "levels": [44, 47],
+        "rate": 10
+      }
+    },
+    {
+      "id": 5,
+      "name": "Seppire Cove Exterior",
+      "grass": {
+        "levels": [49, 53],
+        "rate": 20
+      }
+    }
+  ],
+  "261-palossand": [
+    {
+      "id": 1,
+      "name": "Route 16",
+      "grass": {
+        "levels": [50, 53],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 19",
+      "grass": {
+        "levels": [46, 48],
+        "rate": 5
+      },
+      "static": {
+        "levels": [50, 50],
+        "rate": 100
+      },
+      "notes": "Static encounter is a daily trap encounter"
+    },
+    {
+      "id": 3,
+      "name": "Route 23",
+      "static": {
+        "levels": [52, 53],
+        "rate": 100
+      },
+      "notes": "Daily trap encounter"
+    },
+    {
+      "id": 4,
+      "name": "Seppire Cove Exterior",
+      "grass": {
+        "levels": [50, 53],
+        "rate": 5
+      }
+    }
+  ],
+  "262-slowpoke": [
+    {
+      "id": 1,
+      "name": "Route 8",
+      "grass": {
+        "levels": [19, 24],
+        "rate": 10
+      },
+      "notes": "May appear in Galarian form during swarms"
+    },
+    {
+      "id": 2,
+      "name": "Route 16",
+      "grass": {
+        "levels": [42, 46],
+        "rate": 40
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 17",
+      "fish_super": {
+        "levels": [35, 42],
+        "rate": 25
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 19",
+      "grass": {
+        "levels": [45, 48],
+        "rate": 15
+      }
+    },
+    {
+      "id": 5,
+      "name": "Route 22",
+      "grass": {
+        "levels": [47, 50],
+        "rate": 20
+      }
+    },
+    {
+      "id": 6,
+      "name": "Route 23 Cave",
+      "water": {
+        "levels": [46, 51],
+        "rate": 64
+      }
+    },
+    {
+      "id": 7,
+      "name": "Rhodanzi City",
+      "fish_super": {
+        "levels": [35, 42],
+        "rate": 25
+      }
+    },
+    {
+      "id": 8,
+      "name": "Torma Cave 1F",
+      "water": {
+        "levels": [15, 30],
+        "rate": 65
+      }
+    },
+    {
+      "id": 9,
+      "name": "Heleo Ranch",
+      "fish_super": {
+        "levels": [35, 42],
+        "rate": 25
+      }
+    },
+    {
+      "id": 10,
+      "name": "Seppire Cove Exterior",
+      "grass": {
+        "levels": [50, 53],
+        "rate": 20
+      }
+    },
+    {
+      "id": 11,
+      "name": "Seppire Cove Interior",
+      "grass": {
+        "levels": [51, 56],
+        "rate": 25
+      }
+    },
+    {
+      "id": 12,
+      "name": "Victory Road Exterior",
+      "fish_old": {
+        "levels": [5, 20],
+        "rate": 100
+      },
+      "fish_good": {
+        "levels": [25, 50],
+        "rates": 80
+      }
+    },
+    {
+      "id": 13,
+      "name": "Victory Road Interior",
+      "fish_old": {
+        "levels": [5, 20],
+        "rate": 100
+      },
+      "fish_good": {
+        "levels": [25, 50],
+        "rate": 80
+      }
+    }
+  ],
+  "263-slowbro": [
+    {
+      "id": 1,
+      "name": "Route 15",
+      "grass": {
+        "levels": [43, 47],
+        "rate": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 16",
+      "grass": {
+        "levels": [43, 46],
+        "rate": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 17",
+      "fish_super": {
+        "levels": [38, 44],
+        "rate": 5
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 22",
+      "grass": {
+        "levels": [46, 51],
+        "rate": 10
+      },
+      "notes": "May appear in Galarian form during swarms"
+    },
+    {
+      "id": 5,
+      "name": "Route 23",
+      "fish_super": {
+        "levels": [48, 52],
+        "rate": 1
+      }
+    },
+    {
+      "id": 6,
+      "name": "Rhodanzi City",
+      "fish_super": {
+        "levels": [38, 44],
+        "rate": 5
+      }
+    },
+    {
+      "id": 7,
+      "name": "Heleo Ranch",
+      "fish_super": {
+        "levels": [38, 44],
+        "rate": 5
+      }
+    },
+    {
+      "id": 8,
+      "name": "Scalding Spa",
+      "static": {
+        "levels": [1, 100],
+        "rate": 100
+      },
+      "notes": "Randomly received when trading with rival"
+    },
+    {
+      "id": 9,
+      "name": "Tsarvosa City",
+      "static": {
+        "levels": [1, 100],
+        "rate": 100
+      },
+      "notes": "Traded for Slowbro, received in Galarian form"
+    },
+    {
+      "id": 10,
+      "name": "Seppire Cove Interior",
+      "grass": {
+        "levels": [52, 57],
+        "rate": 10
+      }
+    },
+    {
+      "id": 11,
+      "name": "Victory Road Exterior",
+      "fish_super": {
+        "levels": [55, 60],
+        "rate": 40
+      }
+    },
+    {
+      "id": 12,
+      "name": "Victory Road Interior",
+      "fish_super": {
+        "levels": [55, 60],
+        "rate": 40
+      }
+    }
+  ],
+  "264-slowking": [
+    {
+      "id": 1,
+      "name": "Seppire Cove Interior",
+      "grass": {
+        "levels": [52, 58],
+        "rate": 2
+      },
+      "notes": "May appear in Galarian form during swarms"
+    }
+  ],
+  "265-corsola-g": [
+    {
+      "id": 1,
+      "name": "Route 16",
+      "fish_good": {
+        "levels": [25, 40],
+        "rate": 60
+      },
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 15
+      },
+      "notes": "May appear in Johtonian form during swarms"
+    },
+    {
+      "id": 2,
+      "name": "Daimyn City",
+      "static": {
+        "levels": [1, 100],
+        "rate": 100
+      },
+      "notes": "Trade for Slakoth, based on starter choices"
+    },
+    {
+      "id": 3,
+      "name": "Forgotten Manse Cave",
+      "fish_good": {
+        "levels": [19, 24],
+        "rate": 80
+      },
+      "fish_super": {
+        "levels": [33, 39],
+        "rate": 45
+      }
+    },
+    {
+      "id": 4,
+      "name": "Lake Laplaz",
+      "fish_good": {
+        "levels": [25, 35],
+        "rate": 60
+      },
+      "fish_super": {
+        "levels": [45, 48],
+        "rate": 40
+      }
+    },
+    {
+      "id": 5,
+      "name": "Seppire Cove Interior",
+      "water": {
+        "levels": [52, 57],
+        "rate": 9
+      },
+      "fish_super": {
+        "levels": [50, 60],
+        "rate": 15
+      }
+    },
+    {
+      "id": 6,
+      "name": "Uteyan Ruins Cave",
+      "water": {
+        "levels": [55, 59],
+        "rate": 35
+      }
+    }
+  ],
+  "266-cursola": [
+    {
+      "id": 1,
+      "name": "Route 16",
+      "fish_super": {
+        "levels": [45, 55],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Forgotten Manse Cave",
+      "fish_super": {
+        "levels": [38, 40],
+        "rate": 55
+      }
+    },
+    {
+      "id": 3,
+      "name": "Lake Laplaz",
+      "fish_super": {
+        "levels": [47, 53],
+        "rate": 5
+      }
+    },
+    {
+      "id": 4,
+      "name": "Seppire Cove Interior",
+      "fish_super": {
+        "levels": [50, 60],
+        "rate": 10
+      }
+    }
+  ],
+  "267-falinks": [
+    {
+      "id": 1,
+      "name": "Route 11",
+      "grass": {
+        "levels": [27, 30],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 21 / Secret Trail",
+      "grass": {
+        "levels": [47, 50],
+        "rate": 25
+      }
+    }
+  ],
+  "268-pawniard": [
+    {
+      "id": 1,
+      "name": "Route 24",
+      "grass": {
+        "levels": [53, 56],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Hesson Pass 1F and BF1",
+      "grass": {
+        "levels": [30, 34],
+        "rate": 20
+      }
+    }
+  ],
+  "269-bisharp": [
+    {
+      "id": 1,
+      "name": "Route 22",
+      "grass": {
+        "levels": [46, 51],
+        "rate": 8
+      }
+    },
+    {
+      "id": 2,
+      "name": "Hesson Pass 2F",
+      "grass": {
+        "levels": [52, 54],
+        "rate": 20
+      }
+    }
+  ],
+  "270-elgyem": [
+    {
+      "id": 1,
+      "name": "Route 10",
+      "grass": {
+        "levels": [25, 28],
+        "rate": 25
+      }
+    },
+    {
+      "id": 2,
+      "name": "Uteyan Ruins Exterior",
+      "grass": {
+        "levels": [53, 56],
+        "rate": 20
+      }
+    }
+  ],
+  "271-beheeyem": [
+    {
+      "id": 1,
+      "name": "Uteyan Ruins Exterior",
+      "grass": {
+        "levels": [54, 57],
+        "rate": 10
+      }
+    }
+  ],
+  "272-mankey": [
+    {
+      "id": 1,
+      "name": "Route 15",
+      "grass": {
+        "levels": [44, 47],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Peradon Forest",
+      "grass": {
+        "levels": [34, 37],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Daimyn City",
+      "static": {
+        "levels": [20, 20],
+        "rate": 100
+      },
+      "notes": "Daimyn City Game Corner prize, for 500 coins"
+    }
+  ],
+  "273-primeape": [
+    {
+      "id": 1,
+      "name": "Route 21 / Secret Trail",
+      "grass": {
+        "levels": [48, 51],
+        "rate": 25
+      }
+    },
+    {
+      "id": 2,
+      "name": "Victory Road Exterior",
+      "grass": {
+        "levels": [55, 58],
+        "rate": 10
+      }
+    }
+  ],
+  "274-bergmite": [
+    {
+      "id": 1,
+      "name": "Calicin Bay",
+      "grass": {
+        "levels": [40, 42],
+        "rate": 20
+      }
+    }
+  ],
+  "275-avalugg": [
+    {
+      "id": 1,
+      "name": "Calicin Bay",
+      "grass": {
+        "levels": [42, 43],
+        "rate": 5
+      }
+    }
+  ],
+  "276-stonjourner": [
+    {
+      "id": 1,
+      "name": "Route 12 West",
+      "grass": {
+        "levels": [40, 43],
+        "rate": 10
+      }
+    }
+  ],
+  "277-delibird": [
+    {
+      "id": 1,
+      "name": "Route 12 West",
+      "grass": {
+        "levels": [40, 43],
+        "rate": 10
+      }
+    }
+  ],
+  "278-comfey": [
+    {
+      "id": 1,
+      "name": "Route 18",
+      "grass": {
+        "levels": [43, 46],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Orichelle Garden",
+      "grass": {
+        "levels": [42, 45],
+        "rate": 20
+      }
+    }
+  ],
+  "279-cufant": [
+    {
+      "id": 1,
+      "name": "Route 11 South",
+      "grass": {
+        "levels": [27, 30],
+        "rate": 20
+      }
+    }
+  ],
+  "280-copperajah": [
+    {
+      "id": 1,
+      "name": "Route 20",
+      "grass": {
+        "levels": [46, 48],
+        "rate": 20
+      }
+    }
+  ],
+  "281-joltik": [
+    {
+      "id": 1,
+      "name": "Peradon Forest",
+      "grass": {
+        "levels": [34, 36],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Mimmett Jungle",
+      "grass": {
+        "levels": [46, 49],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Daimyn City",
+      "static": {
+        "levels": [20, 20],
+        "rate": 100
+      },
+      "notes": "Daimyn City Game Corner prize, for 500 coins"
+    }
+  ],
+  "282-galvantula": [
+    {
+      "id": 1,
+      "name": "Mimmett Jungle",
+      "grass": {
+        "levels": [47, 50],
+        "rate": 10
+      }
+    }
+  ],
+  "283-carnivine": [
+    {
+      "id": 1,
+      "name": "Route 20",
+      "grass": {
+        "levels": [45, 48],
+        "rate": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Mimmett Jungle",
+      "grass": {
+        "levels": [47, 50],
+        "rate": 20
+      }
+    }
+  ],
+  "284-litleo": [
+    {
+      "id": 1,
+      "name": "Route 5",
+      "static": {
+        "levels": [1, 1],
+        "rate": 33
+      },
+      "notes": "Egg from rival event may hatch into this"
+    },
+    {
+      "id": 2,
+      "name": "Route 11 South",
+      "grass": {
+        "levels": [28, 31],
+        "rate": 10
+      }
+    },
+    {
+      "id": 3,
+      "name": "Route 20",
+      "grass": {
+        "levels": [45, 48],
+        "rate": 10
+      }
+    },
+    {
+      "id": 4,
+      "name": "Route 20 Cave",
+      "grass": {
+        "levels": [46, 49],
+        "rate": 30
+      }
+    }
+  ],
+  "285-pyroar": [
+    {
+      "id": 1,
+      "name": "Route 20",
+      "grass": {
+        "levels": [46, 49],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Route 20 Cave",
+      "grass": {
+        "levels": [45, 48],
+        "rate": 30
+      }
+    }
+  ],
+  "286-kangaskhan": [
+    {
+      "id": 1,
+      "name": "Route 20",
+      "grass": {
+        "levels": [46, 49],
+        "rate": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Victory Road Interior",
+      "grass": {
+        "levels": [55, 58],
+        "rate": 10
+      }
+    }
+  ],
+  "287-duraludon": [
+    {
+      "id": 1,
+      "name": "Victory Road Interior",
+      "grass": {
+        "levels": [55, 59],
+        "rate": 2
+      },
+      "notes": "Only in 1F back room"
+    }
+  ],
+  "288-articuno-g": [
+    {
+      "id": 1,
+      "name": "Lake Laplaz",
+      "static": {
+        "levels": [50, 50],
+        "rate": 100
+      },
+      "notes": "After encountering, roams the Kulure mainland"
+    }
+  ],
+  "289-zapdos-g": [
+    {
+      "id": 1,
+      "name": "Lake Laplaz",
+      "static": {
+        "levels": [50, 50],
+        "rate": 100
+      },
+      "notes": "After encountering, roams the Kulure mainland"
+    }
+  ],
+  "290-moltres-g": [
+    {
+      "id": 1,
+      "name": "Lake Laplaz",
+      "static": {
+        "levels": [50, 50],
+        "rate": 100
+      },
+      "notes": "After encountering, roams the Kulure mainland"
+    }
+  ],
+  "291-jirachi": [
+    {
+      "id": 1,
+      "name": "Carnelidge Volcano Peak",
+      "static": {
+        "levels": [60, 60],
+        "rate": 100
+      }
+    }
+  ],
+  "292-shaymin": [
+    {
+      "id": 1,
+      "name": "Orichelle Garden",
+      "static": {
+        "levels": [50, 50],
+        "rate": 100
+      },
+      "notes": "Can transform to Sky form using Gracidea received on Route 18"
+    }
+  ],
+  "293-kyogre": [
+    {
+      "id": 1,
+      "name": "Seppire Cove Interior",
+      "static": {
+        "levels": [70, 70],
+        "rate": 100
+      },
+      "notes": "Requires Blue Orb, appears in primal form"
+    }
+  ],
+  "294-groudon": [
+    {
+      "id": 1,
+      "name": "Rubarr Desert",
+      "static": {
+        "levels": [70, 70],
+        "rate": 100
+      },
+      "notes": "Requires Red Orb, appears in primal form"
+    }
+  ],
+  "295-volcanion": [
+    {
+      "id": 1,
+      "name": "Carnelidge Volcano Interior",
+      "static": {
+        "levels": [75, 75],
+        "rate": 100
+      },
+      "notes": "Postgame only"
+    }
+  ],
+  "296-zeraora": [
+    {
+      "id": 1,
+      "name": "Mimmett Jungle",
+      "static": {
+        "levels": [70, 70],
+        "rate": 100
+      },
+      "notes": "After encountering, roams the smaller Kulure island"
+    }
+  ],
+  "297-glastrier": [
+    {
+      "id": 1,
+      "name": "Route 12 West",
+      "static": {
+        "levels": [75, 75],
+        "rate": 100
+      },
+      "notes": "Postgame only"
+    }
+  ],
+  "298-meltan": [
+    {
+      "id": 1,
+      "name": "Daimyn City Factory Interior",
+      "static": {
+        "levels": [60, 60],
+        "rate": 100
+      }
+    }
+  ],
+  "299-melmetal": [],
+  "300-victini": [
+    {
+      "id": 1,
+      "name": "Route 19",
+      "static": {
+        "levels": [75, 75],
+        "rate": 100
+      },
+      "notes": "Postgame gift from Selene"
+    }
+  ],
+  "301-bulbasaur": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Grassy Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 20
+      },
+      "notes": "Rate changes based on time of day: 20% Morning, 10% Day, 15% Evening, 5% Night"
+    }
+  ],
+  "302-ivysaur": [],
+  "303-venusaur": [],
+  "304-charmander": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Mountain Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 5
+      },
+      "notes": "Rate changes based on time of day: 5% Morning, 20% Day, 15% Evening, 5% Night"
+    }
+  ],
+  "305-charmeleon": [],
+  "306-charizard": [],
+  "307-squirtle": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Puddle Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 20
+      },
+      "notes": "Rate changes based on time of day: 20% Morning, 5% Day, 15% Evening, 10% Night"
+    }
+  ],
+  "308-wartortle": [],
+  "309-blastoise": [],
+  "310-chikorita": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Grassy Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 20
+      },
+      "notes": "Rate changes based on time of day: 20% Morning, 10% Day, 15% Evening, 5% Night"
+    }
+  ],
+  "311-bayleef": [],
+  "312-meganium": [],
+  "313-cyndaquil": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Mountain Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 10
+      },
+      "notes": "Rate changes based on time of day: 10% Morning, 5% Day, 20% Evening, 15% Night"
+    }
+  ],
+  "314-quilava": [],
+  "315-typhlosion": [],
+  "316-totodile": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Puddle Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 15
+      },
+      "notes": "Rate changes based on time of day: 15% Morning, 10% Day, 20% Evening, 5% Night"
+    }
+  ],
+  "317-croconaw": [],
+  "318-feraligatr": [],
+  "319-treecko": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Grassy Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 15
+      },
+      "notes": "Rate changes based on time of day: 15% Morning, 20% Day, 5% Evening, 10% Night"
+    }
+  ],
+  "320-grovyle": [],
+  "321-sceptile": [],
+  "322-torchic": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Mountain Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 20
+      },
+      "notes": "Rate changes based on time of day: 20% Morning, 15% Day, 10% Evening, 5% Night"
+    }
+  ],
+  "323-combusken": [],
+  "324-blaziken": [],
+  "325-mudkip": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Puddle Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 15
+      },
+      "notes": "Rate changes based on time of day: 15% Morning, 10% Day, 20% Evening, 5% Night"
+    }
+  ],
+  "326-marshtomp": [],
+  "327-swampert": [],
+  "328-turtwig": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Grassy Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 15
+      },
+      "notes": "Rate changes based on time of day: 15% Morning, 20% Day, 5% Evening, 10% Night"
+    }
+  ],
+  "329-grotle": [],
+  "330-torterra": [],
+  "331-chimchar": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Mountain Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 15
+      },
+      "notes": "Rate changes based on time of day: 15% Morning, 10% Day, 5% Evening, 20% Night"
+    }
+  ],
+  "332-monferno": [],
+  "333-infernape": [],
+  "334-piplup": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Puddle Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 10
+      },
+      "notes": "Rate changes based on time of day: 10% Morning, 20% Day, 5% Evening, 15% Night"
+    }
+  ],
+  "335-prinplup": [],
+  "336-empoleon": [],
+  "337-snivy": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Grassy Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 10
+      },
+      "notes": "Rate changes based on time of day: 10% Morning, 5% Day, 20% Evening, 15% Night"
+    }
+  ],
+  "338-servine": [],
+  "339-serperior": [],
+  "340-tepig": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Mountain Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 10
+      },
+      "notes": "Rate changes based on time of day: 10% Morning, 5% Day, 20% Evening, 15% Night"
+    }
+  ],
+  "341-pignite": [],
+  "342-emboar": [],
+  "343-oshawott": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Puddle Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 10
+      },
+      "notes": "Rate changes based on time of day: 10% Morning, 20% Day, 5% Evening, 15% Night"
+    }
+  ],
+  "344-dewott": [],
+  "345-samurott": [],
+  "346-chespin": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Grassy Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 10
+      },
+      "notes": "Rate changes based on time of day: 10% Morning, 5% Day, 20% Evening, 15% Night"
+    }
+  ],
+  "347-quilladin": [],
+  "348-chesnaught": [],
+  "349-fennekin": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Mountain Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 20
+      },
+      "notes": "Rate changes based on time of day: 20% Morning, 15% Day, 10% Evening, 5% Night"
+    }
+  ],
+  "350-braixen": [],
+  "351-delphox": [],
+  "352-froakie": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Puddle Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 5
+      },
+      "notes": "Rate changes based on time of day: 5% Morning, 15% Day, 10% Evening, 20% Night"
+    }
+  ],
+  "353-frogadier": [],
+  "354-greninja": [],
+  "355-rowlet": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Grassy Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 5
+      },
+      "notes": "Rate changes based on time of day: 5% Morning, 15% Day, 10% Evening, 20% Night"
+    }
+  ],
+  "356-dartrix": [],
+  "357-decidueye": [],
+  "358-litten": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Mountain Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 15
+      },
+      "notes": "Rate changes based on time of day: 15% Morning, 10% Day, 5% Evening, 20% Night"
+    }
+  ],
+  "359-torracat": [],
+  "360-incineroar": [],
+  "361-popplio": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Puddle Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 20
+      },
+      "notes": "Rate changes based on time of day: 20% Morning, 5% Day, 15% Evening, 10% Night"
+    }
+  ],
+  "362-brionne": [],
+  "363-primarina": [],
+  "364-grookey": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Grassy Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 5
+      },
+      "notes": "Rate changes based on time of day: 5% Morning, 15% Day, 10% Evening, 20% Night"
+    }
+  ],
+  "365-thwackey": [],
+  "366-rillaboom": [],
+  "367-scorbunny": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Mountain Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 5
+      },
+      "notes": "Rate changes based on time of day: 5% Morning, 20% Day, 15% Evening, 10% Night"
+    }
+  ],
+  "368-raboot": [],
+  "369-cinderace": [],
+  "370-sobble": [
+    {
+      "id": 1,
+      "name": "Professor's Conservatory (Puddle Area)",
+      "grass": {
+        "levels": [5, 5],
+        "rate": 5
+      },
+      "notes": "Rate changes based on time of day: 5% Morning, 15% Day, 10% Evening, 20% Night"
+    }
+  ],
+  "371-drizzile": [],
+  "372-inteleon": [],
+  "373-cosmog": [
+    {
+      "id": 1,
+      "name": "Altar of Eclipse",
+      "grass": {
+        "levels": [70, 70],
+        "rate": 100
+      },
+      "notes": "Ultra Wormhole during postgame Ultra Episode"
+    }
+  ],
+  "374-cosmoem": [],
+  "375-solgaleo": [],
+  "376-lunala": [],
+  "377-nihilego": [
+    {
+      "id": 1,
+      "name": "Seppire Cove Interior",
+      "static": {
+        "levels": [75, 75],
+        "rate": 100
+      },
+      "notes": "Ultra Wormhole during postgame Ultra Episode"
+    }
+  ],
+  "378-buzzwole": [
+    {
+      "id": 1,
+      "name": "Mimmett Jungle",
+      "static": {
+        "levels": [75, 75],
+        "rate": 100
+      },
+      "notes": "Ultra Wormhole during postgame Ultra Episode"
+    }
+  ],
+  "379-pheromosa": [
+    {
+      "id": 1,
+      "name": "Rubarr Desert",
+      "static": {
+        "levels": [75, 75],
+        "rate": 100
+      },
+      "notes": "Ultra Wormhole during postgame Ultra Episode"
+    }
+  ],
+  "380-xurkitree": [
+    {
+      "id": 1,
+      "name": "Daimyn City Factory Interior",
+      "static": {
+        "levels": [75, 75],
+        "rate": 100
+      },
+      "notes": "Ultra Wormhole during postgame Ultra Episode"
+    }
+  ],
+  "381-celesteela": [
+    {
+      "id": 1,
+      "name": "Carnelidge Volcano Exterior",
+      "static": {
+        "levels": [75, 75],
+        "rate": 100
+      },
+      "notes": "Ultra Wormhole during postgame Ultra Episode"
+    }
+  ],
+  "382-kartana": [
+    {
+      "id": 1,
+      "name": "Varisi Forest",
+      "static": {
+        "levels": [75, 75],
+        "rate": 100
+      },
+      "notes": "Ultra Wormhole during postgame Ultra Episode"
+    }
+  ],
+  "383-guzzlord": [
+    {
+      "id": 1,
+      "name": "Pluto HQ",
+      "static": {
+        "levels": [75, 75],
+        "rate": 100
+      },
+      "notes": "Ultra Wormhole during postgame Ultra Episode"
+    }
+  ],
+  "384-necrozma": [
+    {
+      "id": 1,
+      "name": "Dias of Light",
+      "static": {
+        "levels": [80, 80],
+        "rate": 100
+      },
+      "notes": "Appears as Dusk Mane or Dawn Wings form based on evolved Cosmog (Lunala and Solgaleo respectively)"
+    }
+  ],
+  "385-poipole": [
+    {
+      "id": 1,
+      "name": "Eclipse Village",
+      "static": {
+        "levels": [60, 60],
+        "rate": 100
+      },
+      "notes": "Gift when 150+ Pokemon have been registered in the Pokedex"
+    }
+  ],
+  "386-naganadel": [],
+  "387-stakataka": {
+      "id": 1,
+      "name": "Uteyan Ruins Exterior",
+      "static": {
+        "levels": [75, 75],
+        "rate": 100
+      },
+      "notes": "Ultra Wormhole during postgame Ultra Episode"
+    },
+  "388-blacephalon": [
+    {
+      "id": 1,
+      "name": "Forgotten Manse Interior",
+      "static": {
+        "levels": [75, 75],
+        "rate": 100
+      },
+      "notes": "Ultra Wormhole during postgame Ultra Episode"
+    }
+  ],
+  "389-type-null": [
+    {
+      "id": 1,
+      "name": "Daimyn City",
+      "static": {
+        "levels": [75, 75],
+        "rate": 100
+      },
+      "notes": "Static gift during postgame Ultra Episode"
+    }
+  ],
+  "390-silvally": []
+}

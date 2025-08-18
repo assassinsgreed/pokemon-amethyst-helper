@@ -12,6 +12,8 @@ const STAT_LABELS = [
 ];
 
 export default function PokedexBaseStatsDetails({ baseStats }: { baseStats: number[] }) {
+    const baseStatsTotal = baseStats.reduce((a, b) => a + b, 0);
+
     return (
         <div className="flex flex-col">
             <h3 className="mr-1.5">Base Stats:</h3>
@@ -32,6 +34,7 @@ export default function PokedexBaseStatsDetails({ baseStats }: { baseStats: numb
                                         className="pokedex-stat-bar"
                                         style={{
                                             width: `${baseStats[idx] / 2}%`,
+                                            maxWidth: 300,
                                             backgroundColor: computeStatsBarColour(baseStats[idx]),
                                         }}
                                     ></div>
@@ -40,8 +43,16 @@ export default function PokedexBaseStatsDetails({ baseStats }: { baseStats: numb
                         ))}
                         <TableRow key="Total">
                             <TableCell className="text-right w-26">Total</TableCell>
-                            <TableCell className="text-right w-6">{baseStats.reduce((a, b) => a + b, 0)}</TableCell>
-                            <TableCell> </TableCell>
+                            <TableCell className="text-right w-6">{baseStatsTotal}</TableCell>
+                            <TableCell>
+                                <div
+                                    className="pokedex-stat-bar"
+                                    style={{
+                                        width: `${baseStatsTotal / 12}%`,
+                                        backgroundColor: computeTotalBSTBarColor(baseStatsTotal),
+                                    }}
+                                ></div>
+                            </TableCell>
                         </TableRow>
                     </>
                 </TableBody>
@@ -56,5 +67,14 @@ function computeStatsBarColour(stat: number): string {
     if (stat <= 89) return "#ffff00"; // Yellow for medium stats
     if (stat <= 119) return "#00ff00"; // Green for medium-high stats
     if (stat <= 149) return "#00ffff"; // Cyan for high stats
+    return "#0074cc"; // Blue for very high stats
+}
+
+function computeTotalBSTBarColor(total: number): string {
+    if (total <= 250) return "#ff0000"; // Red for low stats
+    if (total <= 350) return "#ff8000"; // Orange for medium-low stats
+    if (total <= 450) return "#ffff00"; // Yellow for medium stats
+    if (total <= 550) return "#00ff00"; // Green for medium-high stats
+    if (total <= 600) return "#00ffff"; // Cyan for high stats
     return "#0074cc"; // Blue for very high stats
 }
