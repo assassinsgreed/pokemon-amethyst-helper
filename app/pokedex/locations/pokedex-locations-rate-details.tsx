@@ -1,7 +1,7 @@
 import { Location } from "../../../types/location";
 
 export default function PokedexLocationsRateDetails({ location }: { location: Location}) {
-    let config = [
+    const config = [
         {data: location.grass},
         {data: location.rocks},
         {data: location.water},
@@ -16,7 +16,7 @@ export default function PokedexLocationsRateDetails({ location }: { location: Lo
         <div className="flex flex-col items-center gap-2">
             {config.map((item) =>
             !!item.data && (
-                <span className="text-right w-full block">{item.data.rate}%</span>
+                <span key="item.data" className="text-right w-full block">{item.data.rate}%</span>
             )
             )}
         </div>

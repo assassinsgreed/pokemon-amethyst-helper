@@ -3,7 +3,7 @@ import { Location } from "../../../types/location";
 import Image from "next/image";
 
 export default function PokedexLocationsTypeDetails({ location }: { location: Location}) {
-    let config = [
+    const config = [
         {where: location.grass, img: `/locations/Grass.png`, desc: "tall grass"},
         {where: location.rocks, img: `/locations/Rocks.png`, desc: "breakable rocks"},
         {where: location.water, img: `/locations/Water.png`, desc: "water while surfing"},

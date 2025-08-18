@@ -1,7 +1,7 @@
 import { Location } from "../../../types/location";
 
 export default function PokedexLocationsLevelsDetails({ location }: { location: Location}) {
-    let config = [
+    const config = [
         {data: location.grass},
         {data: location.rocks},
         {data: location.water},
@@ -16,7 +16,7 @@ export default function PokedexLocationsLevelsDetails({ location }: { location: 
         <div className="flex flex-col items-center gap-2">
             {config.map((item) =>
             !!item.data && (
-                <span className="text-right w-full block">{item.data.levels[0]} - {item.data.levels[1]}</span>
+                <span key="item.data" className="text-right w-full block">{item.data.levels[0]} - {item.data.levels[1]}</span>
             )
             )}
         </div>

@@ -2,7 +2,7 @@ import { Tooltip } from "@heroui/react";
 import Image from "next/image";
 
 export default function PokedexLocationsDNSDetails({ isDayOnly, isNightOnly}: { isDayOnly: boolean | undefined, isNightOnly: boolean | undefined}) {
-    let config = [
+    const config = [
         {when: !!isNightOnly == false, times: "4AM and 5PM", img: `/locations/DNSDay.png`},
         {when: !!isDayOnly == false, times: "5PM and 4AM", img: `locations/DNSNight.png`}
     ];
