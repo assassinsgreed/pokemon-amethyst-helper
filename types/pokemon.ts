@@ -1,3 +1,4 @@
+import { Location } from "./location";
 export interface Pokemon {
     // Presentation
     icon_url: string; // Programmatically constructed based on form (eg. "001" for Bulbasaur, or "026_01" for Alolan Raichu)
@@ -5,6 +6,7 @@ export interface Pokemon {
     type_colours: string[]; // CSS variables for type colours (eg. ["var(--type_grass)", "var(--type_electric)"])
 
     // Data
+    id: string; // The ID of the pokemon in the format {kulure_pokedex_number}-{name} (normalized)
     national_pokedex_number: number;
     kulure_pokedex_number: number;
     name: string;
@@ -20,4 +22,5 @@ export interface Pokemon {
     friendship: number;
     growth_rate: string;
     egg_groups: string[]; // 1-2 entry array
+    locations: Location[];
 }
