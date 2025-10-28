@@ -16,7 +16,11 @@ export default function PokedexLocationsLevelsDetails({ location }: { location: 
         <div className="flex flex-col items-center gap-2">
             {config.map((item) =>
             !!item.data && (
-                <span key="item.data" className="text-right w-full block">{item.data.levels[0]} - {item.data.levels[1]}</span>
+                <span key={item.data.levels.join('-')} className="text-right w-full block">
+                    {item.data.levels[0] === item.data.levels[1]
+                        ? item.data.levels[0]
+                        : `${item.data.levels[0]} - ${item.data.levels[1]}`}
+                </span>
             )
             )}
         </div>

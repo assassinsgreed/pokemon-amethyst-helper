@@ -29,7 +29,7 @@ export default function PokedexLocationsBody({ pokemon }: { pokemon: Pokemon }) 
                         <TableCell>
                             <PokedexLocationsTypeDetails location={location} />
                         </TableCell>
-                        <TableCell>
+                        <TableCell width={100}>
                             <PokedexLocationsLevelsDetails location={location} />
                         </TableCell>
                         <TableCell>
